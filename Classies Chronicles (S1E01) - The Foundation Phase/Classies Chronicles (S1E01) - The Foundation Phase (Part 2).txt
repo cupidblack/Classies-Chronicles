@@ -1,0 +1,381 @@
+Unified Production & Moderation Playbook 
+
+(For a 20–30 minute Google Meet → 4-minute cinematic edit) 
+
+  
+
+Purpose 
+
+- Convert a 20–30 minute cross-country conversation (Canada, UK, South Africa, Ghana) into a tight ~4-minute episode that introduces tension, contrast, and real-world examples following a calm, structured Part 1. 
+
+- Harvest 6–10 headline-ready soundbites, 2–3 concrete examples, a moment of disagreement, a brief ethical/spiritual reflection (optional), and an unresolved closing question to drive a series arc. 
+
+  
+
+What I did 
+
+- Reviewed and merged duplicate sections across the original text. 
+
+- Consolidated strategy, logistics, scripts, legal/consent wording, technical stack, and editing templates into one single reference document. 
+
+- Kept all practical templates (WhatsApp message, moderator wording, timebox, and editing blueprint) and combined variations into single best-practice versions. 
+
+  
+
+High-level creative strategy 
+
+- Tone: Global, intelligent, slightly tense, curious (not preachy). 
+
+- Emotional arc for the final 4-minute cut: Shock → Tension → Real-world examples → Unease → Reflection. 
+
+- Goal: Leave audience slightly unsettled and curious for Part 3 (adaptation/solutions). 
+
+  
+
+1. Roles & Energy Design (Before the Meet) 
+
+- Assign each panelist an informal perspective so the discussion avoids polite unanimity: 
+
+  - The Optimist: AI creates more jobs than it destroys. 
+
+  - The Skeptic: AI replaces most mid-level roles. 
+
+  - The Practitioner: Already uses AI in real work. 
+
+  - The Worrier: Concerned about youth and informal sector impacts. 
+
+- Send 3 sharp questions in advance (so answers are prepared and editable): 
+
+  1. What job category disappears first in your country because of AI? 
+
+  2. What skill becomes non-negotiable in the next 5 years? 
+
+  3. If advising a 19-year-old today, what would you tell them? 
+
+  
+
+2. Participant Prep Checklist (Send by WhatsApp / Email) 
+
+- Prepare and optionally send before the call: 
+
+  1. One sentence headline (5–15s): “Which job/task disappears first in your country because of AI?” 
+
+  2. One concrete example (30–60s): A real case where AI compressed or replaced work. 
+
+  3. One practical action (15–30s): What listeners should do tomorrow. 
+
+  4. Optional vertical phone clip (10–20s) for promos. 
+
+- Technical checklist: 
+
+  - Join 10–15 minutes early. 
+
+  - Use headphones. 
+
+  - Camera at eye level, face a light source. 
+
+  - Stable internet, quiet room, neutral background. 
+
+- Send the following WhatsApp-ready message (paste & send): 
+
+  Hi [Name] — thank you again for agreeing to join Classies Chronicles — Part 2: “AI & the Future of Employment.” 
+
+  We’ll record a 20–30 minute Google Meet discussion and edit it to a focused ~4-minute segment. Please prepare and send these 48–72 hours before recording: 
+
+  1) One sentence headline (5–15s): “Which job or task disappears first in your country because of AI?” 
+
+  2) One concrete example (30–60s): A real case or sector shift you’ve observed. 
+
+  3) One practical action (15–30s): What should listeners do tomorrow? 
+
+  Optional: A 10–20s portrait phone clip (vertical) for promo use. 
+
+  Tech: Join 10–15 mins early, use Chrome on laptop if possible, wear headphones, camera at eye level, face a light source, simple background. 
+
+  We’ll include a short optional reflective segment referencing Genesis 1:28 and 6:3 as an ethical lens. You can engage or pass. 
+
+  Please reply: “I [Full Name] consent to being recorded and for my edited appearance to be published as part of Classies Chronicles.” 
+
+  Thanks — Elliot 
+
+  
+
+3. Timeboxed Agenda (20–30 min raw; guides the recording) 
+
+- 0:00–0:40 — Host opener + verbal consent on camera 
+
+- 0:40–2:00 — Headline round: each guest delivers 20–25s bold prediction 
+
+- 2:00–7:00 — Concrete examples: 60–90s per guest (push for specificity) 
+
+- 7:00–13:00 — Cross-country comparison & mild friction (call-outs and pushes) 
+
+- 13:00–18:00 — Human skills & adaptation (30–45s each) 
+
+- 18:00–22:00 — Genesis ethical pivot (optional, 30–60s total) 
+
+- 22:00–24:00 — Practical action round (15–20s each) 
+
+- 24:00–30:00 — Buffer, re-takes, optional portrait clips, extras 
+
+  
+
+4. Live Moderation: Host Role & Script (Verbatim + Tips) 
+
+Opening / Consent: 
+
+  “Hello — I’m Elliot. Thank you for joining. We’re recording for Classies Chronicles. When I call your name, please say ‘I consent’ on camera.” 
+
+Headline Prompt: 
+
+  “In one sentence: which job or task will disappear first in your country because of AI?” 
+
+Example Prompt: 
+
+  “Give one concrete example you’ve seen — who, what changed, and the effect?” 
+
+Tension / Challenge Prompts: 
+
+  - “You said AI won’t replace creative roles. Isn’t that already happening?” 
+
+  - “If entry-level roles disappear, where will young people begin?” 
+
+Genesis Pivot (Optional & Non-Dogmatic): 
+
+  “I’ll introduce a reflective lens. Genesis 1:28 speaks about stewardship and Genesis 6:3 cautions human limitation. Do you see a spiritual or ethical dimension to AI — or would you prefer to pass? Feel free to pass.” 
+
+Closing: 
+
+  “Thank you — please confirm in chat that we may use your edited contribution. Optional: send a 10–20s promo clip after the call.” 
+
+  
+
+Moderation energy rules: 
+
+- Interrupt gently if someone goes long: “Give me the 15-second version.” 
+
+- Call people by name to increase tension and focus. 
+
+- Use short follow-ups: “Shorten that.” “Do you disagree?” “One sentence if possible.” 
+
+- Ask for specifics: company name, role, exact effect — vague statements edit poorly. 
+
+  
+
+5. Structure for the Raw Call (For Editors / Live Producer) 
+
+Use a 4-block approach (for harvesting soundbites): 
+
+- Block 1 (3–4 min): Shock Question — quick, punchy predictions. 
+
+- Block 2 (5–6 min): Real Examples — push for concrete details. 
+
+- Block 3 (5–6 min): Disagreement — intentionally pick a bold claim and challenge it. 
+
+- Block 4 (3–4 min): Human Question — dignity, identity, what happens to middle management? 
+
+  
+
+6. Recording Strategy & Tools (Redundancy = safety) 
+
+Preferred: 
+
+- Riverside.fm (primary): separate local tracks, highest quality. 
+
+Backup stack (if Riverside not used): 
+
+- Primary: Google Meet native recording (host) → Drive 
+
+- Backup: OBS Studio screen + audio local capture 
+
+- Transcription: Sider or Otter.ai (or Descript for post-edit) 
+
+- Optional extras: Ask participants to record local phone voice memos of their prepared lines. 
+
+Best practices: 
+
+- Record at 1080p; capture system audio + mic; record separate tracks where possible. 
+
+- Never rely on one recording source. 
+
+  
+
+7. Google Meet View & Camera Guidance 
+
+- Default: Tiled (shows all participants; feels democratic). 
+
+- Spotlight briefly for strong lines (10–20s) to create cinematic emphasis. 
+
+- Avoid: Auto (unpredictable) and Sidebar-only. 
+
+- Camera checklist for participants: 
+
+  - Eye-level camera, face a light source, headphones, quiet room, neutral background, solid-colored clothing. 
+
+  
+
+8. Visual & Production Techniques (Post) 
+
+- Opening montage: each participant says a bold sentence (4 × 5–7s). 
+
+- Use lower-thirds: Name + City/Country (“Accra, Ghana”). 
+
+- Cut to reaction faces for controversial statements. 
+
+- Use subtle zoom-ins on emphasis. 
+
+- Add subtitles for bold quotes and social verticals. 
+
+- Light background instrumental bed (very subtle) — optional. 
+
+- Fast cuts: no one speaks longer than 20–25s without a cut in the final edit. 
+
+  
+
+9. Editing Strategy (20–30 min → 4:00) 
+
+Macro editing arc (timings for 4:00 final): 
+
+- 0:00–0:20 — Shock/Hook montage (4 strong lines), lower-thirds 
+
+- 0:20–1:20 — Cross-country predictions & concrete examples 
+
+- 1:20–2:30 — Real-world examples & specifics 
+
+- 2:30–3:20 — Disagreement / tension moment 
+
+- 3:20–3:50 — Short philosophical/spiritual reflection (Genesis pivot) — optional 
+
+- 3:50–4:00 — End on unresolved question and a beat of silence 
+
+Editing rules: 
+
+- Cut ruthlessly: remove long intros, “can you hear me?”, repeated agreement, hesitation. 
+
+- Keep bold statements, emotional reactions, contradictions, and clear predictions. 
+
+- Pacing: aim for cuts every 6–12 seconds in the final cut; no >25s continuous speaking. 
+
+- Audio: normalize, mild compression, gentle EQ; subtitles for accessibility. 
+
+- Create vertical/shorts cuts for promos. 
+
+  
+
+10. Spiritual / Genesis Pivot — Wording & Caution 
+
+- Do not assert theological claims. Frame the pivot as reflective: 
+
+  Suggested phrasing for live use: 
+
+  “Let me introduce a reflective lens. Genesis 1:28 speaks of humans ‘subduing the earth,’ which some read as stewardship; Genesis 6:3 reminds us of human limitation. Do you see a moral or spiritual dimension to AI — or prefer to pass? Please feel free to pass.” 
+
+- Keep this segment optional, brief (30–60s raw; 20–30s in final cut), and non-dogmatic. 
+
+- Avoid conspiratorial language or claims that AI originates from a spiritual realm. 
+
+  
+
+11. Legal & Administrative (Consent, Payments, Release) 
+
+- Two-layer consent: Written WhatsApp confirmation + verbal on-camera consent at start. 
+
+  - WhatsApp consent template: 
+
+    “I [Full Name] consent to being recorded and for my edited appearance to be published as part of Classies Chronicles.” 
+
+- Recommended: simple Google Form as release (name, email, country, consent checkbox, typed name). 
+
+- Compensation options (choose & confirm before recording): 
+
+  - Honorarium (small fixed token after publication) — recommended. 
+
+  - Exposure/credit (only if agreed explicitly). 
+
+  - Avoid revenue share without legal documentation. 
+
+- Keep all consent screenshots and form responses stored with the project files. 
+
+  
+
+12. Production & Distribution Checklist (Quick) 
+
+Before session: 
+
+- Confirm participants, collect prepared lines, secure consents, confirm payment/compensation. 
+
+- Check recording stack and backups; test audio/video. 
+
+- Share the WhatsApp guide + technical checklist. 
+
+During session: 
+
+- Stick to timeboxes, harvest soundbites, call for one-sentence restatements. 
+
+- Record verbal consent on camera at start. 
+
+After session: 
+
+- Upload raw files, label tracks, collect transcripts, store consents. 
+
+- Editor runs rough cut following the 4:00 structure, then producer reviews. 
+
+  
+
+13. Moderator One-Page Cheat Sheet (Keep beside your screen) 
+
+- Opening (on-camera): “I’m Elliot. When I call your name, say ‘I consent.’ Quick reminder: keep answers tight — 45–60s max; short headlines are gold.” 
+
+- First prompt (headline): “In one sentence — what job disappears first in your country because of AI?” 
+
+- Example prompt: “Give one concrete example — what role, what changed, which company/sector?” 
+
+- Tension prompt (pick a claim): “You said X — isn’t that already happening? Who disagrees?” 
+
+- Genesis bridge: “Is there an ethical/spiritual question here? Feel free to pass.” 
+
+- Close: “Thanks. Please confirm in chat you consent to this edited clip. Can you send a 10–20s promo clip?” 
+
+- Time cues: move everyone along after 60s for keynote answers; after 90s cut and move forward. 
+
+  
+
+14. Ready-to-Read Scripts 
+
+30-second opening (read on camera): 
+
+  “We’re recording Classies Chronicles Part 2: ‘AI & the Future of Employment.’ Four countries, one question: which jobs are actually at risk? We’ll keep answers short so we can compare realities across Canada, the UK, South Africa and Ghana. When I call your name, please say ‘I consent’ on camera. Let’s start with one sentence: which job disappears first in your country because of AI?” 
+
+15-second closing line: 
+
+  “In Part 1 we built a structure; today we’ve felt the friction. If one person with AI can do what a team used to do — what happens next? That’s where we’ll pick up in Part 3.” 
+
+  
+
+15. Optional Advanced Move (High-Value Question) 
+
+- Mid-call ask: “If AI can coordinate 20 roles from one laptop, what happens to middle management?” — this often creates a viral clip and ties to Koware’s operational model subtly. 
+
+  
+
+16. Deliverables I can produce next (pick one or more) 
+
+- One-page printable moderator cheat sheet (PDF). 
+
+- Exact 4-minute edit-by-beat script (time-stamped lines to assemble). 
+
+- Polished Genesis pivot phrasing for broadcast with alternatives for different audiences. 
+
+- A 30-second teaser trailer script plus suggested on-screen text and edit points. 
+
+- WhatsApp consent + Google Form release template ready to paste. 
+
+  
+
+What's next 
+
+- Tell me which deliverable above you want first (cheat sheet PDF, 4-minute edit script, teaser script, or release form). I’ll produce it immediately and can tailor follow-ups (e.g., a complete edit notes file with timestamps and suggested cuts) if you share the recording later. 
+
+  
+
+End of unified playbook. 
