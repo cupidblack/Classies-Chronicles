@@ -1,0 +1,26 @@
+{
+  "episode_id": "S00E01",
+  "context_version": "0.2.0",
+  "lifecycle_status": "story_development",
+  "completeness": {
+    "metadata": "draft",
+    "bible": "pending_verification",
+    "health_safety": "complete_for_foundation_episode",
+    "continuity": "working",
+    "headlines": "candidate_selection",
+    "research": "incomplete",
+    "story_notes": "complete_working_draft",
+    "participants": "pending",
+    "consent": "pending",
+    "licensing": "pending",
+    "chronicle": "not_started",
+    "trailer": "not_started",
+    "transcript": "pending"
+  },
+  "gates": {
+    "chronicle_approval_required_before_recording": true,
+    "producer_approval_required_for_new_canon": true,
+    "real_news_verification_required": true,
+    "consent_required_for_member_story_use": true
+  }
+}

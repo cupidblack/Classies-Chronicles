@@ -1,0 +1,31 @@
+{
+  "episode_id": "S00E01",
+  "status": "candidate_selection",
+  "editorial_rule": "Use real, current, verified headlines. Never fabricate a news source or URL.",
+  "headlines": [],
+  "required_fields": [
+    "headline_id",
+    "title",
+    "summary",
+    "category",
+    "publisher",
+    "source_url",
+    "publication_datetime",
+    "retrieved_datetime",
+    "factual_status",
+    "episode_relevance",
+    "fictional_connection_angle",
+    "status"
+  ],
+  "fictional_connection_angles": [
+    "CUPID_HELPED",
+    "CUPID_CAUSED",
+    "CUPID_MISUNDERSTOOD"
+  ],
+  "status_values": [
+    "candidate",
+    "approved",
+    "rejected",
+    "expanded"
+  ]
+}

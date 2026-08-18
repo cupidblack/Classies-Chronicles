@@ -1,0 +1,18 @@
+{
+  "episode_id": "S00E01",
+  "season_id": "S00",
+  "episode_number": "E01",
+  "season_title": "The Foundation Phase",
+  "episode_title": "Foundations & Frequencies",
+  "chronicle_title": "The Signal Before the Story",
+  "producer": "Elliot",
+  "hosts": [],
+  "ai_role": "CO_HOST",
+  "ai_mode_initial": "LISTEN",
+  "ai_mode_target": "CO_HOST",
+  "chronicle_target_seconds": 200,
+  "trailer_target_seconds": 20,
+  "podcast_target_minutes": "35-45",
+  "retrieval_scope_default": "CURRENT_EPISODE",
+  "status": "DRAFT"
+}
