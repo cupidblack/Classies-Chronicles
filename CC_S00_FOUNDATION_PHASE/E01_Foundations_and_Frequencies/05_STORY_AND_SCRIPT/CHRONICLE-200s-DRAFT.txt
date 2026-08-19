@@ -1,42 +1,54 @@
 TITLE: Chronicles of Cupid Black — The Signal Before the Story
 
-[NARRATOR]
+[0:00–0:18 — ARCHIVE HUM / NARRATOR]
 
-It began like many school mysteries do: with a missing answer, a strange rumour, and somebody insisting that nothing unusual had happened.
+Some stories begin with a person.
 
-Cupid Enka was at Blue Crown, trying to finish his studies, keep his relationships from becoming a full-time occupation, and understand why his own brain sometimes seemed to be several pages ahead of him.
+Others begin with a question.
+
+This one may have begun with a signal hiding inside an old school record.
+
+[0:18–0:48 — BLUE CROWN, 2000]
+
+Cupid Enka was trying to finish his studies, keep his relationships from becoming a full-time occupation, and understand why his own mind sometimes seemed to be several pages ahead of him.
 
 Some days, answers arrived before he remembered studying them.
 
-Other days, a familiar subject became a blank wall.
+Other days, familiar subjects became blank walls.
 
 Then came the records.
 
-A module was missing.
+A missing module.
 
-The administration said he had not completed it.
+A result that did not seem to match his memory.
 
-Enka disagreed.
+And a question nobody seemed interested in answering.
 
-And somewhere between the missing paper and the missing explanation, another pattern appeared.
+[0:48–1:15 — RF INVESTIGATION]
+
+Enka noticed something else.
 
 A hum.
 
 A strange signal.
 
-Towers that were supposedly for communications.
+Towers that were supposed to be ordinary communications equipment.
 
 Frequencies that did not behave like ordinary school equipment.
 
-So Enka did what any sensible electronics enthusiast would do.
+So he did what any sensible electronics enthusiast would do.
 
 He built an RF scanner.
 
-Which, naturally, was the moment sensible behaviour left the building.
+Which was, naturally, when sensible behaviour left the building.
 
-[LIGHT COMEDIC BEAT]
+[1:15–1:32 — SLAPSTICK]
 
-He followed the signal, watched the meter climb, took one more step backward—
+He followed the signal.
+
+The meter climbed.
+
+Enka stepped backward without looking.
 
 BANG.
 
@@ -48,9 +60,11 @@ RF scanner: still working.
 
 Enka: considerably less impressed with science.
 
+[1:32–1:55 — THE SIGNAL]
+
 But the signal was real.
 
-At least, something was real.
+Or at least, something was real.
 
 He began keeping records.
 
@@ -60,41 +74,47 @@ Missing time.
 
 Sudden flashes of information.
 
-Moments when a place felt familiar before he had ever been there.
+Places that felt familiar before he had ever seen them.
 
-And then came the question that would follow him for years:
+And the uncomfortable possibility that the experiment was not something he was studying.
 
-Was he discovering the experiment—
+Maybe he was part of it.
 
-or was he the experiment?
+[1:55–2:22 — PERCEPTUAL SPLIT]
 
-[PAUSE]
+Then, one night, the signal changed.
+
+For a fraction of a second, Enka saw two places at once.
+
+One was where he stood.
+
+The other was somewhere he could not explain.
+
+The room seemed to darken at its edges.
+
+He blinked.
+
+The second place vanished.
+
+No proof.
+
+No witness.
+
+Only the feeling that reality had briefly opened a second door.
+
+Enka stared into the darkness.
+
+“I don't even know what is real anymore.”
+
+[2:22–2:55 — ARCHIVE / PRESENT DAY]
 
 The old records tell us that Enka was being observed.
 
 They tell us that his response to the technology was unusual.
 
-They tell us that other students were affected in different ways.
+They tell us that other students were affected differently.
 
-But they do not yet tell us everything.
-
-Because sometimes the most important part of a story is the part the archive does not understand.
-
-One night, Enka looked toward the signal and felt the world shift.
-
-For a fraction of a second, he seemed to occupy two places at once.
-
-One was where he stood.
-
-The other was somewhere else.
-
-He blinked.
-
-The second place disappeared.
-
-He stared into the darkness.
-
-"I don't even know what is real anymore."
+But they do not tell us everything.
 
 Years later, another name would begin to follow him.
 
@@ -102,12 +122,23 @@ Cupid Black.
 
 But that name belongs to a later chapter.
 
-For now, we have a student, a signal, a mystery—
+For now, there is only a student, a signal, a mystery—
 
 and an archive that may have recorded the beginning of something much bigger.
 
-The signal had not disappeared.
+[2:55–3:20 — PRESENT-DAY HOOK]
 
-It had only learned to wait.
+Today, we know that education and technology are moving closer together.
+
+The real world is asking how much capability is useful, how much is responsible, and who should control it.
+
+In our Chronicle, Enka is still asking the same question.
+
+The signal has not disappeared.
+
+It has only learned to wait.
 
 [END]
+
+Production note:
+Timing is approximate. Final narration must be timed against the rendered cut and adjusted without changing canon.

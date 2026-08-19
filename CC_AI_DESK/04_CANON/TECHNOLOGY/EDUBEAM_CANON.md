@@ -2,31 +2,26 @@
 
 **Canon ID:** TECH-EDUBEAM  
 **Status:** WORKING CANON — S00E01 FOUNDATION  
-**Version:** 0.2.0  
-**Last updated:** 2026-08-18
+**Version:** 0.3.0  
+**Last updated:** 2026-08-19
 
 ## 1. Concept
 
 EduBeam is an experimental learning/neurological technology within the Chronicles universe.
 
-The existing Chronicles already establish:
-- suspicious technology around Blue Crown;
-- unusual RF activity;
-- a beam/signal associated with academic and perceptual anomalies;
-- external researchers monitoring Enka;
-- inconsistent effects among students;
-- missing or anomalous academic records;
-- later blackout and environmental anomalies.
+Existing archive material establishes suspicious technology, RF activity, academic/perceptual anomalies and external observation around Blue Crown.
 
 ## 2. Canon Boundary
 
-The exact creator, institutional ownership, engineering design and ultimate purpose of EduBeam remain subject to archive evidence and producer-approved canon.
+The exact creator, institutional ownership, engineering design and ultimate purpose remain subject to archive evidence and producer-approved canon.
 
-Do **not** use an invented creator biography as established fact merely because it makes the story convenient.
+Do not invent a creator biography, organization or scientific explanation merely to close a story gap.
 
-## 3. Targeting Concept
+EduBeam mechanics are fictional story logic, not real-world scientific claims.
 
-The Foundation Phase proposal establishes a future targeting hierarchy:
+## 3. Targeting Hierarchy
+
+Working Foundation Phase canon:
 
 1. active network/location signal;
 2. recent network activity;
@@ -34,45 +29,45 @@ The Foundation Phase proposal establishes a future targeting hierarchy:
 4. expected geographic location;
 5. broader-area beam when precise targeting fails.
 
-This is **new working canon** and should be marked as such until integrated into an approved Chronicle.
+This remains PROPOSED_NEW_CANON until an approved Chronicle establishes it.
 
-## 4. Brainwave / Cognitive Targeting
+## 4. Cognitive Targeting
 
-The producer's story concept proposes that EduBeam can recognize a characteristic brainwave pattern associated with Enka and use it to improve targeting.
+The story proposes that EduBeam can recognize a characteristic brainwave pattern associated with Enka and use that information to improve targeting.
 
-This is fictional technology and should be treated as story logic, not real-world scientific fact.
+This is fictional technology.
 
 ## 5. Intensity Classes
 
-### Routine / random scan
-Lower intensity. May cause subtle or temporary effects.
+### Routine/random scan
+Low-intensity scan that may create subtle or temporary effects.
 
 ### Processing-cycle event
-A stronger event associated with major processing periods, including the producer's proposed January and mid-year windows.
+A stronger event associated with major processing periods, including the proposed January and mid-year windows.
 
 ### Precision lock
-A highly concentrated event directed at Enka's expected/current location.
+A highly concentrated event directed at Enka's current or expected location.
 
-The exact numerical intensity percentages are not fixed canon yet.
+Do not hard-code numerical intensity percentages as canon until an approved story establishes them.
 
 ## 6. Precision Failure
 
 When precise location is unavailable, EduBeam may affect a broader area.
 
-Possible narrative consequences:
-- different people experience different perceptual effects;
-- witnesses report shadows or unexplained movement;
-- unusual dreams or memory effects occur;
-- local news reports strange incidents;
-- later Chronicle investigation reveals a possible connection.
+Possible fictional consequences:
 
-Do not use the fictional mechanism to explain real-world missing-person cases or real-world tragedies.
+- different perceptual effects among people;
+- witnesses reporting shadows or unexplained movement;
+- unusual dreams or memory effects;
+- local fictional news reports;
+- later Chronicle investigation revealing a possible connection.
+
+Never use this fictional mechanism to explain real-world missing persons, deaths or tragedies.
 
 ## 7. Effect Model
 
-EduBeam is not a guaranteed superpower machine.
-
 Possible effects include:
+
 - enhanced recall;
 - perceptual distortion;
 - dual-location sensation;
@@ -83,36 +78,30 @@ Possible effects include:
 - phasing;
 - unusual awareness.
 
-The effect depends on the event and Enka's condition.
+Effects vary by event and Enka's condition.
 
-## 8. Key Narrative Rule
+## 8. Central Narrative Rule
 
-EduBeam can produce more power than Enka can safely control.
+**EduBeam: high power / low control**  
+**Awareness practice: lower power / higher control**
 
-This creates the recurring contrast:
-
-**EduBeam:** high power / low control  
-**Awareness practice:** lower power / higher control
+This contrast drives Enka's long-term development.
 
 ## 9. Historical Relationship to Enka
 
-The 2000 archive should be treated as the earliest documented stage of the mystery:
-- Enka notices unusual signals;
-- his academic/perceptual experiences become abnormal;
-- he investigates;
-- external actors appear to know more than he does.
+The 2000 archive should remain the earliest documented stage of the mystery.
 
-The later superhero interpretation should emerge progressively rather than being inserted into every historical scene.
+The later superhero interpretation must emerge progressively rather than being retroactively inserted into every historical scene.
 
 ## 10. Open Questions
 
-- Who ultimately controls EduBeam?
+- Who controls EduBeam?
 - What is its true institutional purpose?
 - Why is Enka unusually affected?
-- Does the system intentionally target him?
+- Is Enka intentionally targeted?
 - Is the targeting algorithm defective, adaptive or experimental?
-- What causes the materialization effect?
+- What causes materialization?
 - Can the effect be reproduced safely?
-- What is the relationship between EduBeam and Enka's controlled awareness state?
+- Why does controlled awareness resemble an EduBeam effect?
 
-These questions are story engines, not gaps that the AI should automatically fill.
+These are story engines. The AI must not fill them automatically.

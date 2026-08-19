@@ -1,26 +1,32 @@
 {
   "episode_id": "S00E01",
-  "context_version": "0.2.0",
+  "context_version": "0.3.0",
   "lifecycle_status": "story_development",
   "completeness": {
-    "metadata": "draft",
-    "bible": "pending_verification",
-    "health_safety": "complete_for_foundation_episode",
-    "continuity": "working",
-    "headlines": "candidate_selection",
-    "research": "incomplete",
-    "story_notes": "complete_working_draft",
+    "metadata": "complete_working",
+    "bible": "complete",
+    "course_reference": "complete_for_foundation_episode",
+    "continuity": "working_reviewed",
+    "headlines": "approved_candidate",
+    "research": "current_news_pending_editorial_lock",
+    "story_notes": "complete_working",
     "participants": "pending",
     "consent": "pending",
     "licensing": "pending",
-    "chronicle": "not_started",
+    "chronicle": "draft_pending_producer_approval",
     "trailer": "not_started",
-    "transcript": "pending"
+    "podcast_discussion": "draft",
+    "transcript": "pending",
+    "post_episode_analysis": "pending"
   },
   "gates": {
     "chronicle_approval_required_before_recording": true,
+    "trailer_must_derive_from_approved_chronicle": true,
     "producer_approval_required_for_new_canon": true,
     "real_news_verification_required": true,
-    "consent_required_for_member_story_use": true
+    "fiction_must_be_distinguished_from_real_news": true,
+    "consent_required_for_member_story_use": true,
+    "licensing_required_for_commercial_distribution": true,
+    "episode_retrieval_requires_validation_pass": true
   }
 }

@@ -10,9 +10,16 @@
   "ai_role": "CO_HOST",
   "ai_mode_initial": "LISTEN",
   "ai_mode_target": "CO_HOST",
+  "retrieval_scope_default": "CURRENT_EPISODE",
+  "retrieval_scope_allowed": [
+    "CURRENT_EPISODE",
+    "CURRENT_SEASON",
+    "ALL_APPROVED_EPISODES",
+    "GLOBAL_CHRONICLES"
+  ],
   "chronicle_target_seconds": 200,
   "trailer_target_seconds": 20,
   "podcast_target_minutes": "35-45",
-  "retrieval_scope_default": "CURRENT_EPISODE",
+  "generation_contract": "CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v3.0.md",
   "status": "DRAFT"
 }

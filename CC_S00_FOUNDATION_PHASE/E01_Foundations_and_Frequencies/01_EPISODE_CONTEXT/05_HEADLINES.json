@@ -1,31 +1,26 @@
 {
   "episode_id": "S00E01",
-  "status": "candidate_selection",
+  "status": "approved_candidate",
   "editorial_rule": "Use real, current, verified headlines. Never fabricate a news source or URL.",
-  "headlines": [],
-  "required_fields": [
-    "headline_id",
-    "title",
-    "summary",
-    "category",
-    "publisher",
-    "source_url",
-    "publication_datetime",
-    "retrieved_datetime",
-    "factual_status",
-    "episode_relevance",
-    "fictional_connection_angle",
-    "status"
+  "headlines": [
+    {
+      "headline_id": "H2026-GH-AI-001",
+      "title": "Ghana rolls out AI and programming courses for basic education curriculum",
+      "summary": "A current Ghana education/technology development reports the rollout of AI and programming courses within basic education, providing a real-world bridge to the episode's discussion about education, technology, capability and responsible use.",
+      "category": "education/technology",
+      "publisher": "Reuters Connect",
+      "source_url": "https://www.reutersconnect.com/item/ghana-ghana-rolls-out-ai-programming-courses-for-basic-education-curriculum/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExNzcxOTQ",
+      "publication_datetime": "2026-08-15",
+      "retrieved_datetime": "2026-08-19",
+      "factual_status": "verified_candidate",
+      "episode_relevance": "Directly connects the real-world introduction of AI/programming education in Ghana with the Foundation Phase discussion of education, technology and responsibility.",
+      "fictional_connection_angle": "CUPID_MISUNDERSTOOD",
+      "status": "approved"
+    }
   ],
   "fictional_connection_angles": [
     "CUPID_HELPED",
     "CUPID_CAUSED",
     "CUPID_MISUNDERSTOOD"
-  ],
-  "status_values": [
-    "candidate",
-    "approved",
-    "rejected",
-    "expanded"
   ]
 }

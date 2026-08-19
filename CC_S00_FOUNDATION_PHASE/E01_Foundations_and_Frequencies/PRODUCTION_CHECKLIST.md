@@ -1,13 +1,13 @@
-# S00E01 Production Checklist
+# S00E01 — Production Checklist v0.3
 
 ## A. Episode Context
 
 - [ ] Stable episode ID created.
-- [ ] Metadata created.
-- [ ] Bible reference verified.
-- [ ] Health & Safety reference verified.
+- [ ] Metadata complete.
+- [ ] Bible passage verified.
+- [ ] Course reference verified.
 - [ ] Continuity references reviewed.
-- [ ] Real headlines selected and verified.
+- [ ] Real headline(s) verified and approved.
 - [ ] Story Notes approved for generation.
 - [ ] Consent requirements identified.
 - [ ] Licensing requirements identified.
@@ -15,22 +15,27 @@
 ## B. Chronicle
 
 - [ ] Narrative draft generated.
+- [ ] Source provenance captured.
 - [ ] Producer continuity review completed.
 - [ ] New canon candidates marked.
 - [ ] Script approved.
 - [ ] Storyboard prepared.
-- [ ] Visual assets created or sourced.
-- [ ] Audio/SFX created or sourced.
+- [ ] Visual assets created/sourced.
+- [ ] Audio/SFX created/sourced.
 - [ ] Approximately 200-second Chronicle rendered.
 - [ ] Chronicle QA passed.
+- [ ] Producer approved Chronicle.
 - [ ] 20-second trailer derived from approved Chronicle.
+- [ ] Trailer QA passed.
 
 ## C. AI Desk Commissioning
 
-- [ ] Persistent `CC_AI_DESK` exists.
+- [ ] Persistent CC_AI_DESK exists.
 - [ ] Current episode can be selected.
 - [ ] CURRENT_EPISODE retrieval works.
-- [ ] Previous-episode retrieval works.
+- [ ] CURRENT_SEASON retrieval works.
+- [ ] Previous approved episode retrieval works.
+- [ ] GLOBAL_CHRONICLES retrieval is producer-controlled.
 - [ ] Source references are returned.
 - [ ] Permission filtering works.
 - [ ] LISTEN mode is silent.
@@ -38,6 +43,7 @@
 - [ ] CO-HOST mode works.
 - [ ] AI MUTE works independently.
 - [ ] Missing source produces uncertainty rather than invention.
+- [ ] Retrieval/index version is recorded.
 
 ## D. Studio
 
@@ -53,9 +59,9 @@
 - [ ] No dropped frames.
 - [ ] CPU/RAM acceptable.
 
-## E. Recording
+## E. Recording Gate
 
-- [ ] Chronicle approved before final podcast recording.
+- [ ] Chronicle approved before final programme recording.
 - [ ] Trailer approved.
 - [ ] Discussion questions prepared.
 - [ ] Community/crowdfunding CTA prepared.
@@ -75,10 +81,12 @@
 - [ ] AI prompts archived.
 - [ ] Post-episode analysis completed.
 
-## G. Archive
+## G. Archive / Retrieval Eligibility
 
 - [ ] Context status updated.
 - [ ] Consent manifest archived.
 - [ ] Licensing manifest archived.
 - [ ] Approved Chronicle indexed.
+- [ ] SHA-256/hash recorded for important text/script outputs.
+- [ ] Episode validation PASS recorded.
 - [ ] Episode becomes retrieval-eligible only after validation PASS.

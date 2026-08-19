@@ -1,0 +1,30 @@
+{
+  "episode_id": "S00E01",
+  "retrieval_contract_version": "0.3.0",
+  "references": [
+    {
+      "reference_id": "R001",
+      "source_class": "CANON",
+      "source_path": "CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md",
+      "scope": "CURRENT_EPISODE",
+      "permission": "approved",
+      "use": "character attributes and power-development boundaries"
+    },
+    {
+      "reference_id": "R002",
+      "source_class": "CANON",
+      "source_path": "CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md",
+      "scope": "CURRENT_EPISODE",
+      "permission": "approved",
+      "use": "fictional technology rules"
+    },
+    {
+      "reference_id": "R003",
+      "source_class": "COURSE",
+      "source_path": "Buzzjuice_Courses/Buzzjuice_Courses-Registration_Orientation.txt",
+      "scope": "CURRENT_EPISODE",
+      "permission": "approved",
+      "use": "Buzzjuice Courses introduction"
+    }
+  ]
+}

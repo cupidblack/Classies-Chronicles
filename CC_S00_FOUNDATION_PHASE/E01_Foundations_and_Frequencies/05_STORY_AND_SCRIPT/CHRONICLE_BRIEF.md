@@ -4,37 +4,54 @@
 
 Approximately 200 seconds.
 
-## Narrative approach
+## Narrative Function
 
-A present-day archive investigation opens a window into Enka's 2000 experiences.
+Commission the Chronicle-first pipeline while introducing the first seed of the long-term Cupid Black mystery.
 
-The story should feel like:
-- investigative narration;
+## Style
+
+- investigative;
 - school-life mystery;
-- light humour;
-- emerging science-fiction;
-- documentary-style discovery.
+- documentary-like narration;
+- warm humour;
+- emerging science fiction;
+- restrained suspense.
 
-## Required continuity
+## Required Continuity
 
-The Chronicle should use the established:
-- missing exam/module anomaly;
-- unusual recall/dream experiences;
-- RF scanner investigation;
-- suspicious tower/signal;
-- feeling of being observed or experimented upon.
+Use only retrieved and approved material concerning:
 
-## New material
+- missing academic/module records;
+- unusual recall/dreams;
+- RF anomalies;
+- suspicious towers/signals;
+- Enka's RF scanner;
+- possible observation/experimentation.
 
-The Foundation Phase may add:
+## New Story Material
+
+Allowed in S00E01:
+
 - a subtle perceptual split;
-- a brief unexplained shadow/displacement moment;
-- a stronger connection between signal and Enka.
+- a brief unexplained visual anomaly;
+- stronger narrative association between Enka and the signal.
 
-Do not fully explain the superpowers yet.
+Not allowed as established history yet:
 
-## Final hook
+- full teleportation;
+- full phasing;
+- dimension travel;
+- drone reproducer;
+- complete Alpha-state mechanics.
 
-The audience should understand that the archive is not merely telling an old school story.
+## Humour
 
-It is documenting the beginning of the Cupid Black mystery.
+One principal physical/comedic beat.
+
+## Ending
+
+A present-day signal suggests the old anomaly may not have been historical noise.
+
+## Trailer Rule
+
+The trailer must be cut from the approved 200-second Chronicle rather than written as an independent story.

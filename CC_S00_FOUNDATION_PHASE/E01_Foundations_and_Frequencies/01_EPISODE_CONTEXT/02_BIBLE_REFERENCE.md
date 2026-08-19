@@ -2,42 +2,26 @@
 
 ## Selection Status
 
-**STATUS:** PENDING PRODUCER VERIFICATION
+**STATUS:** PRODUCER-VERIFIED CANDIDATE
 
-The Bible passage must be selected and verified before Chronicle generation.
+**Selected passage:** Zechariah 4:6  
+**Translation:** KJV  
+**Use on air:** brief reflection only
 
-## Selection Criteria
+> “Not by might, nor by power, but by my spirit, saith the LORD of hosts.”
 
-The passage should support:
-- beginnings;
-- wisdom;
-- discernment;
-- responsible use of knowledge;
-- purpose;
-- uncertainty and trust.
+## Relevance
 
-## Required Fields
+The passage provides a compact thematic bridge between the Foundation Phase and the Chronicle:
 
-- Book:
-- Chapter:
-- Verse(s):
-- Selected key verse:
-- Translation:
-- Source/reference:
-- Why it is relevant:
-- Exact wording to be used on air:
-- Editorial interpretation:
+- power should not be confused with brute force;
+- capability requires purpose and discipline;
+- the pilot introduces technology, education and unusual power without celebrating uncontrolled power.
+
+The passage is a motif, not a sermon.
 
 ## Editorial Rule
 
-The AI Desk must not silently choose, quote or alter a Bible passage.
+The AI Desk must not silently change the selected passage, translation or wording.
 
-The producer supplies or verifies the final passage before it becomes part of the Episode Context.
-
-## Suggested thematic candidates for producer review
-
-- Proverbs 4 — wisdom and discernment
-- James 1:5 — asking for wisdom
-- Zechariah 4:6 — purpose/power beyond human force
-
-These are candidates only, not final episode canon.
+Any change must be recorded in the episode changelog before generation.

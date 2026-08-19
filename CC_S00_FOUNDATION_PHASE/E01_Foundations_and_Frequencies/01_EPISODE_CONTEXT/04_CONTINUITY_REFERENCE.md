@@ -4,50 +4,45 @@
 
 Connect S00E01 to established Chronicles without duplicating the archive.
 
-## CR-001 — Pilot Chapter / Season 1: EduBeam and Academic Anomalies
+## CR-001 — Pilot Chapter / Season 1: Academic and Perceptual Anomalies
 
-**Source:** Classies Chronicles — Pilot Chapter / Season 1 (2000)  
-**Use:** Establishes that Enka experiences abnormal academic/perceptual events and that EduBeam-related activity exists around Blue Crown.
+Use established missing/blank records, unusual recall, dreams, RF anomalies, suspicious towers and the possibility that Enka may be observed.
 
-Key continuity:
-- missing/blank academic records;
-- unexplained recall changes;
-- vivid dreams;
-- RF anomalies;
-- suspicious towers;
-- external researchers;
-- Enka's growing suspicion that he may be part of an experiment.
+**Authority:** ARCHIVAL_RECORD
 
-## CR-002 — Season 1: Enka Investigates the Signal
+## CR-002 — Season 1: RF Investigation
 
-**Source:** Season 1 (2000)  
-**Use:** Establishes Enka's homemade RF scanner and his discovery of unexplained VLF/RF activity.
+Use Enka's investigation with an RF scanner and the discovery of unexplained signal activity.
 
-This is the strongest direct setup for the S00E01 "signal" premise.
+**Authority:** ARCHIVAL_RECORD
 
-## CR-003 — Season 1: Enka as Possible Experimental Subject
+## CR-003 — Season 1: Possible Experimental Subject
 
-**Source:** Season 1 (2000)  
-**Use:** Connects the strange events to external observation and the possibility that Enka's neurological profile is unusual.
+Use only the archive material that supports the idea that external actors may know more than Enka.
 
-## CR-004 — Season 3: Origin of the Cupid Black Name
+**Authority:** ARCHIVAL_RECORD / verify exact retrieval before script lock
 
-**Source:** Season 3 (2001)  
-**Use:** Establishes that "Cupid Black" emerges later from Enka's own creative identity rather than being treated as his permanent 2000 name.
+## CR-004 — Season 3: Cupid Black Name
 
-## CR-005 — Season 5 and Later
+The later identity/name should not be retroactively placed into 2000 dialogue.
 
-Use only after explicit retrieval and producer review.
+It may be referenced by a later narrator/archivist.
 
-Do not infer superhero mechanics merely because later material uses supernatural or science-fiction language.
+**Authority:** ARCHIVAL_RECORD
+
+## CR-005 — Foundation Phase Superhuman Arc
+
+EduBeam targeting, variable-duration surges, partial/full materialization and controlled awareness are new working story material.
+
+**Authority:** PROPOSED_NEW_CANON until producer-approved through an episode.
 
 ## Continuity Rules
 
-1. Earlier archive facts outrank new AI-generated suggestions.
-2. A new episode may add canon only through producer approval.
-3. If two archive sources conflict, preserve both as archival records and mark the conflict.
-4. Never invent a missing event to make continuity smoother.
-5. Record retrieval references for every archive passage actually used.
+1. Earlier archive facts outrank generated suggestions.
+2. Conflicts are preserved as conflicts; the AI must not invent bridges.
+3. Every used archive passage receives a retrieval reference.
+4. Every new canon candidate is explicitly labelled.
+5. The AI must distinguish archival history from Foundation Phase development.
 
 ## Retrieval Reference Format
 

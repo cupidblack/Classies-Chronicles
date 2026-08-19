@@ -10,194 +10,173 @@
 ## 2. Pilot Objective
 
 S00E01 is both:
+
 1. the first Foundation Phase podcast; and
 2. the first commissioning cycle for the Classies Chronicles production system.
 
-It introduces:
-- Koware Group;
-- Buzzjuice Network;
-- Buzzjuice Courses;
-- the Foundation Phase;
-- the Chronicle format;
-- AI participation;
-- community participation;
-- the beginning of the deeper Cupid Black mystery.
+It introduces Koware Group, Buzzjuice Network, Buzzjuice Courses, the Foundation Phase, the Chronicle format, AI participation, community participation and the deeper Cupid Black mystery.
 
 ## 3. Main Topic
 
 **Foundations & Frequencies — Origins, Signals and the Responsibility That Comes With Knowledge**
 
-Central question:
+### Central Question
 
 > What happens when education, technology and knowledge give a person access to something they are not yet prepared to control?
 
-## 4. Narrative Strategy
+## 4. Story Strategy
 
-The Chronicle is a **mystery seed**, not a complete origin story.
+The Chronicle is a mystery seed, not a complete superhero origin.
 
-It should look backward into established 2000 archive material and then connect that material to a present-day Foundation Phase investigation.
+A present-day Foundation Phase investigation examines old school records and discovers that Enka's 2000 experiences may have been the first visible signs of a much larger phenomenon.
 
-The audience should leave thinking:
+The audience should understand that the archive is being re-examined, not rewritten.
 
-> "So the strange things Enka experienced back then may have been the beginning of something much bigger."
+## 5. Mandatory Story Ingredients
 
-## 5. Continuity Anchors
+- verified Bible passage;
+- approved real current headline;
+- Buzzjuice Courses introduction;
+- established Chronicles continuity;
+- Cupid Enka;
+- EduBeam/signal mystery;
+- one light slapstick beat;
+- one recurring mystery hook;
+- clear distinction between real-world reporting and fictional Chronicle material.
 
-### Pilot Chapter / Season 1
-Use:
-- missing or inconsistent academic records;
-- unusual recall and dreams;
-- RF anomalies;
-- suspicious towers;
-- Enka's RF investigation;
-- the sense that he may be the experiment rather than the engineer.
+## 6. News Connection
 
-### Season 3
-Use the later origin of the name "Cupid Black" as a retrospective identity connection. Do not place the name into the mouth of 2000 Enka unless the scene is explicitly narrated from a later perspective.
+Primary real headline:
 
-### Later Chronicles
-Use only through explicit retrieval references and producer approval.
+**Ghana rolls out AI and programming courses for basic education curriculum**
 
-## 6. Bible Component
+The podcast discussion uses the headline as a factual example of education and technology moving together.
 
-The episode requires a verified Bible passage in `02_BIBLE_REFERENCE.md`.
+The Chronicle does not claim EduBeam caused or solved the real event.
 
-Do not let the AI select a passage silently.
+Instead, the fictional story explores the same underlying question:
 
-Preferred thematic direction:
-- wisdom;
-- responsible stewardship of knowledge;
-- beginnings;
-- discernment;
-- purpose.
+> What happens when a learning technology becomes more capable than the people using it?
 
-The passage should be brief and reflective rather than becoming a sermon.
+Preferred fictional lens: **CUPID_MISUNDERSTOOD**
 
-## 7. Buzzjuice / Education Component
+## 7. Bible Motif
 
-S00E01 introduces the ecosystem only.
+Zechariah 4:6 — power, purpose and disciplined use of capability.
 
-It does NOT teach a formal Health & Safety lesson.
+## 8. Chronicle Plot
 
-Order may evolve, but the next likely Foundation episode should address registration/orientation, followed by a fuller introduction to the Health & Safety programme.
+### Opening — The Archive
 
-## 8. News Component
+A present-day archive review asks:
 
-Use one or more **real, current, verified** headlines.
+> What if the first signal was hiding in an old school record?
 
-Do not invent a fake "EduBeam news report" and present it as real news.
+### Act 1 — The Record
 
-A real headline may be connected to the fictional story through one of three narrative lenses:
+We revisit established 2000 anomalies:
 
-1. Cupid helped resolve a fictionalized parallel problem.
-2. Cupid may have caused a fictionalized parallel anomaly.
-3. Cupid misunderstood what he perceived.
-
-The host must clearly distinguish factual news from fictional Chronicle material.
-
-## 9. Chronicle Plot
-
-### Opening
-A present-day archive review begins with a question:
-
-> "What if the first signal was hiding in an old school record?"
-
-### Act 1 — The Archive
-We revisit Enka's 2000 experiences:
-- strange academic results;
-- missing module/paper;
-- unusual dreams;
+- missing/blank academic record;
+- unusual recall;
+- vivid dreams;
 - unexplained RF activity.
 
-### Act 2 — The Signal
-Enka investigates the suspicious signal around the school.
+### Act 2 — The Scanner
 
-He is not yet a superhero.
+Enka investigates with his homemade RF scanner.
 
-He is a technically curious student trying to understand what is happening.
+He is technically curious, not yet a superhero.
 
-### Act 3 — The Split
-The narrative hints that the signal is affecting perception.
+### Act 3 — The Signal
 
-A short moment makes Enka question whether he experienced something physically or only mentally.
+The signal changes.
 
-Signature line:
+For a moment Enka experiences a perceptual split: the place he occupies and another place appear to overlap.
 
-> "I don't even know what is real anymore."
+He cannot tell whether the event is physical, neurological or something else.
 
-### Act 4 — The Future Clue
-A later narrator/archivist identifies the connection between the old records and the future "Cupid Black" identity.
+### Act 4 — The Question
 
-The audience is shown that the archive contains the beginning of a story whose consequences have not yet been fully explained.
+Enka records the event.
+
+He asks:
+
+> “I don't even know what is real anymore.”
+
+The archive later shows that this moment matters more than Enka understood.
 
 ### Closing Hook
-A new signal appears.
 
-The system indicates that the old anomaly may not have been historical noise.
+A new signal appears in the present-day archive environment.
 
-Cut to black.
+The investigation is no longer merely historical.
 
-## 10. Humour
+## 9. Humour
 
-Use light humour, not parody.
+Use light observational humour.
 
-One principal slapstick beat:
-- Enka's homemade RF investigation creates an inconvenient but harmless physical mishap.
+Principal slapstick beat:
 
-Possible example:
-He becomes so focused on the RF scanner that he walks backward into a classroom door while trying to keep the signal strength from dropping.
+Enka becomes so focused on keeping the RF scanner pointed toward the signal that he walks backward into a classroom door.
 
-The humour should reveal character rather than interrupt the mystery.
+The joke should reveal his obsession and determination, not turn him into a fool.
 
-## 11. Superhero Development Rules
+## 10. Superhuman Development Boundary
 
-Do NOT reveal the full:
-- teleportation system;
-- wall-phasing system;
+Do not fully reveal:
+
+- teleportation;
+- wall-phasing;
 - dream/dimension travel;
 - drone reproducer;
-- full Alpha-state mechanics
+- full Alpha-state mechanics.
 
-in S00E01.
+Only seed the perceptual split and possibility of later development.
 
-Only seed the possibility.
-
-These become future story arcs.
-
-## 12. Podcast Structure
+## 11. Podcast Structure
 
 1. Cold Open / Signal
 2. Jingle + Welcome
-3. Brief Bible reflection
+3. Bible reflection
 4. Episode/topic overview
 5. Koware Group and Buzzjuice Network introduction
 6. Buzzjuice Courses introduction
-7. Current news headlines
-8. 20-second Chronicle trailer
-9. Main podcast discussion
+7. Current verified headline(s)
+8. 20-second trailer
+9. Main discussion
 10. Chronicles of Cupid Black — approximately 200 seconds
-11. Discussion of the Chronicle
+11. Chronicle discussion
 12. Community / crowdfunding / participation
 13. Next episode preview
 14. Closing mystery
 15. Community shorts / credits
 
-## 13. Editorial Boundaries
+## 12. Editorial Boundaries
 
-- Real news must remain clearly factual.
-- Fiction must remain clearly fictional.
-- Scientific language used for EduBeam is fictional story logic unless supported by real sources.
-- No real person's private data is inserted into the Chronicle without consent.
-- Community contributions require consent and editorial approval.
-- A member's subscription/course/crowdfunding status can determine eligibility for participation mechanics, but never automatically makes a person canon.
+- real news remains factual;
+- fiction remains clearly fictional;
+- fictional EduBeam science is not presented as real science;
+- no private member information is used without consent;
+- subscription/course/crowdfunding status may affect participation eligibility but never automatically creates canon;
+- AI may propose but not silently canonize.
 
-## 14. New Canon Candidates
+## 13. New Canon Candidates
 
-Proposed only:
 - EduBeam can use network/location signals to improve targeting.
 - EduBeam can fall back to recent transaction/location data.
 - Enka can eventually reproduce a weaker effect through controlled awareness.
 - Materialization has a dark/shadow visual signature.
-- "Cupid Black" becomes a retrospective name for the developing phenomenon.
+- “Cupid Black” becomes a retrospective identity for the developing phenomenon.
 
-All remain `PROPOSED` until approved.
+All remain PROPOSED until approved.
+
+## 14. Emotional Arc
+
+Curiosity → confusion → determination → uncertainty → wonder → unresolved mystery.
+
+## 15. Ending Principle
+
+The audience should finish the Chronicle wanting to know:
+
+> What happened to Enka after the first signal?
+

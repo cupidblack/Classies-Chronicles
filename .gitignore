@@ -1,13 +1,10 @@
-# ============================================================
-# CLASSIES CHRONICLES
-# ============================================================
+# Classies Chronicles — repository hygiene
 
 # OS
 .DS_Store
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-*.lnk
 
 # IDE
 .vscode/
@@ -47,7 +44,6 @@ __pycache__/
 *.old
 *.orig
 *.cache
-/tmp/
 
 # AI Desk derived data
 CC_AI_DESK/04_CATALOG/*.db
@@ -73,7 +69,7 @@ CC_AI_DESK/06_CONFIG/runtime.local.json
 **/09_PUBLISHING/exports/**
 **/10_ARCHIVE/media/**
 
-# Video/audio
+# Audio/video
 *.mkv
 *.mp4
 *.mov
@@ -84,16 +80,16 @@ CC_AI_DESK/06_CONFIG/runtime.local.json
 *.aif
 *.mp3
 
-# OBS output
+# OBS
 **/OBS_Recordings/
 **/OBS_Output/
 
-# REAPER temporary files
+# REAPER
 *.rpp-bak
 *.rpp-temp
 **/Peak Files/
 
-# Editor caches
+# Editing caches
 **/Cache/
 **/cache/
 **/RenderCache/
@@ -105,3 +101,8 @@ CC_AI_DESK/06_CONFIG/runtime.local.json
 *.ims
 **/.capcut/
 **/CapCutCache/
+
+# Build output
+dist/
+build/
+out/
