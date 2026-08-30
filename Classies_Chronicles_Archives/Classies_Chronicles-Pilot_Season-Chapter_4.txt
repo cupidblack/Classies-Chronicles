@@ -66,7 +66,7 @@ SECTION 1 — ALL FILLABLE INPUTS & SEMI‑VARIABLES (with short descriptions)
 - contributors — Optional list of contributor objects. (array)
  
 2. Chapter-Level Semi-Variables
-- season — Season 28. (string|int) 
+- season — Pilot Season. (string|int) 
 - chapter_number — Chapter 4. (integer) 
 - chapter_title — Foundation Phase/AWOL. (string) 
 - chapter_timeframe —"Autumn August/September 2026". (string) 
@@ -286,7 +286,7 @@ After living in his car for a few weeks, he decides to take a chance and approac
 Enka continues research on NGOs in the recovery zone and rehabs in an attempt to continue the work he was doing with the team in Singapore. 
 Towards the end of the chapter 4, Enka later gets a call from the Ghanaian high commission to meet the owner of the Global Hope Foundation NGO who is coincidentally into recovery, wellness and mental health. Enka tells his story and how he was doing workshops in Singapore, the eviction ordeal but he does not mention the issue with his roommate and neighbor. The owner of the NGO offers him a place in the quarters behind the NGO where he can sleep, shower and do laundry. 
 This ends chapter 4 at mid October 2026 and prepares to start Chapter 5.
-<<For Chapter 5>>
+<<START NOTES FOR CHAPTER 5>>
 Chapter 5 continues from mid October to the end of the year where Enka takes advantage of the accommodation offer from the NGO and goes through the NGO twice a week.
 Enka starts volunteer work with the Global Hope Foundation in Kuala Lumpur, reaching out to rehabs in the area. 
 One day, stopping at a shopping outlet just for exploration’ s sake Enka bumps into someone selling African wear. What he was selling looked exactly like one he had left in the bag with his neighbor. Enka asked, 
@@ -311,7 +311,8 @@ Enka: Thank you bro. You are a real life saver. I wish I could pay you back some
 Guy: Don't mention it bro. 
 Enka set off on his way, not knowing where he was going next. 
 Sleeping in the car at Penang Enka dreams of being at a pool party. The evening is cool in the dream and everyone seems to be having a good time. At that moment the people Enka has been hiding from appear at the party. Enka jumps into the water with his drinks then stays under the water. Amazingly he finds that he can breathe under the water so he relaxes whilst the people are searching for him all over the party. A guy notices Enka under the water and realizes what is going on to his amazement so he goes to report that there is a guy under the water and he might be the one they were looking for. A few moments later Enka wakes up in his car in Penang. It was possible the dream was insinuating that the people had gone to the NGO looking for Enka but couldn't find him there. He sat in the car for a really long time thinking to himself then he made up his mind that he couldn't keep running forever and to head back to the NGO in Kuala Lumpur to deal with the issues once and for all. If anything he should make them run. 
-At the end of Chapter 5 in December 2026, the Koware Group would meet him in Kuala Lumpur and transport him back to the NGO in Singapore. This would prepare for chapter 1 of the next Season of the Classies Chronicles. 
+At the end of Chapter 5 in December 2026, the Koware Group would meet him in Kuala Lumpur and transport him back to the NGO in Singapore. This would prepare for chapter 1 of the next Season of the Classies Chronicles.
+<<STOP NOTES FOR CHAPTER 5>>
 (string) 
 - chapter_key_factor_lock — true. {If true, blocks Part-level changes to the primary key factor.} (bool) 
 - secondary_chapter_threads — Supporting threads to maintain. (array of strings) 
