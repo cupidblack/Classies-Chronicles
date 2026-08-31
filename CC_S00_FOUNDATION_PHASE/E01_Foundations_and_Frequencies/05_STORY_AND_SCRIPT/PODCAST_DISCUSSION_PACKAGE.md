@@ -1,48 +1,48 @@
-# S00E01 Podcast Discussion Package
+# Podcast Discussion Package — S00E01
 
-## Main discussion question
+## Target structure
 
-**How do you build a foundation when you know something is happening but do not yet understand why?**
+1. Cold Open / Signal
+2. Jingle + Welcome
+3. Brief Bible reflection (5–20 seconds)
+4. Episode/topic overview
+5. Brief Chronicle trailer
+6. Main discussion
+7. Full *Chronicles of Cupid Black* Chronicle
+8. Open discussion on the episode topic and Chronicle
+9. Community / crowdfunding / participation
+10. Next episode preview
+11. Invitation to support the Foundation Phase / next season
+12. Closing mystery
+13. Community shorts during credits
 
-## Discussion lanes
+## Main discussion topic
 
-### Lane 1 — The Foundation Phase
+**What does it mean to build a trustworthy foundation when technology, information and perception can all be powerful but incomplete?**
 
-- Why begin with introductions and orientation?
-- What should a new audience understand before the official Chronicles begin?
-- How does a platform become a community rather than just a content feed?
+## Suggested discussion threads
 
-### Lane 2 — Nehemiah
+- Why begin with a Foundation Phase instead of Season 1?
+- What is Koware Group's role in the wider ecosystem?
+- What is Buzzjuice Network?
+- What are Buzzjuice Courses and why does learning matter to the story world?
+- How should audiences distinguish evidence from interpretation?
+- How can Bible stories inform modern responsibility without becoming forced exposition?
+- How should the community participate in future Chronicles?
+- What does the AI Desk contribute, and where should human editorial authority remain?
 
-- What does Nehemiah teach about receiving information responsibly?
-- How do prayer, investigation and organization work together?
+## AI co-host
 
-### Lane 3 — Technology and perception
+Default mode: **CONTROLLED** for E01. The producer may switch to `OPEN_ASSIST` during a live discussion if desired, while the AI remains subject to factuality, consent and licensing controls.
 
-- When does information become useful?
-- When can too much information create confusion?
-- Why should perception and interpretation remain separate?
+## Community/crowdfunding segment
 
-### Lane 4 — EduBeam as fiction
+Invite listeners to:
 
-- What makes the 9 July event compelling?
-- Which parts are established story history?
-- Which parts remain mysteries?
+- join Buzzjuice Network;
+- explore Buzzjuice Courses;
+- participate in future discussions;
+- contribute approved ideas;
+- support production through the approved crowdfunding pathway.
 
-### Lane 5 — Buzzjuice Courses
-
-- Introduce the education ecosystem.
-- Explain that registration/orientation will be covered in the next episode.
-- Avoid turning E01 into a sales pitch.
-
-### Lane 6 — Community
-
-Invite listeners to participate through future discussions, course participation, community contributions and crowdfunding.
-
-## AI Desk questions
-
-The AI may ask one question per lane when invited. It should not dominate the conversation.
-
-## Closing prompt
-
-"If this is only the beginning, what foundation do we need before the real Chronicles start?"
+Do not promise rewards or member appearances until the participation/consent process has been completed.

@@ -2,19 +2,29 @@
 
 **Title:** The Signal Before the Story  
 **Target:** approximately 200 seconds  
-**Mode:** present-day archive investigation + reconstruction of 9 July 2026 Singapore  
-**Tone:** mysterious, warm, curious, lightly funny, increasingly unsettling
+**Tone:** mystery, grounded sci-fi, reflective, lightly humorous  
+**POV:** close third-person / Enka-focused  
+**Primary question:** What happens when the signal is real but its meaning is not yet understood?
 
-## Core arc
+## Visual language
 
-Archive → old clues → Singapore event → perceptual split → materialization → Foundation Phase → new signal.
+- clean archive interface;
+- restrained night blues/greys;
+- subtle waveform/glitch effects;
+- realistic Singapore apartment/car environments;
+- shadow/dimming materialization effect;
+- colour returns during stabilization;
+- no superhero costume or exaggerated comic-book power display.
 
-## Audience promise
+## Audio language
 
-The first Chronicle should make the audience ask:
+- low-frequency fictional hum;
+- subtle electrical ambience;
+- restrained heartbeat/room tone;
+- one physical comedy impact;
+- silence immediately after the joke;
+- final electronic pulse.
 
-**"What happened to Enka—and why does the archive still seem to be alive?"**
+## Story discipline
 
-## Canon principle
-
-The 9 July event is treated as established Chapter 4 continuity. The mechanism remains unresolved.
+The Chronicle should make the audience curious about EduBeam without explaining it away. The emotional destination is not “Enka has become a superhero”; it is “something happened to Enka, and now the search for meaning begins.”

@@ -1,222 +1,237 @@
 # Classies Chronicles — Episode Generation Contract v3.0
 
-**Template ID:** cc.episode.v3.0  
-**Purpose:** Default orchestration template for generating each Classies Chronicles episode package.
+**Template ID:** `cc.episode.v3.0`  
+**Status:** DEFAULT EPISODE GENERATION CONTRACT  
+**Last updated:** 2026-08-31
 
-## 1. How to use
+## Purpose
 
-Complete this contract before asking an AI to generate story content.
+This is the authoritative episode-level orchestration contract. It prepares a complete episode package before detailed scene/Part generation.
 
-The episode generator must:
+The default pipeline is:
 
-1. read the completed context;
-2. retrieve the referenced previous episode and archive;
-3. reconcile continuity;
-4. classify canon claims;
-5. research only available real-world sources;
-6. produce the story package;
-7. run QA;
-8. stop for producer approval before locking new canon.
+`EPISODE CONTEXT → RETRIEVE SOURCES → CONTINUITY CHECK → STORY PACKAGE → CHRONICLE → QA → TRAILER → PODCAST → ARCHIVE`
 
-## 2. Machine-readable header
+## 1. Episode identity
 
-```yaml
-template_id: cc.episode.v3.0
-template_version: v3.0
-episode_id: S00E01
-season_id: S00
-episode_title: "Foundations & Frequencies"
-chronicle_title: "The Signal Before the Story"
-producer: ""
-generation_timestamp_utc: ""
-locale: en-GH
-timezone: Africa/Accra
-language: English
-generation_mode: creative
-retrieval_scope: CURRENT_EPISODE
-chronicle_target_seconds: 200
-trailer_target_seconds: 20
-podcast_target_minutes: "35-45"
-producer_approval: false
-```
+Required fields:
 
-## 3. Episode identity
+- `episode_id`
+- `season_id`
+- `chapter_id`
+- `episode_title`
+- `chronicle_title`
+- `generation_version`
+- `producer`
+- `language`
+- `locale`
+- `timezone`
+- `target_chronicle_duration`
+- `target_podcast_duration`
 
-- Episode ID:
-- Season:
-- Chapter:
-- Episode title:
-- Chronicle title:
-- Publication target:
-- Primary POV:
-- Narrative tense:
-- Intended audience:
+## 2. Episode context inputs
 
-## 4. Story objective
+Attach or reference:
 
-- Main key topic:
-- Central question:
-- Theme:
-- Beginning state:
-- Conflict:
-- Turning point:
-- Resolution/partial resolution:
-- Ending hook:
-- Humour level:
-- Mystery level:
+1. `00_CONTEXT_STATUS.json`
+2. `01_METADATA.json`
+3. `02_BIBLE_REFERENCE.md`
+4. `03_COURSE_LESSON_REFERENCE.md`
+5. `04_CONTINUITY_REFERENCE.md`
+6. `05_HEADLINES.json`
+7. `07_STORY_NOTES.md`
+8. previous approved episode resources;
+9. relevant archive chapters;
+10. reusable character/technology canon;
+11. approved community/member contributions where consent permits.
 
-## 5. Source package
+## 3. Narrative contract
 
-### Bible
-- File:
-- Passage:
-- Thematic use:
+Every Chronicle must define:
 
-### Course
-- File:
-- Lesson/module:
-- What is introduced now:
-- What must be deferred:
+- central question;
+- theme;
+- primary POV;
+- beginning state;
+- conflict;
+- turning point;
+- partial resolution;
+- ending hook;
+- continuity anchors;
+- educational element;
+- Bible/reference motif;
+- approved real-world headline motifs, if used;
+- humour level;
+- mystery level;
+- emotional arc.
 
-### Headlines
-- File:
-- Research cutoff:
-- Locations:
-- Verified headlines:
-- Fictionalization policy:
+## 4. Source contract
 
-### Continuity
-- Previous episode:
-- Chapter notes:
-- Archive files:
-- Character canon:
-- Technology canon:
+Required source classes where applicable:
 
-### Previous-episode resources
+- Bible/reference;
+- approved course/education source;
+- verified current headline(s);
+- approved continuity references;
+- approved character canon;
+- approved technology canon;
+- producer story notes;
+- consented community/member contributions.
 
-List exact links/paths to the previous episode's final transcript, Chronicle, trailer, manifest and relevant canon changes.
+The generator must never invent a source merely to fill a field.
 
-### Archive resources
+## 5. Canon policy
 
-Attach/reference the Classies Chronicles archive. The generator must prefer archive evidence over invention.
+Every significant claim must be classified:
 
-## 6. Canon control
+- `CONFIRMED_CANON`
+- `ARCHIVAL_RECORD`
+- `PROPOSED_NEW_CANON`
+- `WORKING_INTERPRETATION`
+- `SPECULATION`
+- `UNKNOWN`
 
-Every significant new claim must be labelled:
+Only the first two may be presented as established history without qualification.
 
-- CONFIRMED_CANON
-- ARCHIVAL_RECORD
-- PROPOSED_NEW_CANON
-- WORKING_INTERPRETATION
-- SPECULATION
-- UNKNOWN
+## 6. News integrity policy
 
-Only CONFIRMED_CANON and ARCHIVAL_RECORD may be presented as established history.
+- Never fabricate a headline, date, source, quotation or event.
+- A real headline may inspire a fictional Chronicle event, but the fiction must be recognizable as fiction.
+- Do not claim Cupid caused or solved a real-world event unless an explicitly fictional framing is used.
+- Future dates must be marked `PENDING` rather than filled with invented news.
+- Serious real-world tragedies must not be trivialized with slapstick.
 
-## 7. Real-world news rule
+## 7. Community and consent policy
 
-Never fabricate a headline, date, quotation, statistic, source or event.
+Member participation can influence stories only when the member has an active, explicit consent state for Chronicle use.
 
-If the requested date range extends beyond the research date, mark the future portion **PENDING** and do not invent it.
+Consent must gate retrieval/indexing as well as final publication.
 
-Real-world reporting must remain distinct from fictional events.
+If consent is withdrawn, the person's Chronicle source should be removed from the active retrieval set and no new story should be generated from it.
 
-## 8. Narrative integration
+## 8. Humour policy
 
-Bible, course content, news and archive material should be integrated into the story rather than inserted as disconnected blocks.
-
-The Chronicle remains the primary story artifact.
-
-## 9. Character controls
-
-Check:
-
-- identity chronology;
-- personality;
-- current ability stage;
-- emotional state;
-- relationships;
-- props;
-- recurring phrases;
-- unresolved mysteries.
-
-Do not give a character knowledge they have not earned.
-
-## 10. Humour policy
-
-Default:
+Default tone:
 
 - warm;
 - observational;
 - light slapstick;
-- approximately one principal physical/comedic beat per ~200-second Chronicle.
+- one principal physical/comedic beat in an approximately 200-second Chronicle.
 
-Humour must not trivialize serious real-world events.
+Humour must release tension without destroying suspense or making serious subjects trivial.
 
-## 11. AI Desk policy
+## 9. AI intervention policy
 
-AI may suggest, draft, reorganize, question and flag.
+AI may:
+
+- research;
+- retrieve;
+- suggest;
+- draft;
+- reorganize;
+- identify continuity issues;
+- propose story alternatives;
+- assist the live discussion within the selected co-host mode.
 
 AI may not silently:
 
-- create permanent canon;
+- create new canon;
+- rewrite a source;
 - fabricate news;
 - fabricate citations;
 - override consent;
 - override licensing;
-- publish.
+- publish;
+- convert speculation into fact.
 
-For live podcast use, AI remains silent until explicitly cued.
+## 10. AI co-host mode switch
 
-## 12. Required output package
+Every podcast run must declare one:
+
+- `CONTROLLED` — AI contributes only within the producer-defined prompt and topic boundaries.
+- `OPEN_ASSIST` — AI may reasonably respond and contribute to the discussion while still respecting safety, consent, licensing and factuality rules.
+- `OFFLINE` — no live AI contribution; pre-recorded or edited AI material may still be used.
+
+The mode can be changed by the producer during production.
+
+## 11. Continuity protocol
+
+1. Retrieve the previous approved episode.
+2. Retrieve relevant archive chapters.
+3. Retrieve character and technology canon.
+4. Build a continuity ledger.
+5. Mark conflicts.
+6. Resolve only conflicts supported by higher-authority evidence.
+7. If uncertain, flag rather than invent.
+
+## 12. Chronicle-first gate
+
+The final production sequence is:
+
+1. Story brief
+2. Narrative draft
+3. Script
+4. Scene list
+5. Visual/audio plan
+6. Chronicle draft
+7. Chronicle QA
+8. Producer approval
+9. 20-second trailer derived from approved Chronicle
+10. Podcast recording
+11. Podcast edit/QA
+12. Archive
+
+The podcast must not be treated as final programme content before Chronicle approval.
+
+## 13. Required output package
 
 Generate:
 
-1. episode story brief;
-2. Chronicle draft;
-3. scene/shot list;
-4. narration script;
-5. visual prompt list;
-6. SFX/music list;
-7. Chronicle QA report;
-8. 20-second trailer derived only from approved Chronicle;
-9. podcast discussion package;
-10. episode provenance manifest;
-11. canon-change proposal.
+1. `CHRONICLE_BRIEF.md`
+2. `CHRONICLE-200s-DRAFT.txt`
+3. `TRAILER-20s-DRAFT.txt`
+4. `SCENE_AND_VISUAL_PLAN.md`
+5. `AUDIO_SFX_PLAN.md`
+6. `CHRONICLE_QA_REPORT.md`
+7. `PODCAST_DISCUSSION_PACKAGE.md`
+8. `PROVENANCE_MANIFEST.json`
+9. updated episode context
+10. production checklist/workflow updates
 
-## 13. Chronicle-first production gate
+## 14. Generation audit
 
-Do not treat the podcast as final until the Chronicle is approved.
+Record:
 
-Pipeline:
+- template version;
+- model/provider;
+- timestamp;
+- source IDs;
+- retrieval scope;
+- consent scope;
+- generation mode;
+- AI co-host mode;
+- producer approval state;
+- output hashes where practical.
 
-**Episode Contract → Story Package → Chronicle → Chronicle QA → Producer Approval → Trailer → Podcast → Final QA → Archive**
-
-## 14. QA
-
-### FAIL
-- missing critical source;
-- fabricated news;
-- continuity contradiction without explicit story reason;
-- unsafe actionable technical instructions;
-- missing consent/licensing;
-- missing critical narrative elements.
-
-### WARN
-- weak transition;
-- weak humour;
-- incomplete provenance;
-- unclear character motivation;
-- excessive exposition.
-
-## 15. Producer approval block
+## 15. Default episode input form
 
 ```yaml
-story_approved: false
-chronicle_approved: false
-trailer_approved: false
-podcast_approved: false
-canon_changes_approved: false
-publication_approved: false
-approval_notes: ""
+episode_id: S00E01
+season_id: S00
+chapter_id: CH04
+episode_title: Foundations & Frequencies
+chronicle_title: The Signal Before the Story
+central_question: "How do we build a trustworthy foundation when knowledge, technology and perception exceed our control?"
+theme: "Power, knowledge and responsibility"
+primary_pov: Cupid Enka
+bible_reference: Nehemiah 1-7
+course_reference: Buzzjuice Network and Buzzjuice Courses introduction
+headline_window: "2026-08-09 through 2026-10-17"
+headline_status: "verified-to-current-date; future portion pending"
+humour_level: light
+mystery_level: high
+ai_cohost_mode: CONTROLLED
+chronicle_target_seconds: 200
+podcast_target_minutes: 35-45
+producer_approval: PENDING
 ```

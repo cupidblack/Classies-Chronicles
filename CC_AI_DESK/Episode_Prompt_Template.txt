@@ -1,25 +1,29 @@
-CLASSIES CHRONICLES — DEFAULT EPISODE PROMPT
+CLASSIES CHRONICLES — DEFAULT EPISODE PROMPT ENTRY POINT
 
-DEFAULT VERSION: cc.episode.v2.1
+DEFAULT VERSION: cc.episode.v3.0
 
-This file is the compatibility entry point for episode generation.
+Use this file as the compatibility entry point. The authoritative contract is:
+CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v3.0.md
 
-The authoritative episode-level contract is:
-
-CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v2.1.md
-
-Use the episode-level contract first, then use the detailed Part Generation Prompt Template for scene/Part generation.
-
-Pipeline:
-
+PIPELINE:
 EPISODE CONTEXT
-→ EPISODE CONTRACT v2.1
+→ RETRIEVE SOURCES
+→ CONTINUITY CHECK
 → STORY PACKAGE
-→ PART/SCENE CONTRACT
 → CHRONICLE
 → QA
 → TRAILER
 → PODCAST
 → ARCHIVE
 
+Required context files:
+00_CONTEXT_STATUS.json
+01_METADATA.json
+02_BIBLE_REFERENCE.md
+03_COURSE_LESSON_REFERENCE.md
+04_CONTINUITY_REFERENCE.md
+05_HEADLINES.json
+07_STORY_NOTES.md
+
+Attach previous approved episode resources and relevant archive resources before generation.
 Do not bypass the Chronicle approval gate.

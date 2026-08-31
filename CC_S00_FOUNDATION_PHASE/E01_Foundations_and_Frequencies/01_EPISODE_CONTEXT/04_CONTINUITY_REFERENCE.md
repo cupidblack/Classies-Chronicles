@@ -1,49 +1,51 @@
-# S00E01 — Continuity Reference
+# Continuity Reference — S00E01
 
-## Authority hierarchy
+## Authority order
 
-1. Approved archive material
-2. Episode canon
-3. Producer-approved proposed canon
-4. Working interpretations
-5. Speculation
+1. Approved Classies Chronicles archive
+2. Current reusable character/technology canon
+3. Approved episode context
+4. Producer story notes
+5. Working interpretation/speculation
 
-Earlier archive facts outrank generated suggestions.
+## Chapter 4 anchors
 
-## CR-001 — Earlier Blue Crown material
+The Chapter 4 archive establishes that:
 
-Use established material concerning unusual academic/perceptual records, vivid dreams or missing time, unusual recall, RF anomalies, suspicious signals and Enka's RF scanner where supported by the relevant archive.
+- Enka leaves his Bugis apartment in Singapore on **Thursday 9 July 2026**.
+- He is packing the last bags before the eviction takes effect.
+- A humming sound and flickering lights precede the EduBeam event.
+- He recognizes the phenomenon as the EduBeam.
+- He subsequently finds himself fully materialized near a colleague's apartment in Singapore.
+- He later travels toward Genting and eventually Kuala Lumpur.
+- Later in Chapter 4 he uses the alias **Cu (Q)** while moving through Kuala Lumpur.
+- The chapter eventually ends around mid-October 2026 with an accommodation/NGO connection.
 
-**Authority:** ARCHIVAL_RECORD
+## E01 continuity decision
 
-## CR-002 — Cupid Black / Cu identity
+E01 focuses tightly on the 9 July event because it is the strongest narrative doorway into the developing Cupid Black mystery. It does not claim to tell the whole Chapter 4 story.
 
-"Cu" / "Q" and "Cupid Black" are later identity labels. Do not retroactively place them into early chronology unless the narrator explicitly frames the reference retrospectively.
+## Retcon protection
 
-**Authority:** CHARACTER_CANON
+The package deliberately does **not** establish:
 
-## CR-003 — 9 July 2026 Singapore event
+- a precise 25 August Genting arrival date;
+- an exact materialization distance;
+- exact EduBeam intensity percentages;
+- exact satellite targeting accuracy;
+- that Enka had mastered Alpha-state control in July;
+- that the later Cu/Black identity already existed at the July event.
 
-Chapter 4 establishes that Enka experienced a heavy EduBeam event after leaving his Bugis apartment and subsequently appeared outside a colleague's apartment near the university campus in Singapore.
+## Future continuity hooks
 
-**Authority:** ARCHIVAL_RECORD
+Later episodes may explore:
 
-This is the principal chronological anchor for S00E01.
+- the Genting period;
+- the transition to Kuala Lumpur;
+- Cu's underground interventions;
+- Personal Awareness and disciplined awareness;
+- Tai Chi/Qigong;
+- the relationship between awareness and EduBeam effects;
+- the development of fictional technology intended to imitate the EduBeam.
 
-## CR-004 — Foundation Phase abilities
-
-Dual-location perception, materialization, targeting hierarchy and controlled-awareness development are story-development material unless already explicitly established in the approved archive.
-
-**Authority:** PROPOSED_NEW_CANON / WORKING_INTERPRETATION
-
-## CR-005 — News continuity
-
-Real headlines may inspire themes or clearly labelled fictional story material. The Chronicle must never imply that a fictional character caused, solved or participated in a real-world crime or incident unless the programme explicitly labels that segment as fiction.
-
-## CR-006 — Do not over-canonize
-
-The previous package introduced several exact dates, percentages and technical specifications without sufficient archive support. These are removed from the active canon.
-
-## E01 continuity rule
-
-Show the consequence before explaining the mechanism. The audience should experience the mystery with Enka.
+These remain future story engines rather than E01 facts.

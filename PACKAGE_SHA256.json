@@ -1,0 +1,166 @@
+{
+  "package": "Classies_Chronicles_S00E01_Refactored_2026-08-31",
+  "generated": "2026-08-31",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "70c00d23e4c256fec8093bedd544e2315da7cc696fb0e912fd1b577dc7e4bada",
+      "bytes": 1472
+    },
+    {
+      "path": "CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v3.0.md",
+      "sha256": "1f74bbf24ad9eafc1515d20ad14cbdc4fd6792bb1202bbb969101ccfd24a738f",
+      "bytes": 6168
+    },
+    {
+      "path": "CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md",
+      "sha256": "209894bbd7bd5d7e8709fd1e95f2fe05e0e1195d93618ac8cb65251764c2399c",
+      "bytes": 5040
+    },
+    {
+      "path": "CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md",
+      "sha256": "a6cba3394055ce83152c457be753fbd3959f06f38c47661053938d0959d07a39",
+      "bytes": 4156
+    },
+    {
+      "path": "CC_AI_DESK/Episode_Prompt_Template.txt",
+      "sha256": "dc9ddcecd9d670ecb620e844ed364b0162c169125c9e055eda8041196707062c",
+      "bytes": 688
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/00_CONTEXT_STATUS.json",
+      "sha256": "b258b29aeceb32886b35779f314e4856d36fe84e3da921ccafa486ad18ec52c8",
+      "bytes": 710
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/01_METADATA.json",
+      "sha256": "31d1bd5a68b431e681f03e70d2771aae02ad720bc4429e2b2206d20fe5997304",
+      "bytes": 959
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/02_BIBLE_REFERENCE.md",
+      "sha256": "5f4e4ca0bd6d22b71e59088036a7caa93513e1d2a5e50ce6fbb9cc8d79fbf7b5",
+      "bytes": 876
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/03_COURSE_LESSON_REFERENCE.md",
+      "sha256": "a43f9838beaa7d08f285e7b7a06fd8f06c559630700e21d6def7a6a463ee6b15",
+      "bytes": 780
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/04_CONTINUITY_REFERENCE.md",
+      "sha256": "85a83650f08f18bf685e8d78c8c6d4692bcb897bea7856a36cefc3c7af0c18a1",
+      "bytes": 1853
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/05_HEADLINES.json",
+      "sha256": "9f3144598a3d3710bb1610433bc9be36c8f0d072203f1039d7436aca53abf275",
+      "bytes": 1124
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/07_STORY_NOTES.md",
+      "sha256": "cc7ffc756d56c50cbc9220d3c00fb5694ba20e29c7f116bc7d14a9b7929073f0",
+      "bytes": 4216
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/02_RESEARCH/NEWS_RESEARCH_PROTOCOL.md",
+      "sha256": "035640537112ecd855694297539ddf99bb5428d47bfa70d77172fead1b7de019",
+      "bytes": 819
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/03_PODCAST/PODCAST_STRUCTURE.md",
+      "sha256": "fbf8e0a772332e38d2f822e544270341acff52e8902894b16347f354eea80b11",
+      "bytes": 604
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/04_AI_DESK/EPISODE_AI_CONFIG.json",
+      "sha256": "9de6a68ea70eb23163ed120fbc32e4de858b1bacc4b7b420641437d6af06cb84",
+      "bytes": 609
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/04_AI_DESK/RETRIEVAL_SCOPE.md",
+      "sha256": "f86c6f92a0f23651dcaade2daf9577cb3a7700bcbcdffb33c4be5a416c891d20",
+      "bytes": 621
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/AUDIO_SFX_PLAN.md",
+      "sha256": "a346424269c260c3b77e33501e1d82b289ccdcc82a564f744cbcdbb5a84e08c2",
+      "bytes": 519
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/CHRONICLE-200s-DRAFT.txt",
+      "sha256": "4bf0ef9ac224627dbb44f6e3ecdce4adcb8286089b9eddaa45f952f979cedaeb",
+      "bytes": 2392
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/CHRONICLE_BRIEF.md",
+      "sha256": "9788fab9900b772df8f477ebe57da8b9fe5ce930ee3025b53f8079a5f60b3dcb",
+      "bytes": 1096
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/CHRONICLE_QA_REPORT.md",
+      "sha256": "1386ee87977a2529fa81762b2a404c03693256b0d0e92c45de757a4860b28391",
+      "bytes": 851
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/PODCAST_DISCUSSION_PACKAGE.md",
+      "sha256": "afe83577da0015d62a912e49c6a41ecf17b084026c0b182853418d15afc883c7",
+      "bytes": 1779
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/PROVENANCE_MANIFEST.json",
+      "sha256": "03ac43062d5ca61a7948837471a3a672ed335d1ff402fece9d4619c2f03fc823",
+      "bytes": 54
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/SCENE_AND_VISUAL_PLAN.md",
+      "sha256": "43e340cadd95e25597a5621abb65212819217437de2c8ef3a6990f4e75a8f724",
+      "bytes": 833
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/TRAILER-20s-DRAFT.txt",
+      "sha256": "7646f06258699d0bf1f20012c8e5fa3c9ecf027ae407dd3104b461f97e47d72d",
+      "bytes": 557
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/06_PRODUCTION/COMMUNITY_CONSENT_PROTOCOL.md",
+      "sha256": "ca95ec163f44480196ed1dbe903cae5f61c2de8be698c458938509fe2f80d472",
+      "bytes": 663
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/06_PRODUCTION/PRODUCTION_WORKFLOW.md",
+      "sha256": "e24488b773aac41e32ec09683f47924514a846af3a750331477b1bef2e1b144c",
+      "bytes": 2501
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/06_PRODUCTION/ROLE_ASSIGNMENT.md",
+      "sha256": "4d32a3cb9cdf50330e30f30b7fcf5560d7356ec48e8d47ea8fb113529278a6a4",
+      "bytes": 821
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/PRODUCTION_CHECKLIST.md",
+      "sha256": "e6df84c7aee8d074d4b29187ae1db82df38ff897eaada817449dab6ae96e98c3",
+      "bytes": 1214
+    },
+    {
+      "path": "CC_S00_FOUNDATION_PHASE/FOUNDATION_PHASE_PRODUCTION_GUIDE.md",
+      "sha256": "427e4e659d5c14072259b485d8ca6b8991b587f8f7100f2a802b42243cc5d6c2",
+      "bytes": 967
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "e4b7b62a25c1037625c6ddd71bf234696f61279c6f45efba61972ea464556766",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "c3ca2ff11f5adccf13d7aac40487f02565b7ad7e2496a92c4da33e856e4e7a38",
+      "bytes": 2627
+    },
+    {
+      "path": "REFERENCES/RESOURCE_MANIFEST.md",
+      "sha256": "ce121332a00205588b2c68c6cb0779730e6f6efeed7430bdefc750bfcd980dbe",
+      "bytes": 1103
+    }
+  ]
+}

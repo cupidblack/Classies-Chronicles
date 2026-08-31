@@ -1,55 +1,43 @@
-# Classies Chronicles — S00E01 Fully Refactored Implementation
+# Classies Chronicles — S00E01 Refactored Production Package
 
-## Season 00 — The Foundation Phase
-### Episode 01 — Foundations & Frequencies
-### Chronicle — The Signal Before the Story
+**Episode:** S00E01 — *Foundations & Frequencies*  
+**Chronicle:** *The Signal Before the Story*  
+**Phase:** Season 00 — The Foundation Phase  
+**Package date:** 2026-08-31  
+**Status:** STORY/PRODUCTION BASELINE — PRODUCER REVIEW REQUIRED
 
-This package refactors S00E01 around four authorities:
+## What this package does
 
-1. Studio Structure Skeletal Blueprint v23.0 — system boundary.
-2. Podcast Communications Module — Host/Guest/AI audio transport.
-3. Classies Chronicles AI Desk Architecture v22.0 — persistent knowledge/retrieval/governance layer.
-4. Episode-owned context + archive — story authority.
+This package refactors S00E01 around the current Classies Chronicles architecture:
 
-## Key correction
+`EPISODE CONTEXT → EPISODE CONTRACT → STORY PACKAGE → CHRONICLE → QA → TRAILER → PODCAST → ARCHIVE`
 
-S00E01 is no longer treated as a fresh 2000-origin event.
+The Chronicle is deliberately completed and approved before the final podcast is recorded. The episode is a **mystery-and-foundation pilot**, not a complete superhero origin.
 
-The latest Pilot Season Chapter 4 archive already records the 9 July 2026 EduBeam event in Singapore, including the heavy beam, Enka's sudden materialization near a colleague's apartment, and the continuing mystery. S00E01 therefore uses that established event as the pilot's immediate story anchor while using older archive material only as supporting continuity.
+## Important corrections carried forward
 
-This lets the Foundation Phase:
-- introduce the audience to Koware Group, Buzzjuice Network and Buzzjuice Courses;
-- explain why Classies Chronicles exists;
-- bridge the audience into the existing archive;
-- dramatize the first clearly documented Foundation-Phase power event without rewriting it;
-- introduce the central "power vs control" question;
-- leave the deeper mechanics for later episodes.
+- The established **9 July 2026 Singapore event** is the canonical narrative anchor.
+- No unsupported 25 August arrival date, exact materialization distance, exact EduBeam percentages, or exact targeting accuracy is asserted as canon.
+- Cupid Black/Cu is treated as a developing identity. E01 does not retroactively place the later alias into the July event.
+- EduBeam mechanics remain partly mysterious. The story distinguishes **high-power/low-control** EduBeam exposure from later **lower-power/higher-control** awareness practice.
+- Real-world news must never be fabricated or retroactively attributed to Cupid as fact. Fictional involvement is clearly framed as story invention.
+- The future portion of the requested 9 August–17 October 2026 headline window is marked **PENDING** because future events cannot be researched as completed news on 31 August 2026.
+- Dangerous neurological/electrical experimentation is fictionalized and is not presented as a real-world procedure.
+- One persistent CC_AI_DESK serves all episodes; episode-specific data remains episode-owned.
+- The working studio already has the three-way host/guest/AI communications path operational; this package references the specialist communications blueprint rather than duplicating it.
 
-## Canon rule
+## Recommended repository placement
 
-The package distinguishes:
-- CONFIRMED_CANON
-- ARCHIVAL_RECORD
-- PROPOSED_NEW_CANON
-- WORKING_INTERPRETATION
-- SPECULATION
-- UNKNOWN
+Copy the contents of this package into the root of the `Classies_Chronicles` repository, merging with existing archive material rather than deleting historical files.
 
-AI suggestions do not become canon automatically.
+## Producer gate
 
-## Current-news rule
+Before narration is locked, review:
 
-The requested headline window is 2026-08-09 through 2026-10-17. On 2026-08-31, the latter portion of that window is future data and cannot yet be harvested. The included `05_HEADLINES.json` therefore records the configured window and the verified research currently available through 2026-08-31. Future dates remain PENDING and must be populated only when they become real.
+1. `05_STORY_AND_SCRIPT/CHRONICLE-200s-DRAFT.txt`
+2. `01_EPISODE_CONTEXT/04_CONTINUITY_REFERENCE.md`
+3. `01_EPISODE_CONTEXT/07_STORY_NOTES.md`
+4. `CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md`
+5. `CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md`
 
-## Audio/AI rule
-
-The already-working ENVY/Pavilion three-way communications system is not redesigned here. The AI Desk remains separate from audio transport. The Studio Blueprint and Podcast Communications Module remain the authorities for the physical/audio system.
-
-## Package status
-
-STORY_REFACTORED
-CONTEXT_REFACTORED
-CANON_REFACTORED
-PROMPT_TEMPLATE_REFACTORED
-NEWS_RESEARCH_PARTIAL
-PRODUCER_APPROVAL_PENDING
+Then set the approval state in `00_CONTEXT_STATUS.json` and the episode manifest.

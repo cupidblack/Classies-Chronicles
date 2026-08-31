@@ -4,62 +4,37 @@
     "start": "2026-08-09",
     "end": "2026-10-17"
   },
-  "research_cutoff": "2026-08-31",
-  "status": "PARTIAL_WINDOW_ONLY",
-  "correction": "The original request extends into the future. Future headlines must not be fabricated. Re-run headline research when each future period becomes available.",
-  "primary_locations": [
+  "research_status": "CURRENT_DATE_LIMITED",
+  "as_of": "2026-08-31",
+  "locations": [
     "Adenta",
     "Greater Accra",
     "Ghana",
     "West Africa",
+    "Bugis, Singapore",
     "Singapore",
     "Genting, Malaysia",
     "Kuala Lumpur, Malaysia"
   ],
-  "editorial_rule": "Use verified reporting only. Real headlines are thematic references unless explicitly framed as fictionalized story material.",
-  "verified_candidates": [
-    {
-      "location": "Ghana",
-      "date": "2026-07-22",
-      "topic": "Revised basic-school curriculum introduces AI literacy, computational thinking and coding",
-      "use": "education/technology thematic mirror",
-      "source": "Ghana News Agency"
-    },
-    {
-      "location": "Ghana",
-      "date": "2026-08-21",
-      "topic": "KNUST secures grant to strengthen AI education and research",
-      "use": "education/AI development",
-      "source": "reported candidate in current episode research"
-    },
-    {
-      "location": "Singapore",
-      "date": "2026-08-11",
-      "topic": "SMU introduces new AI-enabled future courses",
-      "use": "education/AI thematic mirror",
-      "source": "reported candidate in current episode research"
-    },
-    {
-      "location": "Singapore",
-      "date": "2026-08-08",
-      "topic": "Teachers to take AI modules under MOE plan",
-      "use": "responsible AI education",
-      "source": "reported candidate in current episode research"
-    },
-    {
-      "location": "Genting",
-      "date": "2026-08-17",
-      "topic": "Police confirm robbery at Genting Highlands shopping centre",
-      "use": "local awareness; must not be attributed to Cu",
-      "source": "reported candidate in current episode research"
-    },
-    {
-      "location": "Kuala Lumpur/Malaysia",
-      "date": "2026-08-06",
-      "topic": "Google Malaysia and MARA partner to drive AI in education",
-      "use": "education/technology thematic mirror",
-      "source": "reported candidate in current episode research"
-    }
+  "priority_locations": [
+    "Adenta",
+    "Singapore",
+    "Genting",
+    "Kuala Lumpur"
   ],
-  "future_period": "2026-09-01 through 2026-10-17 is unavailable at the 2026-08-31 cutoff and remains pending."
+  "verified_period": [
+    "2026-08-09",
+    "2026-08-31"
+  ],
+  "future_pending_period": [
+    "2026-09-01",
+    "2026-10-17"
+  ],
+  "headline_policy": "Do not invent future headlines. Use verified current headlines when available; keep future range pending.",
+  "story_use_policy": "Real headlines may inspire fictional story motifs, but the Chronicle must clearly distinguish fiction from real events.",
+  "source_records": [],
+  "notes": [
+    "Populate this file with verified source records before publication if current news is used in the podcast.",
+    "If no headline is narratively useful, the Chronicle can proceed without a headline-driven plot."
+  ]
 }

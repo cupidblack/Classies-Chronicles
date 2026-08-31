@@ -1,113 +1,54 @@
-# S00E01 — Production Checklist v0.5
+# S00E01 Production Checklist
 
-## A. Story / Context Gate
+## A. Story
 
-- [ ] Episode ID confirmed
-- [ ] Metadata complete
-- [ ] Bible reference verified
-- [ ] Course reference verified
-- [ ] Chapter 4 continuity reviewed
-- [ ] Character canon reviewed
-- [ ] EduBeam canon reviewed
-- [ ] Headline snapshot verified as-of publication
-- [ ] Future-dated headlines excluded
-- [ ] Story notes approved
+- [ ] Story notes reviewed
+- [ ] Chapter 4 continuity checked
+- [ ] Character canon checked
+- [ ] EduBeam canon checked
+- [ ] Chronicle script approved
 
-## B. Chronicle Gate
+## B. Chronicle media
 
-- [ ] Chronicle Brief approved
-- [ ] 200-second script approved
-- [ ] Spoken word count checked against actual narrator pace
-- [ ] Canon candidates marked
-- [ ] Visual scene list prepared
-- [ ] Graphics/media generated
 - [ ] Narration recorded
-- [ ] SFX/music prepared
-- [ ] Chronicle assembled
+- [ ] Narration reviewed by producer
+- [ ] Visual assets created/licensed
+- [ ] Music cleared
+- [ ] SFX prepared
+- [ ] Review cut exported
 - [ ] Chronicle QA passed
-- [ ] Producer approves Chronicle
+- [ ] Chronicle locked
 
-## C. Trailer Gate
+## C. Trailer
 
-- [ ] Trailer extracted only from approved Chronicle
-- [ ] Trailer approximately 20 seconds
-- [ ] Trailer QA passed
-- [ ] Producer approves trailer
+- [ ] Derived from locked Chronicle
+- [ ] Approximately 20 seconds
+- [ ] Audio levels checked
+- [ ] Caption/text checked
 
-## D. AI Desk Commissioning
+## D. Podcast
 
-- [ ] Persistent CC_AI_DESK used
-- [ ] CURRENT_EPISODE retrieval works
-- [ ] Previous approved episode retrieval tested
-- [ ] Source IDs captured
-- [ ] Permission filtering works
-- [ ] LISTEN mode is silent
-- [ ] ASSIST mode works
-- [ ] CO-HOST mode works
-- [ ] Independent AI MUTE works
-- [ ] Missing sources produce uncertainty, not invention
-- [ ] Retrieval scope recorded
-
-## E. Studio Gate
-
-- [x] ENVY/Pavilion physical communication path installed
-- [x] Three-way communication tested
-- [x] Feedback-free mix-minus verified
-- [ ] ENVY master recording test
-- [ ] Pavilion stem/backup recording test
-- [ ] Spoken slate + clap
-- [ ] Host hears AI
-- [ ] AI hears host
-- [ ] Guest path tested if guest is used
-- [ ] No self-return
-- [ ] No clipping
-- [ ] CPU/RAM acceptable
-
-## F. Podcast Recording Gate
-
-- [ ] Chronicle approved
-- [ ] Trailer approved
-- [ ] Bible reflection ready
-- [ ] Episode overview ready
-- [ ] Main discussion questions ready
+- [ ] ENVY/Pavilion routing test passed
 - [ ] AI co-host mode selected
-- [ ] Community/crowdfunding CTA ready
-- [ ] Next episode preview ready
-- [ ] Closing mystery ready
-
-## G. Programme Structure
-
-1. Cold Open / Signal
-2. Jingle + Welcome
-3. Bible reflection
-4. Episode overview
-5. Chronicle trailer
-6. Main podcast discussion
-7. Chronicles of Cupid Black
-8. Open discussion
-9. Community / crowdfunding
-10. Next episode preview
-11. Closing mystery
-12. Credits / community shorts
-
-## H. Post Production
-
-- [ ] ENVY master synchronized with Pavilion stems
+- [ ] Guest test completed if applicable
+- [ ] Bible reflection prepared
+- [ ] Topic discussion prepared
 - [ ] Chronicle inserted
-- [ ] Trailer inserted
-- [ ] Audio mixed
-- [ ] Video edited
-- [ ] Transcript produced
-- [ ] Show notes produced
-- [ ] AI prompts archived
-- [ ] Provenance recorded
+- [ ] Community/support segment prepared
+- [ ] Next episode preview prepared
 
-## I. Archive Gate
+## E. Compliance
 
-- [ ] Context status updated
-- [ ] Consent manifest archived
-- [ ] Licensing manifest archived
-- [ ] Approved Chronicle indexed
-- [ ] Hash recorded
-- [ ] Validation PASS recorded
-- [ ] Episode becomes retrieval-eligible only after validation PASS
+- [ ] Current news sources verified
+- [ ] Future news marked pending
+- [ ] Member consent verified
+- [ ] Licensing verified
+- [ ] Fictional EduBeam clearly framed as fiction
+
+## F. Final
+
+- [ ] Final mix approved
+- [ ] Video export approved
+- [ ] Metadata complete
+- [ ] Archive package created
+- [ ] Producer publication approval

@@ -8,20 +8,20 @@ VISUAL: A dark but clean archive interface. A record appears:
 09 JULY 2026 — SINGAPORE
 
 NARRATOR:
-"Some stories begin with a person. This one begins with a signal."
+“Some stories begin with a person. This one begins with a signal.”
 
 A waveform pulses.
 
 [20–48s — THE OLD CLUES]
 
-FLASHES: Blue Crown. An RF scanner. Old papers. A sleeping Enka suddenly turning toward a sound.
+FLASHES: Blue Crown. An RF scanner. Old notes. A sleeping Enka suddenly turning toward a sound.
 
 NARRATOR:
-"For years there had been odd records, strange dreams, unusual recall... and signals no one could quite explain."
+“For years there had been odd records, strange dreams, unusual recall... and signals no one could quite explain.”
 
 Beat.
 
-"Back then, Enka thought he was investigating the mystery."
+“Back then, Enka thought he was investigating the mystery.”
 
 [48–92s — BUGIS, 9 JULY 2026]
 
@@ -32,7 +32,7 @@ A low hum begins.
 The lights flicker.
 
 ENKA:
-"Not again."
+“Not again.”
 
 He moves outside toward the car.
 
@@ -55,9 +55,11 @@ He bumps into the car door.
 Silence.
 
 ENKA:
-"If science wants my attention, it could at least knock."
+“If science wants my attention, it could at least knock.”
 
-The visual world bends again.
+He rubs his side.
+
+The joke disappears into silence as the visual world bends again.
 
 [122–160s — MATERIALIZATION]
 
@@ -80,26 +82,26 @@ Enka stabilizes.
 He looks around.
 
 ENKA:
-"Where am I?"
+“Where am I?”
 
 His phone rings.
 
 VOICE:
-"Where are you?"
+“Where are you?”
 
 Enka looks around again.
 
 ENKA:
-"I... don't know."
+“I... don't know.”
 
 [160–183s — THE QUESTION]
 
 NARRATOR:
-"The strange part wasn't simply that Enka had moved."
+“The strange part wasn't simply that Enka had moved.”
 
 Pause.
 
-"The strange part was remembering another place at the same time."
+“The strange part was remembering another place at the same time.”
 
 FLASH: Blue Crown.
 
@@ -108,10 +110,10 @@ FLASH: RF scanner.
 FLASH: a distant light over the night sky.
 
 NARRATOR:
-"Technology? Neurology? Something else?"
+“Technology? Neurology? Something else?”
 
 ENKA:
-"I don't even know what is real anymore."
+“I don't even know what is real anymore.”
 
 [183–200s — THE FOUNDATION]
 
@@ -122,10 +124,10 @@ The waveform changes.
 A new pulse appears.
 
 AI DESK:
-"Insufficient evidence."
+“Insufficient evidence.”
 
 HOST:
-"Then why is the signal back?"
+“Then why is the signal back?”
 
 CUT TO BLACK.
 

@@ -1,29 +1,23 @@
 # Bible Reference — S00E01
 
-## Primary passage
+**Primary reference:** Nehemiah 1–7
 
-**Nehemiah chapters 1–7**
+## Story-use focus
 
-## Narrative function
+The episode does not retell Nehemiah literally. It draws thematic motifs from:
 
-Nehemiah is used as a thematic framework rather than as an explanation for EduBeam.
+- recognizing a problem rather than ignoring it;
+- gathering trustworthy information;
+- rebuilding with purpose;
+- assigning responsibility;
+- persistence under pressure;
+- protecting the work while it is being built;
+- community participation in a larger reconstruction.
 
-The episode draws on these broad ideas:
+## Episode integration
 
-- receive troubling information;
-- pause and seek wisdom;
-- investigate rather than assume;
-- organize people and resources;
-- rebuild deliberately;
-- remain alert while working;
-- accept responsibility for what knowledge requires.
+The Foundation Phase is presented as a modern rebuilding exercise: the characters and audience are learning how to build a trustworthy creative/educational community while Enka is trying to understand an increasingly strange signal.
 
-## Podcast reflection
+The Bible reference should remain brief in the podcast and should not be forced into the Chronicle as exposition.
 
-A short reflection should connect Nehemiah's response to uncertainty with the pilot's central question: what should a person do when they possess evidence but do not yet possess the full explanation?
-
-## Editorial boundary
-
-Use the approved Bible translation selected for the recording session. Do not reproduce a complete copyrighted translation in the episode files unless licensed/authorized.
-
-**Canon status:** CONFIRMED_REFERENCE
+**Status:** Approved episode reference supplied by producer.

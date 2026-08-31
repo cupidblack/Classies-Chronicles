@@ -1,0 +1,14 @@
+{
+  "episode_id": "S00E01",
+  "ai_desk_scope": "CURRENT_EPISODE",
+  "retrieval_scopes_allowed": ["CURRENT_EPISODE", "CURRENT_SEASON", "ALL_APPROVED_EPISODES", "GLOBAL_CHRONICLES"],
+  "default_ai_mode": "CONTROLLED",
+  "live_mode_switches": ["CONTROLLED", "OPEN_ASSIST", "OFFLINE"],
+  "editorial_authority": "HUMAN_PRODUCER",
+  "consent_gate": true,
+  "licensing_gate": true,
+  "news_fabrication_block": true,
+  "canon_creation_requires_approval": true,
+  "raw_episode_media_storage": false,
+  "notes": "Persistent CC_AI_DESK architecture is shared across the franchise. Episode data remains episode-owned."
+}

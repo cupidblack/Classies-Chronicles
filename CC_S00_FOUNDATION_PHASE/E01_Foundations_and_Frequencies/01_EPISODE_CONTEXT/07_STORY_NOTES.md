@@ -1,4 +1,4 @@
-# S00E01 — Story Notes v1.0
+# S00E01 — Story Notes v2.0
 
 ## 1. Main key topic
 
@@ -11,86 +11,79 @@ S00E01 is a **mystery-and-foundation pilot**, not a complete superhero origin.
 It should:
 
 - welcome new viewers;
-- reward archive-aware viewers;
+- reward viewers familiar with the archive;
 - reconstruct the established 9 July 2026 Singapore event;
 - introduce the Koware/Buzzjuice ecosystem;
-- demonstrate the Bible + education + news + fictional-story integration model;
-- introduce the AI Desk as a participant;
+- demonstrate Bible + education + current-awareness + fictional-story integration;
+- introduce the AI Desk as a participant without making it the protagonist;
+- establish the production philosophy of the Foundation Phase;
 - end with a live mystery.
 
 ## 3. Narrative spine
 
 **Signal → evidence → uncertainty → learning → community → new signal**
 
-## 4. Story beats
+## 4. The story
 
 ### Cold Open — The file
 
 A present-day Foundation Phase archive review stops on:
 
-**09 JULY 2026 — SINGAPORE**
+`09 JULY 2026 — SINGAPORE`
 
-A waveform appears. The archive interface glitches.
+A waveform appears. The archive interface briefly glitches.
 
 ### Act 1 — The old clues
 
-Brief flashes of Blue Crown, an RF scanner, unusual records, vivid dreams and unexplained signals.
+Brief visual memories of Blue Crown, an RF scanner, old notes, unusual dreams and unexplained signals.
 
-Narration establishes a core rule:
+Narrator establishes:
 
-**A clue is not an explanation.**
+> A clue is not an explanation.
 
-### Act 2 — Singapore
+### Act 2 — Bugis, 9 July 2026
 
-Reconstruct the established Chapter 4 event. Enka has finished packing and is leaving his Bugis apartment. The hum begins. Lights flicker. He recognizes the EduBeam.
+Enka packs the last bags from his Bugis apartment. A low hum begins. Lights flicker. He recognizes the EduBeam.
 
-Keep the scene tense but human.
+The scene remains grounded in the established Chapter 4 record rather than inventing a new origin event.
 
-### Act 3 — The impossible overlap
+### Act 3 — The overlap
 
-Enka experiences the sensation of two locations occupying the same moment.
+Reality seems to double. Enka senses the car and another location occupying the same moment.
 
-Principal slapstick beat:
+**Principal slapstick beat:** while trying to keep his scanner/phone pointed toward the signal, he backs into the car door.
 
-He tries to keep his scanner/phone pointed toward the signal while backing toward the car and bumps into the door.
+He pauses and says:
 
-He pauses:
-
-> "If science wants my attention, it could at least knock."
-
-The joke releases tension without weakening the event.
+> “If science wants my attention, it could at least knock.”
 
 ### Act 4 — Materialization
 
-Near the colleague's apartment, the environment subtly dims.
+Near a colleague's apartment, the environment subtly dims. A shadow-like form gathers. The figure becomes clearer as colour returns.
 
-A shadow-like form gathers.
+Enka stabilizes and asks:
 
-Colour returns as Enka stabilizes.
+> “Where am I?”
 
-He asks:
+A phone rings. The caller asks where he is. Enka cannot give a useful answer.
 
-> "Where am I?"
-
-This is the visual seed for the later "Black" identity.
+The moment becomes the visual seed for the later “Black” identity without naming it prematurely.
 
 ### Act 5 — Foundation
 
-Return to the present-day archive.
+Return to the present-day archive. The host explains that the Foundation Phase exists to build the community, educational and production foundation before the official chronicles begin.
 
-The host introduces the Foundation Phase and explains that Buzzjuice Network and Buzzjuice Courses provide the learning/community layer through which the audience will explore what comes next.
-
-The Chronicle itself remains a story, not an advertisement.
+Buzzjuice Network and Buzzjuice Courses are introduced naturally as part of that foundation.
 
 ### Closing mystery
 
-The AI Desk flags a new pulse in the archive:
+The AI Desk flags a new pulse:
 
 `INSUFFICIENT EVIDENCE`
 
-The host asks:
+Host:
 
-> "Then why is the signal back?"
+> “Then why is the signal back?”
 
 Cut to black.
 
@@ -120,31 +113,25 @@ Do not fully explain or demonstrate:
 - controlled Alpha-state mechanics;
 - telekinesis/telepathy as established abilities.
 
-These can develop later after narrative groundwork.
+## 7. Future power-development map
 
-## 7. News integration
+Later episodes may gradually introduce:
 
-Use current headlines primarily as thematic mirrors:
+1. Personal Awareness practice;
+2. prayer/meditation as a controllable awareness state;
+3. Tai Chi/Qigong;
+4. short-range intentional materialization;
+5. experimental fictional technology;
+6. the ethical problem of using perception to intervene in other people's lives.
 
-- AI and coding entering education;
-- responsible AI education in Singapore;
-- AI/education development in Malaysia;
-- local safety awareness in Genting.
+## 8. Humour rules
 
-Do not claim Cu caused or solved any real incident.
+Keep humour light and character-based. The car-door collision is the main physical beat. Other humour should come from Enka's observational reactions rather than turning the EduBeam event into a joke.
 
-## 8. Bible integration
+## 9. News integration
 
-Nehemiah 1–7 provides the thematic lens: hear, pray, investigate, organize, rebuild, remain watchful.
+News may influence the Foundation Phase, but E01 does not require a headline-driven incident. If a verified headline is used, the story must clearly distinguish the real report from the fictional Chronicle.
 
-## 9. Humour
+## 10. Community participation
 
-One principal physical/comedic beat in the ~200-second Chronicle, plus small observational humour in the podcast.
-
-## 10. Ending question
-
-**If the archive is still changing, is someone—or something—still watching Enka?**
-
-## 11. Canon status
-
-All new mechanics introduced here are either **PROPOSED_NEW_CANON**, **WORKING_INTERPRETATION** or **SPECULATION** unless backed by the archive.
+Future episodes can incorporate consented member profiles, course participation and community stories. E01 should introduce this concept without harvesting or fictionalizing real member data without explicit consent.

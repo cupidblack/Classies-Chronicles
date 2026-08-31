@@ -1,17 +1,3 @@
 {
-  "episode_id": "S00E01",
-  "template": "Episode_Prompt_Template_v3.2",
-  "retrieval_scope": "CURRENT_EPISODE",
-  "primary_continuity_source": "Classies_Chronicles-Pilot_Season-Chapter_4.txt",
-  "canon_sources": [
-    "CUPID_BLACK_CHARACTER_CANON.md v0.4.0",
-    "EDUBEAM_CANON.md v0.4.0"
-  ],
-  "studio_architecture_sources": [
-    "Studio_Structure_Skeletal_Blueprint_v23.0.txt",
-    "Podcast_Communications_Module.txt",
-    "Classies_Chronicles_AI_Desk_Architecture_v22.0.txt"
-  ],
-  "research_cutoff": "2026-08-31",
-  "producer_approval": "PENDING"
+  "placeholder": "replace during final generation"
 }

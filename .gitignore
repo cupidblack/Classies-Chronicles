@@ -1,88 +1,91 @@
-# Secrets / local configuration
-.env
-.env.*
-!.env.example
-*.key
-*.pem
-secrets/
-credentials/
+# ============================================================
+# Classies Chronicles — repository hygiene
+# ============================================================
 
-# Node / tooling
-node_modules/
-npm-debug.log*
-.pnpm-store/
-.yarn/
-dist/
-build/
-
-# Python tooling
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-
-# AI Desk derived/rebuildable data
-CC_AI_DESK/runtime/
-CC_AI_DESK/cache/
-CC_AI_DESK/logs/
-CC_AI_DESK/index/
-CC_AI_DESK/db/
-*.sqlite
-*.sqlite3
-*.db
-*.fts5
-*.npy
-*.faiss
-embeddings/
-vector_store/
-
-# Local model/provider caches
-models/
-provider_cache/
-
-# Raw production media
-RAW/
-raw/
-audio/raw/
-video/raw/
-recordings/
-OBS/
-*.wav
-*.mp3
-*.flac
-*.mp4
-*.mov
-*.mkv
-*.mxf
-
-# REAPER / DAW temporary files
-*.rpp-bak
-*.reapeaks
-*.rpp.lock
-REAPER_Temp/
-Audio_Temp/
-
-# Editing caches
-cache/
-Cache/
-proxies/
-render_cache/
-preview_cache/
-
-# OS/editor files
-Thumbs.db
+# OS / editor
 .DS_Store
-*.tmp
-*.temp
+Thumbs.db
 *.swp
+*.swo
 .vscode/
 .idea/
 
-# Keep canonical source artifacts under Git:
-# *.md
-# *.txt
-# *.json
-# prompts
-# scripts
-# episode context
-# approved provenance/configuration
+# Python / Node / temporary tooling
+__pycache__/
+*.pyc
+node_modules/
+.npm/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# Temporary AI generation outputs
+.tmp/
+tmp/
+working/
+cache/
+AI_TEMP/
+AI_GENERATION_TEMP/
+
+# Derived retrieval/index data — rebuildable
+CC_AI_DESK/INDEX/
+CC_AI_DESK/CACHE/
+CC_AI_DESK/DERIVED/
+*.sqlite-shm
+*.sqlite-wal
+*.faiss
+*.npy
+
+# Local harvested community data — NEVER commit raw personal/member data
+CC_AI_DESK/COMMUNITY_HARVEST/
+CC_AI_DESK/PRIVATE_MEMBER_DATA/
+
+# Consent-sensitive exports
+**/PRIVATE/
+**/CONSENTED_RAW/
+**/UNPUBLISHED_MEMBER_DATA/
+
+# Audio/video scratch and renders
+**/RAW_AUDIO/
+**/RAW_VIDEO/
+**/SCRATCH_AUDIO/
+**/SCRATCH_VIDEO/
+**/RENDERS/
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Large project caches
+*.peak
+*.reapeaks
+*.pek
+*.cfa
+*.ims
+
+# Keep source documentation tracked
+!**/*.md
+!**/*.txt
+!**/*.json
+!**/*.yaml
+!**/*.yml
+!**/*.ps1
+!**/*.js
+!**/*.py
+
+# Keep explicit production scripts/configuration tracked
+!CC_AI_DESK/**/*.md
+!CC_AI_DESK/**/*.txt
+!CC_AI_DESK/**/*.json
+!CC_S00_FOUNDATION_PHASE/**/*.md
+!CC_S00_FOUNDATION_PHASE/**/*.txt
+!CC_S00_FOUNDATION_PHASE/**/*.json
+
+# Final approved media should be archived outside the source repository or via LFS.

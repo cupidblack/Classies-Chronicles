@@ -1,26 +1,20 @@
 # Course Reference — S00E01
 
-**Reference:** Koware Group / Buzzjuice Network / Buzzjuice Courses introduction  
-**Formal Health & Safety lesson:** None
+## Scope
 
-## What E01 establishes
+No specific Health & Safety lesson is required for S00E01.
 
-The audience should understand that:
+This episode introduces:
 
-1. Buzzjuice Network sits within the wider Koware ecosystem.
-2. Buzzjuice Courses is an education/product layer of that ecosystem.
-3. The Foundation Phase will explain the platform, registration, orientation, education and participation.
-4. Learning and community participation can eventually connect to Classies Chronicles participation.
+- Koware Group as the wider organizational context;
+- Buzzjuice Network as the community/platform layer;
+- Buzzjuice Courses as an educational/product department of the Koware Group;
+- the Foundation Phase as the preparation period before official Season 1.
 
-## What belongs later
+## Sequencing
 
-Detailed registration/orientation, payment or gating mechanics, KYC, affiliate structures, the full Health & Safety curriculum and the Personal Awareness connection to Enka's abilities should be introduced in later episodes.
+Registration and orientation are primarily reserved for the following Foundation Phase episode. The Health & Safety programme is introduced more substantially in a later episode.
 
-## Diegetic story use
+## Story integration rule
 
-Enka encounters a learning-oriented network while looking for structure and answers. The Chronicle should not become an advertisement.
-
-**Suggested story thought:**  
-"If I'm going to understand what happened to me, I need somewhere to start."
-
-**Canon status:** CONFIRMED_EPISODE_SCOPE
+The Chronicle should not become an advertisement. The educational ecosystem should motivate the narrative theme of **building foundations through learning and community**.

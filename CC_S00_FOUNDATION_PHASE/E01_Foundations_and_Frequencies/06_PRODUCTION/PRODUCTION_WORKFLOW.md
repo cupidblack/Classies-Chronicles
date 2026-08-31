@@ -1,76 +1,104 @@
-# S00E01 Production Workflow — Refactored
+# S00E01 Production Workflow — Refactored Lean-First Workflow
 
-## Operating principle
+The earlier 20-day schedule is retained as a planning ceiling, not a mandatory delay. Because the Chronicle and studio systems are already commissioned, production should proceed in short approval loops.
 
-Use **lean staged execution**. Do not wait for a 20-day waterfall if a phase can be completed earlier.
+## Phase 1 — Story lock
 
-### Gate 1 — Context lock
+1. Review `07_STORY_NOTES.md`.
+2. Review continuity ledger.
+3. Review character and EduBeam canon.
+4. Review Chronicle draft.
+5. Producer approves or returns revision notes.
 
-- Verify episode metadata.
-- Verify Bible reference.
-- Verify course scope.
-- Verify Chapter 4 continuity.
-- Verify current headlines.
-- Verify canon status.
+**Gate:** Chronicle approved.
 
-**Output:** context package locked.
+## Phase 2 — Narration
 
-### Gate 2 — Chronicle
+1. Record voice-actor narration.
+2. Record producer narration where required.
+3. Generate/record AI lines if used.
+4. Review all narration.
+5. Edit for timing and performance.
+6. Export clean master stems.
 
-- Approve story brief.
-- Draft Chronicle.
-- Generate storyboard/visual prompts.
-- Record narration.
-- Edit visuals and sound.
-- Producer QA.
+## Phase 3 — Chronicle media
 
-**Output:** approved ~200-second Chronicle.
+1. Build visuals from the scene plan.
+2. Create/obtain music and SFX with appropriate licensing.
+3. Assemble narration first.
+4. Add visuals.
+5. Add sound design.
+6. Export review cut.
 
-### Gate 3 — Trailer
+## Phase 4 — Chronicle QA
 
-Derive the 20-second trailer strictly from the approved Chronicle.
+Check:
 
-**Output:** approved trailer.
+- timing;
+- continuity;
+- canon status;
+- factuality;
+- consent;
+- licensing;
+- audio quality;
+- visual consistency.
 
-### Gate 4 — Podcast
+**Gate:** Chronicle locked.
 
-- Prepare discussion package.
-- Test studio 3-way communications.
-- Confirm AI cueing.
-- Record host/guest/AI.
-- Insert approved trailer and Chronicle.
-- Edit and mix.
+## Phase 5 — Trailer
 
-**Output:** podcast master.
+Derive the 20-second trailer only from the approved Chronicle.
 
-### Gate 5 — Publication
+## Phase 6 — Podcast recording
 
-- Final content QA.
-- Canon/provenance update.
-- Episode manifest.
-- Artwork/metadata.
-- Publish.
+Use the already-tested ENVY/Pavilion communications system. The specialist `Podcast_Communications_Module.txt` remains authoritative for routing details.
 
-## Parallelization
+Recommended recording order:
 
-Narration, visual preparation and podcast discussion preparation may run in parallel after the story brief is approved.
+1. cold open;
+2. jingle/welcome;
+3. Bible reflection;
+4. topic overview;
+5. trailer;
+6. main discussion;
+7. Chronicle;
+8. open discussion;
+9. community/support;
+10. next episode preview;
+11. closing mystery;
+12. credits/community clips.
 
-The podcast itself should not be finalised before the Chronicle is approved.
+## Phase 7 — Podcast edit
 
-## Studio integration
+Use REAPER as the primary audio editing environment where practical, with CapCut Desktop for the main video assembly where feasible. Adobe Audition remains an alternative for detailed audio cleanup.
 
-Use the already-installed communications system. The AI Desk remains controlled by the producer. No new routing architecture is required for E01.
+## Phase 8 — Final QA
 
-## Minimum viable launch
+Confirm:
 
-If time is critical, launch with:
+- no feedback/echo;
+- no clipped audio;
+- AI participation is intelligible;
+- all claims are appropriately classified;
+- all member content is consent-gated;
+- current news is sourced;
+- future news is not fabricated;
+- links and metadata are correct.
 
-- approved Chronicle;
-- approved trailer;
-- host + AI podcast;
-- verified headlines;
-- Bible reflection;
-- Buzzjuice/Koware introduction;
-- clear next-episode hook.
+## Phase 9 — Archive
 
-Guests and community shorts are enhancements, not blockers.
+Archive:
+
+- final Chronicle;
+- final trailer;
+- final podcast master;
+- source audio;
+- visual assets;
+- project files;
+- provenance manifest;
+- QA report;
+- final approval state.
+
+## Phase 10 — Publication
+
+Publish only after producer approval and licensing/consent checks.
