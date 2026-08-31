@@ -1,7 +1,7 @@
 # Cupid Black Character Canon
 
 **Canon ID:** CHAR-CUPID-BLACK  
-**Version:** 0.7.0  
+**Version:** 0.8.0  
 **Status:** WORKING CANON — FOUNDATION PHASE  
 **Single reusable character reference:** YES  
 **Last updated:** 2026-08-31  
@@ -9,127 +9,123 @@
 
 ## 1. Identity and name evolution
 
-**Historical/primary name:** Cupid Enka
+**Historical / primary name:** Cupid Enka
 
 **Later identity:** Cupid Black
 
-**Alias:** Cu / “Q” (pronounced “Q”)
+**Alias:** Cu / "Q" (pronounced "Q")
 
-The later labels must not be casually inserted into earlier chronology. In the established Chapter 4 material, Enka adopts **Cu** later while moving through Kuala Lumpur. The visual association with **Black** develops from his shadow-like materialization signature.
+The July 2026 Singapore event must be told as an Enka story. The later Cu identity develops in Kuala Lumpur. The visual "Black" motif emerges from the shadow-like materialisation signature.
 
 ## 2. Core characteristics
 
 Enka is:
-
 - technically curious;
 - observant and pattern-oriented;
 - intelligent but not omniscient;
 - emotionally intense;
-- relational and capable of empathy;
+- relational and empathetic;
 - humorous under pressure;
 - spiritually curious;
 - motivated by innocence, fairness and perceived justice;
 - resourceful when resources are scarce;
-- willing to help strangers even when it costs him;
+- willing to help strangers;
 - increasingly interested in disciplined awareness.
 
-He is **not** automatically heroic, infallible or always correct. His interventions can be excessive because his information is incomplete.
+He is not infallible.
+
+His unusual perceptions can be incomplete, misleading or emotionally coloured.
 
 ## 3. Central character rule
 
 > **Perception is not understanding.**
 
-Enka may perceive a signal, emotional state, possible future, déjà vu or anomalous location without knowing its cause or reliability.
+A signal, intuition, déjà vu, dream or anomalous perception may be meaningful without giving Enka a complete explanation.
 
-His abilities must never become an automatic problem-solving engine.
+## 4. Psychological baseline — S00E01
 
-## 4. Psychological baseline for S00E01
+The 9 July 2026 event leaves Enka:
+- frightened;
+- disoriented;
+- curious;
+- technically analytical;
+- uncertain about what he experienced.
 
-The 9 July 2026 Singapore event leaves Enka frightened, disoriented and intensely curious. His recurring thought is:
+Recurring line, used sparingly:
 
-> “I don't even know what is real anymore.”
+> "I don't even know what is real anymore."
 
-Use this line sparingly at moments of genuine uncertainty; it is not a catchphrase to be inserted mechanically.
+It is a genuine expression of uncertainty, not a catchphrase.
 
 ## 5. Ability progression
 
 ### Stage 0 — Ordinary perception
-
-Strong technical observation, curiosity and intuition.
+Strong observation, curiosity and intuition.
 
 ### Stage 1 — Anomalous perception
-
-Unusual recall, dreams, déjà vu and environmental anomalies become increasingly noticeable.
+Unusual recall, dreams, déjà vu and environmental anomalies.
 
 ### Stage 2 — EduBeam surge
-
-A strong EduBeam exposure can produce **high power with low control**, including perceptual doubling and displacement-like phenomena.
+High power with low control:
+- perceptual doubling;
+- displacement-like sensations;
+- partial or full involuntary materialisation.
 
 ### Stage 3 — Controlled awareness
-
-Later episodes may connect prayer, Personal Awareness, meditation, Tai Chi and Qigong with weaker but more controllable states.
+Later episodes may connect Personal Awareness, prayer, meditation, Tai Chi and Qigong with lower-power, higher-control states.
 
 ### Stage 4 — Controlled displacement
-
-Later story material may establish short-range intentional materialization after substantial practice.
+Later episodes may establish short-range intentional materialisation after substantial practice.
 
 ### Stage 5 — Advanced phenomena
-
-Long-range materialization, phasing and dimensional/dream-world travel remain future story material and require explicit producer approval before becoming canon.
+Long-range materialisation, phasing, dimensional travel and dream-world travel require explicit producer approval.
 
 ## 6. Power rule
 
-**EduBeam:** high power / low control  
+**EduBeam:** high power / low control
+
 **Awareness practice:** lower power / higher control
 
-Effects vary according to fictional story conditions and dissipate over time. The story should avoid rigid numerical power percentages unless an approved episode specifically requires them.
+Effects dissipate over time.
 
-## 7. Materialization signature
+Do not hard-code exact power percentages unless an approved story requires them.
 
-When partial or transitional materialization occurs:
+## 7. Materialisation signature
 
+During partial or transitional materialisation:
 - Enka may initially appear darker than normal;
-- the surrounding environment may subtly dim;
-- the form can resemble a shadow, dust or visual distortion;
-- darkness becomes more defined as materialization increases;
-- normal colour returns during stabilization.
+- surrounding light may subtly dim;
+- edges may resemble shadow, dust or visual distortion;
+- darkness becomes more defined as materialisation increases;
+- normal colour returns during stabilisation.
 
-This is the proposed visual origin of the later **Black** identity.
+This is the visual seed of the later "Black" identity.
 
-## 8. S00E01 boundary
+## 8. Ethical limitation
 
-E01 may show:
+Enka's abilities must never become an automatic problem-solving engine.
 
-- the established 9 July Singapore event;
-- dual-location sensation;
-- involuntary displacement/materialization;
-- technical curiosity;
-- fear and uncertainty;
-- humour under pressure;
-- responsibility;
-- the beginning of a mystery.
+He can make mistakes.
 
-E01 should **not** show mastery of controlled teleportation, dimensional travel, dream-world travel, drone-based EduBeam reproduction, or fully trained Alpha-state control.
+He can misread people.
 
-## 9. Long-term development notes
+He can overreact because he cares strongly about innocence and justice.
 
-Future story possibilities include meditation, prayer, Personal Awareness, Tai Chi, Qigong, sound/frequency themes and fictional technology experiments. Dangerous electrical or neurological experimentation must remain fictional and non-actionable.
+That moral tension is part of the character.
 
-## 10. Ethical tension
+## 9. Experimental behaviour
 
-Enka wants innocence protected and wrongdoing confronted. Because his information is incomplete, he can intervene too aggressively.
+Enka is curious enough to test hypotheses, but the fiction should not provide real-world instructions for dangerous electrical, neurological or self-experimentation.
 
-Recurring moral question:
+Any future experiments are presented as fictional story devices and should be written at a narrative level rather than as reproducible procedures.
 
-> “If you can perceive something others cannot perceive, do you have the right to intervene?”
+## 10. S00E01 locked boundary
 
-## 11. Canon classification
+E01 establishes:
+- the 9 July event;
+- anomalous perception;
+- involuntary displacement;
+- the visual Black signature;
+- uncertainty.
 
-- **CONFIRMED_CANON:** details explicitly established by approved archive material.
-- **ARCHIVAL_RECORD:** historical story material retained for continuity.
-- **PROPOSED_NEW_CANON:** new development awaiting producer approval.
-- **WORKING_INTERPRETATION:** useful explanation that may change.
-- **SPECULATION:** intentional possibility/foreshadowing.
-- **UNKNOWN:** deliberately unanswered.
-
-New writers must classify significant additions before treating them as established facts.
+E01 does not establish controlled superhero mastery.

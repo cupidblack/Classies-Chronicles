@@ -1,20 +1,23 @@
 # Course Reference — S00E01
 
 ## Scope
+No formal Health & Safety lesson is taught in S00E01.
 
-No specific Health & Safety lesson is required for S00E01.
-
-This episode introduces:
-
-- Koware Group as the wider organizational context;
+The episode introduces:
+- Koware Group as the wider organisational context;
 - Buzzjuice Network as the community/platform layer;
-- Buzzjuice Courses as an educational/product department of the Koware Group;
+- Buzzjuice Courses as an educational/product department;
 - the Foundation Phase as the preparation period before official Season 1.
 
 ## Sequencing
+Registration and orientation are primarily reserved for the next Foundation Phase episode.
 
-Registration and orientation are primarily reserved for the following Foundation Phase episode. The Health & Safety programme is introduced more substantially in a later episode.
+The Health & Safety programme is introduced more substantially later.
 
-## Story integration rule
+## Story integration
+The Chronicle must not become an advertisement. The education ecosystem should motivate the narrative theme:
 
-The Chronicle should not become an advertisement. The educational ecosystem should motivate the narrative theme of **building foundations through learning and community**.
+> **Build the foundation before trying to control the signal.**
+
+## Canonical source
+Buzzjuice Courses — Registration & Orientation reference supplied by the producer.

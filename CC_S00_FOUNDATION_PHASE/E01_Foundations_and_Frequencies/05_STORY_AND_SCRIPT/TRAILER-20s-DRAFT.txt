@@ -1,37 +1,20 @@
-# S00E01 — 20-Second Trailer
+# The Signal Before the Story — 20-Second Trailer
+## Derived from the Chronicle draft; final version must be regenerated from the locked Chronicle.
 
-[0–4s]
+[LOW HUM]
 
 NARRATOR:
-“Some stories begin with a person. This one begins with a signal.”
+"A strange frequency. A man who suddenly remembers two places at once."
 
-[4–8s]
-
-VISUAL: 09 JULY 2026 — SINGAPORE. Lights flicker. The hum rises.
+[CAR DOOR IMPACT]
 
 ENKA:
-“Not again.”
+"If science wants my attention, it could at least knock."
 
-[8–12s]
+NARRATOR:
+"Before Cupid Black became a name... there was a signal."
 
-THUD. Enka hits the car door.
+[HIT / CUT]
 
-ENKA:
-“If science wants my attention, it could at least knock.”
-
-[12–17s]
-
-VISUAL: A darkened room. A shadow-like human form gathers. Colour returns.
-
-ENKA:
-“Where am I?”
-
-[17–20s]
-
-AI DESK:
-“Insufficient evidence.”
-
-HOST:
-“Then why is the signal back?”
-
-CUT TO BLACK.
+CLASSIES CHRONICLES
+S00E01 — FOUNDATIONS & FREQUENCIES

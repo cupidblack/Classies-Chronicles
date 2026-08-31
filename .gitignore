@@ -1,5 +1,5 @@
 # ============================================================
-# Classies Chronicles — repository hygiene
+# Classies Chronicles — repository hygiene v2.0
 # ============================================================
 
 # OS / editor
@@ -41,7 +41,7 @@ CC_AI_DESK/DERIVED/
 *.faiss
 *.npy
 
-# Local harvested community data — NEVER commit raw personal/member data
+# Local harvested community data — never commit raw personal/member data
 CC_AI_DESK/COMMUNITY_HARVEST/
 CC_AI_DESK/PRIVATE_MEMBER_DATA/
 
@@ -68,7 +68,11 @@ CC_AI_DESK/PRIVATE_MEMBER_DATA/
 *.reapeaks
 *.pek
 *.cfa
-*.ims
+
+# Local archive packaging / release scratch
+_release/
+_package/
+*.zip
 
 # Keep source documentation tracked
 !**/*.md

@@ -1,0 +1,31 @@
+{
+  "episode_id": "S00E01",
+  "package_version": "1.0.0",
+  "prepared": "2026-08-31",
+  "episode": "Foundations & Frequencies",
+  "chronicle": "The Signal Before the Story",
+  "status": "PRODUCER_REVIEW_PENDING",
+  "canon_inputs": [
+    "CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md",
+    "CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md"
+  ],
+  "episode_context": [
+    "01_EPISODE_CONTEXT/00_CONTEXT_STATUS.json",
+    "01_EPISODE_CONTEXT/01_METADATA.json",
+    "01_EPISODE_CONTEXT/02_BIBLE_REFERENCE.md",
+    "01_EPISODE_CONTEXT/03_COURSE_LESSON_REFERENCE.md",
+    "01_EPISODE_CONTEXT/04_CONTINUITY_REFERENCE.md",
+    "01_EPISODE_CONTEXT/05_HEADLINES.json",
+    "01_EPISODE_CONTEXT/07_STORY_NOTES.md"
+  ],
+  "outputs": [
+    "05_STORY_AND_SCRIPT/CHRONICLE_BRIEF.md",
+    "05_STORY_AND_SCRIPT/CHRONICLE-200s-DRAFT.txt",
+    "05_STORY_AND_SCRIPT/TRAILER-20s-DRAFT.txt",
+    "05_STORY_AND_SCRIPT/PODCAST_RUNDOWN.md",
+    "05_STORY_AND_SCRIPT/NARRATION_PLAN.md"
+  ],
+  "future_news_cutoff": "2026-08-31",
+  "chronicle_first": true,
+  "ai_cohost_mode": "CONTROLLED"
+}

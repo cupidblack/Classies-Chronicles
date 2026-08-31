@@ -2,22 +2,23 @@
 
 **Primary reference:** Nehemiah 1–7
 
-## Story-use focus
+## Episode motif
+The episode uses Nehemiah as a **foundation/rebuilding motif**, not as a literal retelling.
 
-The episode does not retell Nehemiah literally. It draws thematic motifs from:
+Key motifs:
+- recognise a problem instead of ignoring it;
+- gather trustworthy information;
+- rebuild deliberately;
+- assign responsibility;
+- persist under pressure;
+- protect the work while it is being built;
+- involve a community in the rebuilding.
 
-- recognizing a problem rather than ignoring it;
-- gathering trustworthy information;
-- rebuilding with purpose;
-- assigning responsibility;
-- persistence under pressure;
-- protecting the work while it is being built;
-- community participation in a larger reconstruction.
+## Podcast integration
+The Bible reflection should be brief (approximately 5–20 seconds) and should connect the Foundation Phase to the idea of building something reliable before scaling it.
 
-## Episode integration
+Suggested reflection:
 
-The Foundation Phase is presented as a modern rebuilding exercise: the characters and audience are learning how to build a trustworthy creative/educational community while Enka is trying to understand an increasingly strange signal.
+> "Nehemiah did not rebuild by pretending the broken walls were fine. He inspected the problem, organised people and rebuilt with purpose. That is the spirit of this Foundation Phase: before the chronicles become a full season, we build the walls, check the gates and make sure the signal can be trusted."
 
-The Bible reference should remain brief in the podcast and should not be forced into the Chronicle as exposition.
-
-**Status:** Approved episode reference supplied by producer.
+Do not turn the Chronicle into a sermon or force a Bible passage into dialogue.

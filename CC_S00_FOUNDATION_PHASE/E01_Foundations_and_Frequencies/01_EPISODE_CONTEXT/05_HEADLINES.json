@@ -1,132 +1,48 @@
 {
-  "episode_id": "S00E01",
-  "episode_title": "Foundations & Frequencies",
-  "headline_collection_date": "2026-08-31",
-  "headline_period": "2026-08-09 to 2026-10-17",
-  "collection_status": "VERIFIED_THROUGH_MID_AUGUST; SEPTEMBER_OCTOBER_PROJECTED",
-  "locations": [
-    "Adenta, Ghana",
-    "Greater Accra, Ghana",
-    "Ghana (national)",
-    "West Africa (regional)",
-    "Singapore",
-    "Genting, Malaysia",
-    "Kuala Lumpur, Malaysia",
-    "Global"
-  ],
-  "verified_headlines_ghana": [
-    {
-      "rank": 1,
-      "headline": "Ghana SOE Sector Financial Rebound: Revenue Hits GH¢176.43 Billion",
-      "source": "Ghanaian Times",
-      "date": "2026-08-15",
-      "category": "Economics/Public Sector",
-      "cupid_angle": "System-building; contrast with hidden EduBeam infrastructure."
-    },
-    {
-      "rank": 2,
-      "headline": "Ghana Immigration Service Arrests 1,055 in Street Begging Network Crackdown",
-      "source": "Prime News Ghana",
-      "date": "2026-08-20",
-      "category": "Law Enforcement",
-      "cupid_angle": "Organized networks of exploitation; justice for vulnerable people (Enka's passion)."
-    },
-    {
-      "rank": 3,
-      "headline": "Accra Flooding Claims 13 Lives; Urban Infrastructure & Insurance Gaps Highlighted",
-      "source": "Accra Street Journal",
-      "date": "2026-08-22",
-      "category": "Disaster/Urban Planning",
-      "cupid_angle": "Unseen forces; need for awareness and early warning."
-    },
-    {
-      "rank": 4,
-      "headline": "Northshore Apparel Factory Inaugurated in Savelugu; Northern Region Industrialization Accelerates",
-      "source": "Ghanaian Times",
-      "date": "2026-08-18",
-      "category": "Industry/Infrastructure",
-      "cupid_angle": "Distributed economic development (mirrors Buzzjuice's decentralized model)."
-    },
-    {
-      "rank": 5,
-      "headline": "13 Mining Blocks Secured for Small-Scale Miners; Gold & Mineral Opportunities Expand",
-      "source": "Ghana Ministry of Lands",
-      "date": "2026-08-12",
-      "category": "Economic Opportunity",
-      "cupid_angle": "Fair access and opportunity distribution."
-    }
-  ],
-  "verified_headlines_singapore_malaysia": [
-    {
-      "rank": 1,
-      "headline": "Genting Singapore Reports 34% Profit Drop (1H 2026); Refresh & Expansion Costs Impact Results",
-      "source": "AG Brief / Genting Corporate",
-      "date": "2026-08-13",
-      "category": "Business/Hospitality",
-      "cupid_angle": "Genting location undergoing renovation; mirrors Enka's personal transformation."
-    },
-    {
-      "rank": 2,
-      "headline": "Genting Malaysia Faces Q2 2026 Net Loss; Uncertain Global Outlook Amid Geopolitical Risks",
-      "source": "The Star Malaysia",
-      "date": "2026-08-20",
-      "category": "Business/Economics",
-      "cupid_angle": "Uncertainty and dual pressures; adaptation required."
-    },
-    {
-      "rank": 3,
-      "headline": "Singapore ERP Charges Resume on Orchard Road; Congestion Management via Traffic Monitoring",
-      "source": "The Straits Times",
-      "date": "2026-08-15",
-      "category": "Infrastructure/Urban Planning",
-      "cupid_angle": "Surveillance systems tracking movement (mirrors EduBeam location-tracking)."
-    },
-    {
-      "rank": 4,
-      "headline": "Malaysia National Day (Merdeka) Celebrations; Cultural Unity & National Pride Events",
-      "source": "New Straits Times",
-      "date": "2026-08-31",
-      "category": "National/Cultural",
-      "cupid_angle": "Public celebration; collective identity during Enka's personal crisis."
-    },
-    {
-      "rank": 5,
-      "headline": "Sarawak Haze Emergency: Air Quality Crisis & Regional Environmental Concern",
-      "source": "New Straits Times",
-      "date": "2026-09-05",
-      "category": "Environment/Health",
-      "cupid_angle": "Invisible threat affecting perception; atmospheric 'signal' distorting reality."
-    }
-  ],
-  "global_headlines": [
-    {
-      "rank": 1,
-      "headline": "AI Ethics Framework Adopted by UN: Global Standards for Transparent AI Deployment",
-      "category": "Global Technology/Policy",
-      "cupid_angle": "STRONG: EduBeam operates without ethical framework; Buzzjuice advocates transparent, ethical tech."
-    },
-    {
-      "rank": 2,
-      "headline": "International Neuroscience Conference 2026: Brain-Computer Interface Breakthroughs & Ethics",
-      "category": "Science/Research Ethics",
-      "cupid_angle": "VERY STRONG: Neural technology ethics mirror Enka's personal crisis with EduBeam mind-targeting."
-    },
-    {
-      "rank": 3,
-      "headline": "Misinformation & Deep Fakes Crisis: Tech Platforms Battle Truth vs. Perception",
-      "category": "Media/Technology",
-      "cupid_angle": "SYMBOLIC: Enka's core question—'What is real?'—mirrors global crisis of truth and perception."
-    }
-  ],
-  "narrative_integration": {
-    "method": "Headlines establish real-world backdrop. They are NOT woven directly into dialogue. Instead, they create thematic tension with Enka's invisible crisis.",
-    "tonal_backdrop": "Infrastructure, development, innovation, ethical questions. Enka's EduBeam experience is the dark mirror of this progress.",
-    "podcast_integration": "Brief reference in podcast: 'While these headlines made the news, Enka's story remained invisible. Hidden. Unheard. Until now.'",
-    "chronicle_use": "Optional: Headlines may inspire thematic motifs (e.g., flooding as metaphor for unseen danger) but do NOT become explicit plot points in S00E01."
+  "status": "PARTIAL_CURRENT_WINDOW",
+  "requested_window": {
+    "start": "2026-08-09",
+    "end": "2026-10-17"
   },
-  "source_verification": {
-    "status": "VERIFIED_THROUGH_2026_08_25",
-    "unverified_period": "2026_09_01_TO_2026_10_17",
-    "note": "September–October projections are pending actual news. Producer should update as real headlines become available."
-  }
+  "retrieval_cutoff": "2026-08-31",
+  "future_dates": "PENDING_FUTURE_RETRIEVAL",
+  "primary_locations": [
+    "Adenta",
+    "Singapore",
+    "Genting",
+    "Kuala Lumpur"
+  ],
+  "episode_use": "OPTIONAL",
+  "editorial_rule": "S00E01 does not require a headline-driven incident. Real headlines must remain factually separate from the fictional Chronicle.",
+  "current_examples": [
+    {
+      "location": "Adenta",
+      "date": "2026-08-24",
+      "headline": "Adenta Circuit Court judge cautions lawyers to use established legal procedures rather than attacking judges.",
+      "source": "Citi Newsroom",
+      "source_url": "https://www.citinewsroom.com/2026/08/dont-attack-judges-over-court-decisions-adenta-circuit-court-judge-to-lawyers/"
+    },
+    {
+      "location": "Singapore",
+      "date": "2026-08-31",
+      "headline": "Singapore to legislate stronger safeguards and possible daily time limits for teens on social media.",
+      "source": "CNA",
+      "source_url": "https://www.channelnewsasia.com/singapore"
+    },
+    {
+      "location": "Genting",
+      "date": "2026-08-18",
+      "headline": "Police confirmed a robbery at a shopping centre in Genting Highlands; local reporting also covered the theft of jewellery.",
+      "source": "Astro Awani",
+      "source_url": "https://www.astroawani.com/topic/Genting"
+    },
+    {
+      "location": "Kuala Lumpur",
+      "date": "2026-08-20",
+      "headline": "Police reported action involving children being exploited for begging in Kuala Lumpur.",
+      "source": "Astro Awani",
+      "source_url": "https://www.astroawani.com/topic/Kuala-Lumpur"
+    }
+  ],
+  "future_retrieval_note": "Do not invent September or October headlines. Refresh this file after the requested future dates occur."
 }

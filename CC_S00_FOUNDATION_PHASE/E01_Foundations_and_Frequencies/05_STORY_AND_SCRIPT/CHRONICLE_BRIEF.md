@@ -6,25 +6,31 @@
 **POV:** close third-person / Enka-focused  
 **Primary question:** What happens when the signal is real but its meaning is not yet understood?
 
-## Visual language
+## Creative improvement
+The pilot uses an **evidence-vs-explanation** framing device. This makes the story easier for new viewers to enter and gives the AI Desk a meaningful role without making AI the hero.
 
+## Visual language
 - clean archive interface;
-- restrained night blues/greys;
-- subtle waveform/glitch effects;
+- restrained night blues / greys;
+- waveform and subtle glitch effects;
 - realistic Singapore apartment/car environments;
-- shadow/dimming materialization effect;
-- colour returns during stabilization;
-- no superhero costume or exaggerated comic-book power display.
+- subtle dimming during materialisation;
+- shadow/dust transitional effect;
+- colour returning during stabilisation;
+- no superhero costume;
+- no exaggerated comic-book energy blast.
 
 ## Audio language
-
-- low-frequency fictional hum;
-- subtle electrical ambience;
-- restrained heartbeat/room tone;
-- one physical comedy impact;
-- silence immediately after the joke;
+- low fictional hum;
+- electrical ambience;
+- restrained heartbeat;
+- one car-door impact;
+- a deliberate silence after the joke;
 - final electronic pulse.
 
 ## Story discipline
+The Chronicle should make the audience curious about EduBeam without explaining it away.
 
-The Chronicle should make the audience curious about EduBeam without explaining it away. The emotional destination is not “Enka has become a superhero”; it is “something happened to Enka, and now the search for meaning begins.”
+The emotional destination is:
+
+> **Something happened to Enka, and now the search for meaning begins.**

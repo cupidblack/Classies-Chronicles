@@ -1,133 +1,179 @@
-# Chronicles of Cupid Black — “The Signal Before the Story”
+# Chronicles of Cupid Black — "The Signal Before the Story"
 ## S00E01 Chronicle — approximately 200 seconds
+## Draft status: PRODUCER REVIEW PENDING
 
-[0–20s — THE FILE]
+[0–18s — COLD OPEN: THE ARCHIVE]
 
-VISUAL: A dark but clean archive interface. A record appears:
+VISUAL: A clean, dark archive interface.
+
+A record opens:
 
 09 JULY 2026 — SINGAPORE
 
-NARRATOR:
-“Some stories begin with a person. This one begins with a signal.”
-
 A waveform pulses.
 
-[20–48s — THE OLD CLUES]
-
-FLASHES: Blue Crown. An RF scanner. Old notes. A sleeping Enka suddenly turning toward a sound.
+AI DESK:
+"Archive record found. Event classification: confirmed. Cause: unknown."
 
 NARRATOR:
-“For years there had been odd records, strange dreams, unusual recall... and signals no one could quite explain.”
+"Some stories begin with a person. This one begins with a signal."
+
+[18–43s — THE OLD CLUES]
+
+FLASHES:
+Blue Crown.
+An RF scanner.
+Old handwritten notes.
+A sleeping Enka suddenly turning toward a sound.
+A distant light.
+
+NARRATOR:
+"For years there had been strange records, unusual recall, dreams and signals nobody could quite explain."
 
 Beat.
 
-“Back then, Enka thought he was investigating the mystery.”
+"A clue is not an explanation."
 
-[48–92s — BUGIS, 9 JULY 2026]
+[43–82s — BUGIS, 9 JULY 2026]
 
-Enka packs the last bags from his Bugis apartment.
+Enka is packing the last bags from his Bugis apartment.
 
-A low hum begins.
+He checks the room.
+
+One last bag.
+
+A low HUM begins.
 
 The lights flicker.
 
+Enka freezes.
+
 ENKA:
-“Not again.”
+"Not again."
 
-He moves outside toward the car.
+He grabs his scanner and moves toward the car.
 
-The hum intensifies.
+The hum grows stronger.
 
-The EduBeam strikes.
+He tries to keep the scanner pointed toward the disturbance while moving.
 
-[92–122s — THE OVERLAP]
+Then the EduBeam strikes.
 
-Reality seems to double.
+[82–116s — THE OVERLAP]
 
-Enka sees the car... and another apartment... occupying the same moment.
+The world seems to double.
 
-He tries to keep his scanner/phone pointed toward the signal while backing away.
+For an instant Enka sees the car and another apartment at the same time.
+
+He turns.
+
+The hallway appears where the car should be.
+
+He turns again.
+
+The car is back.
+
+He steps backward while staring at the scanner.
 
 THUD.
 
-He bumps into the car door.
+He hits the car door.
 
 Silence.
 
 ENKA:
-“If science wants my attention, it could at least knock.”
+"If science wants my attention, it could at least knock."
 
 He rubs his side.
 
-The joke disappears into silence as the visual world bends again.
+The humour disappears as the image bends again.
 
-[122–160s — MATERIALIZATION]
+[116–157s — MATERIALISATION]
 
-CUT TO a quiet area near a colleague's apartment.
+CUT TO:
 
-The scene is normal.
+A quiet area near a colleague's apartment.
 
-Then it becomes subtly darker.
+Nothing seems unusual.
 
-A shadow-like form gathers at the edge of the frame.
+Then the light subtly dims.
+
+A faint shadow gathers at the edge of the frame.
 
 Dust-like edges.
 
 A human outline.
 
-Colour slowly returns.
+The figure becomes darker.
 
-Enka stabilizes.
+Then colour begins returning.
+
+Enka stabilises.
 
 He looks around.
 
 ENKA:
-“Where am I?”
+"Where am I?"
 
 His phone rings.
 
 VOICE:
-“Where are you?”
+"Where are you?"
 
 Enka looks around again.
 
 ENKA:
-“I... don't know.”
+"I... don't know."
 
-[160–183s — THE QUESTION]
+[157–181s — THE QUESTION]
 
 NARRATOR:
-“The strange part wasn't simply that Enka had moved.”
+"The strange part wasn't simply that Enka had moved."
 
 Pause.
 
-“The strange part was remembering another place at the same time.”
+"The strange part was remembering another place at the same time."
 
-FLASH: Blue Crown.
+FLASH:
+Blue Crown.
 
-FLASH: RF scanner.
+FLASH:
+RF scanner.
 
-FLASH: a distant light over the night sky.
+FLASH:
+Distant light.
 
 NARRATOR:
-“Technology? Neurology? Something else?”
+"Technology? Neurology? Something else?"
+
+Enka stares at his hands.
 
 ENKA:
-“I don't even know what is real anymore.”
+"I don't even know what is real anymore."
 
-[183–200s — THE FOUNDATION]
+[181–200s — FOUNDATION / NEW SIGNAL]
 
-RETURN TO the present-day archive.
+RETURN TO THE PRESENT-DAY ARCHIVE.
 
-The waveform changes.
+The interface changes.
 
-A new pulse appears.
+The Foundation Phase files appear:
+
+COMMUNITY.
+LEARNING.
+PRODUCTION.
+PARTICIPATION.
 
 AI DESK:
-“Insufficient evidence.”
+"New signal detected."
+
+The waveform pulses again.
+
+AI DESK:
+"Insufficient evidence."
 
 HOST:
-“Then why is the signal back?”
+"Then why is the signal back?"
 
 CUT TO BLACK.
 
@@ -135,4 +181,5 @@ FINAL ELECTRONIC PULSE.
 
 TITLE:
 CLASSIES CHRONICLES
+
 S00E01 — FOUNDATIONS & FREQUENCIES
