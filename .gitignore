@@ -6,6 +6,7 @@
 *.pem
 secrets/
 credentials/
+local_secrets/
 
 # Node / tooling
 node_modules/
@@ -15,13 +16,13 @@ npm-debug.log*
 dist/
 build/
 
-# Python only where used for tooling
+# Python tooling
 __pycache__/
 *.py[cod]
 .venv/
 venv/
 
-# AI Desk derived/rebuildable data
+# AI Desk derived / rebuildable data
 CC_AI_DESK/runtime/
 CC_AI_DESK/cache/
 CC_AI_DESK/logs/
@@ -35,10 +36,25 @@ CC_AI_DESK/db/
 *.faiss
 embeddings/
 vector_store/
-
-# Local model/provider caches
-models/
 provider_cache/
+models/
+
+# Episode-local runtime / temporary processing
+**/runtime/
+**/cache/
+**/tmp/
+**/TEMP/
+**/WORKING/
+**/STAGING/
+**/09_PUBLISHING/_temp/
+**/10_ARCHIVE/_working/
+
+# Consent-harvested or member-derived working data
+**/CONSENT_HARVEST/
+**/MEMBER_DATA/
+**/USER_HARVEST/
+**/*_PRIVATE.json
+**/*_PRIVATE.md
 
 # Raw production media
 RAW/
@@ -55,7 +71,7 @@ OBS/
 *.mkv
 *.mxf
 
-# REAPER / DAW temporary files
+# Reaper / DAW temporary files
 *.rpp-bak
 *.reapeaks
 *.rpp.lock
@@ -77,6 +93,9 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
+
+# Local logs
+*.log
 
 # Keep canonical source artifacts under Git:
 # *.md

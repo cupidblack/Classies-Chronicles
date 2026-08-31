@@ -1,129 +1,212 @@
-# Chronicles of Cupid Black — “The Signal Before the Story”
-## Approximately 200-second Chronicle draft
+CLASSIES CHRONICLES
+S00E01 — FOUNDATIONS & FREQUENCIES
+CHRONICLE: THE SIGNAL BEFORE THE STORY
+TARGET: ~200 SECONDS
 
-### 0–20s — THE FILE
-Visual: dark archive interface. A dated record appears:
+[SFX: low room tone, keyboard, faint electronic hum]
 
-“09 JULY 2026 — SINGAPORE”
+NARRATOR:
 
-Narrator:
-“Some stories begin with a person. This one begins with a signal.”
+Every story has a beginning.
 
-A waveform pulses.
+But sometimes the beginning is not where you think it is.
 
-### 20–48s — THE OLD CLUES
-Rapid archival flashes:
-Blue Crown. Exam papers. A blank record. An RF scanner. A sleeping Enka turning suddenly toward a sound.
+On the Foundation Phase archive, one file keeps pulling our attention.
 
-Narrator:
-“Years earlier there had been odd records, strange dreams, unusual recall and signals no one could quite explain.”
+09 July 2026.
 
-Beat.
+Singapore.
 
-“Back then, Enka thought he was investigating the mystery.”
+ANOMALOUS EVENT.
 
-### 48–90s — BUGIS, 9 JULY 2026
-Enka packs his last bags.
+A waveform fills the screen.
+
+[BEAT]
+
+Then the waveform changes.
+
+HOST:
+
+That wasn't in the original file.
+
+AI DESK:
+
+Insufficient evidence.
+
+HOST:
+
+That's a very AI answer.
+
+[CUT TO BLACK]
+
+NARRATOR:
+
+Before the signal, there were clues.
+
+Blue Crown.
+
+An old RF scanner.
+
+Missing and inconsistent records.
+
+Dreams that felt more like memories.
+
+And a question Enka could never quite put down:
+
+Was somebody watching?
+
+[CUT: Singapore, 9 July 2026]
+
+Enka was packing the last of his things in Bugis.
+
+He was tired. Alert. Ready to leave.
+
+Then he heard it.
 
 A low hum.
 
-The lights flicker.
+The lights flickered.
 
-He stops.
+He checked the signal and backed toward the car.
 
-“Not again.”
+One step.
 
-He exits the building and gets into the car.
+Two.
 
-The hum intensifies.
+THUD.
 
-The EduBeam strikes.
+He had backed straight into the car door.
 
-### 90–118s — THE SPLIT
-Visual distortion.
+ENKA:
 
-Enka sees the car and another apartment overlaid.
+If science wants my attention, it could at least knock.
 
-His breathing changes.
+[HUM INTENSIFIES]
 
-He reaches for the scanner/phone while backing away.
+NARRATOR:
 
-He bumps into the car door.
+Then the world changed.
 
-Pause.
+The corridor was still there.
 
-Enka:
-“If science wants my attention, it could at least knock.”
+The car was still there.
 
-The visual world bends again.
+And somehow, another place was there too.
 
-### 118–155s — MATERIALIZATION
-Cut to the quiet area near the colleague's apartment.
+For a moment, Enka could not tell which location was real.
 
-A room appears normal.
+The signal grew louder.
 
-Then slightly darker.
+The light became almost unbearable.
 
-A shadow gathers.
+Then—
 
-Dust-like edges.
+silence.
 
-A human outline.
+[CUT: outside colleague's apartment]
 
-Colour slowly returns.
+The room seemed to darken.
 
-Enka fully materializes.
+Not completely.
 
-He looks around.
+Just enough to make the shadows look wrong.
 
-“Where am I?”
+A darker shape gathered.
 
-His phone rings.
+Like dust passing through sunlight.
 
-The voice from Singapore asks where he is.
+Like a person trying to remember how to become solid.
 
-Enka looks at the unfamiliar surroundings.
+Colour slowly returned.
 
-“I... don't know.”
+Enka appeared.
 
-### 155–182s — THE QUESTION
-Narrator:
-“The strange part wasn't that he had moved.”
+He looked around.
 
-Pause.
+ENKA:
 
-“The strange part was that he remembered being somewhere else at the same time.”
+Where am I?
 
-Flash: Blue Crown.
+NARRATOR:
 
-Flash: RF scanner.
+He had no answer.
 
-Flash: satellite-like light.
+No map could explain it.
 
-Narrator:
-“Was it technology? A neurological effect? Something else?”
+No ordinary journey had brought him there.
 
-Enka:
-“I don't even know what is real anymore.”
+And whatever had happened, he had not controlled it.
 
-### 182–200s — THE NEW SIGNAL
-Return to present-day archive.
+[CUT BACK: PRESENT-DAY ARCHIVE]
 
-The waveform changes.
+The host freezes the frame.
 
-A new pulse appears.
+HOST:
 
-The AI Desk displays:
+So that's the origin?
 
-“INSUFFICIENT EVIDENCE.”
+AI DESK:
 
-Host:
-“Then why is the signal back?”
+Insufficient evidence.
 
-Cut to black.
+HOST:
 
-One final electronic pulse.
+You really enjoy that phrase.
 
-TITLE:
-CLASSIES CHRONICLES
-S00E01 — FOUNDATIONS & FREQUENCIES
+AI DESK:
+
+It is useful.
+
+[A SMALL LAUGH]
+
+NARRATOR:
+
+Maybe that is the first lesson.
+
+Perception is not understanding.
+
+A signal is not an explanation.
+
+And power without control is not freedom.
+
+Nehemiah heard about broken walls, investigated what was real, organized a response, rebuilt — and stayed watchful.
+
+Perhaps that is where our Foundation Phase begins too.
+
+Not with answers.
+
+With attention.
+
+[CUT: waveform]
+
+The room goes quiet.
+
+A new pulse appears on the screen.
+
+Nobody touches the file.
+
+HOST:
+
+Did you see that?
+
+AI DESK:
+
+Yes.
+
+[BEAT]
+
+NARRATOR:
+
+The event was recorded on 9 July.
+
+But something has just happened again.
+
+[LOW HUM]
+
+And this time...
+
+the archive is watching back.
+
+[MUSIC: short unresolved sting]
+
+END

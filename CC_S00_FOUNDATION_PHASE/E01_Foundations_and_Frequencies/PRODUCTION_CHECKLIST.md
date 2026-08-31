@@ -1,71 +1,113 @@
-# S00E01 Production Checklist — Refactored
+# S00E01 — Production Checklist v0.5
 
-## A. Context
-- [x] Episode identity defined
-- [x] Nehemiah 1–7 selected
-- [x] Buzzjuice/Koware introduction defined
-- [x] Formal Health & Safety lesson deferred
-- [x] Chapter 4 chronology checked
-- [x] 9 July 2026 Singapore event established as principal continuity anchor
-- [x] Cupid canon updated
-- [x] EduBeam canon updated
-- [x] Headlines window corrected for research cutoff
-- [ ] Future headline period researched when dates become available
+## A. Story / Context Gate
 
-## B. Story
-- [x] Main topic
-- [x] Central question
-- [x] Emotional arc
-- [x] Humour beat
-- [x] Chronicle boundary
-- [x] Ending mystery
-- [ ] Producer approval
+- [ ] Episode ID confirmed
+- [ ] Metadata complete
+- [ ] Bible reference verified
+- [ ] Course reference verified
+- [ ] Chapter 4 continuity reviewed
+- [ ] Character canon reviewed
+- [ ] EduBeam canon reviewed
+- [ ] Headline snapshot verified as-of publication
+- [ ] Future-dated headlines excluded
+- [ ] Story notes approved
 
-## C. Chronicle
-- [x] Brief
-- [x] ~200s narrative draft
-- [x] Trailer draft derived from Chronicle
-- [ ] Storyboard
-- [ ] Art generation
-- [ ] Voice recording
-- [ ] Sound design
-- [ ] Edit
-- [ ] Producer QA
+## B. Chronicle Gate
 
-## D. Podcast
-- [ ] Cold open
-- [ ] Jingle/welcome
-- [ ] Nehemiah reflection
-- [ ] Episode overview
-- [ ] Koware/Buzzjuice introduction
-- [ ] Verified headlines
-- [ ] Approved Chronicle trailer
-- [ ] Main discussion
-- [ ] Approved Chronicle
-- [ ] Chronicle discussion
-- [ ] Community/crowdfunding
-- [ ] Next episode preview
-- [ ] Closing mystery
-- [ ] Credits/community shorts
+- [ ] Chronicle Brief approved
+- [ ] 200-second script approved
+- [ ] Spoken word count checked against actual narrator pace
+- [ ] Canon candidates marked
+- [ ] Visual scene list prepared
+- [ ] Graphics/media generated
+- [ ] Narration recorded
+- [ ] SFX/music prepared
+- [ ] Chronicle assembled
+- [ ] Chronicle QA passed
+- [ ] Producer approves Chronicle
 
-## E. AI Desk
-- [ ] CURRENT_EPISODE retrieval test
-- [ ] Archive retrieval test
-- [ ] source provenance visible
-- [ ] consent/licensing controls
-- [ ] LISTEN mode
-- [ ] ASSIST mode
-- [ ] CO-HOST mode
-- [ ] immediate AI MUTE
-- [ ] persona proposal captured
-- [ ] producer approval
+## C. Trailer Gate
 
-## F. Archive
-- [ ] final transcript
-- [ ] final Chronicle
-- [ ] trailer
-- [ ] podcast master
-- [ ] provenance manifest
-- [ ] canon changes
-- [ ] post-episode analysis
-- [ ] index rebuild test
+- [ ] Trailer extracted only from approved Chronicle
+- [ ] Trailer approximately 20 seconds
+- [ ] Trailer QA passed
+- [ ] Producer approves trailer
+
+## D. AI Desk Commissioning
+
+- [ ] Persistent CC_AI_DESK used
+- [ ] CURRENT_EPISODE retrieval works
+- [ ] Previous approved episode retrieval tested
+- [ ] Source IDs captured
+- [ ] Permission filtering works
+- [ ] LISTEN mode is silent
+- [ ] ASSIST mode works
+- [ ] CO-HOST mode works
+- [ ] Independent AI MUTE works
+- [ ] Missing sources produce uncertainty, not invention
+- [ ] Retrieval scope recorded
+
+## E. Studio Gate
+
+- [x] ENVY/Pavilion physical communication path installed
+- [x] Three-way communication tested
+- [x] Feedback-free mix-minus verified
+- [ ] ENVY master recording test
+- [ ] Pavilion stem/backup recording test
+- [ ] Spoken slate + clap
+- [ ] Host hears AI
+- [ ] AI hears host
+- [ ] Guest path tested if guest is used
+- [ ] No self-return
+- [ ] No clipping
+- [ ] CPU/RAM acceptable
+
+## F. Podcast Recording Gate
+
+- [ ] Chronicle approved
+- [ ] Trailer approved
+- [ ] Bible reflection ready
+- [ ] Episode overview ready
+- [ ] Main discussion questions ready
+- [ ] AI co-host mode selected
+- [ ] Community/crowdfunding CTA ready
+- [ ] Next episode preview ready
+- [ ] Closing mystery ready
+
+## G. Programme Structure
+
+1. Cold Open / Signal
+2. Jingle + Welcome
+3. Bible reflection
+4. Episode overview
+5. Chronicle trailer
+6. Main podcast discussion
+7. Chronicles of Cupid Black
+8. Open discussion
+9. Community / crowdfunding
+10. Next episode preview
+11. Closing mystery
+12. Credits / community shorts
+
+## H. Post Production
+
+- [ ] ENVY master synchronized with Pavilion stems
+- [ ] Chronicle inserted
+- [ ] Trailer inserted
+- [ ] Audio mixed
+- [ ] Video edited
+- [ ] Transcript produced
+- [ ] Show notes produced
+- [ ] AI prompts archived
+- [ ] Provenance recorded
+
+## I. Archive Gate
+
+- [ ] Context status updated
+- [ ] Consent manifest archived
+- [ ] Licensing manifest archived
+- [ ] Approved Chronicle indexed
+- [ ] Hash recorded
+- [ ] Validation PASS recorded
+- [ ] Episode becomes retrieval-eligible only after validation PASS

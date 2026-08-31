@@ -1,41 +1,72 @@
-# S00E01 — Continuity Reference
+# Continuity Reference — S00E01
 
-## Purpose
-Connect the pilot to the existing archive without rewriting history.
+## Canonical bridge
 
-## CR-001 — 2000 archive
-Use established material concerning:
-- academic-record anomalies;
-- unusual recall;
-- vivid dreams/missing time;
-- RF anomalies;
-- suspicious signals;
-- Enka's RF scanner.
+The Pilot Season Chapter 4 archive already establishes the 9 July 2026 Singapore event. S00E01 must reconstruct that event rather than inventing a new origin event.
 
-**Authority:** ARCHIVAL_RECORD.
+### Locked continuity anchors
 
-## CR-002 — Later retrospective identity
-“Cupid Black” / “Cu” is a later identity. Do not retroactively place it into early 2000 dialogue unless a narrator explicitly frames it retrospectively.
+- Enka is in Bugis, Singapore.
+- An eviction/relationship threat is already established.
+- He is preparing to leave.
+- A humming signal becomes stronger.
+- Lights flicker.
+- He recognizes the phenomenon as the EduBeam.
+- A strong exposure occurs.
+- He subsequently finds himself near a colleague's apartment in Singapore.
+- He remains disoriented and uncertain about what physically happened.
+- The later Foundation Phase follows from this established event.
 
-## CR-003 — 9 July 2026 Singapore event
-Chapter 4 establishes that Enka experienced a heavy EduBeam event after leaving his Bugis apartment and subsequently appeared outside a colleague's apartment near the university campus.
+The archive describes the event as an unexplained displacement/materialization phenomenon. S00E01 should preserve that uncertainty.
 
-**Authority:** ARCHIVAL_RECORD.
+## Earlier historical anchors
 
-This is the principal chronological anchor for S00E01.
+The character canon records:
 
-## CR-004 — Foundation Phase superhuman interpretation
-Targeting hierarchy, variable beam intensity, materialization mechanics and controlled-awareness development are working story material.
+- Blue Crown anomalies
+- RF scanning
+- unusual academic/record anomalies
+- vivid dreams and unusual recall
+- missing-time experiences
+- suspicion of observation/experimentation
 
-**Authority:** PROPOSED_NEW_CANON unless already approved through serialization.
+These are evidence in the story, not proof of one scientific explanation.
 
-## CR-005 — News continuity
-Current headlines may influence the thematic discussion but must not be retroactively inserted into fictional history as facts.
+## What S00E01 may establish
 
-## Rules
-1. Earlier archive facts outrank generated suggestions.
-2. Do not invent bridges when the archive is uncertain.
-3. Preserve chronology.
-4. Label new canon.
-5. Keep fiction and real reporting distinct.
-6. Record retrieval references in the provenance manifest.
+- Partial materialization can have a darker/shadow-like visual signature.
+- A strong EduBeam exposure can produce high-power, low-control effects.
+- Enka's experience can include a dual-location or overlapping-location sensation.
+- Enka's first Foundation Phase response is investigation rather than mastery.
+
+## What S00E01 must NOT establish
+
+- The identity of the EduBeam controller.
+- A definitive scientific mechanism.
+- That Koware controls EduBeam.
+- That Enka already knows how to enter a controlled Alpha state.
+- That he can intentionally teleport long distances.
+- Wall phasing, dimensional travel or dream-world travel.
+- The drone-based EduBeam analogue.
+- That real-world missing persons, crimes or disasters are caused by EduBeam.
+
+## Identity timing
+
+"Cu / Q" may be used as an alias only where the chronology supports it. "Cupid Black" is the later identity label and should be used primarily by narration, archive framing or retrospective context.
+
+## Character arc
+
+E01 moves Enka:
+
+**confusion → observation → fear → restraint → decision to investigate**
+
+It does not move him to:
+
+**confusion → superhero mastery.**
+
+## Future setup
+
+S00E02: registration/orientation  
+S00E03+: health and safety / awareness foundations  
+Later Foundation Phase: prayer, awareness, meditation, Tai Chi/Qigong and controlled fictional experimentation  
+Later seasons: intentional displacement and advanced phenomena

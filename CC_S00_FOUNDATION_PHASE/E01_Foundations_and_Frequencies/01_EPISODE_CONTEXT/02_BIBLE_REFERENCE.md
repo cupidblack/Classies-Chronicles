@@ -1,21 +1,34 @@
-# Bible Reference — S00E01
+# Bible Reference — S00E01: Foundations & Frequencies
 
-## Primary passage
-**Nehemiah chapters 1–7**
+**Primary reference:** Nehemiah 1–7  
+**Use:** thematic architecture, not a sermon or plot replacement.
 
-## Episode use
-The episode uses Nehemiah as a thematic framework for:
-- receiving information about a situation;
-- investigating rather than assuming;
-- organizing people and resources;
-- rebuilding deliberately;
-- remaining alert while working;
-- accepting responsibility for what knowledge requires.
+## Core movement
 
-The Bible reference is not used to claim that EduBeam is supernatural or biblical technology.
+Nehemiah 1–7 provides a useful progression for the pilot:
 
-## Podcast reflection
-Nehemiah receives troubling information, responds with prayer and then moves toward organized action. S00E01 similarly asks what responsible action looks like when technology, information and perception become more powerful than a person's understanding.
+1. **Hear** — information about a crisis arrives.
+2. **Discern** — the information is taken seriously rather than dismissed.
+3. **Pray / reflect** — emotional reaction becomes purposeful reflection.
+4. **Inspect** — the situation is examined directly.
+5. **Rebuild** — a response is organized around a real problem.
+6. **Watch** — progress requires vigilance because the threat is not necessarily gone.
+
+## Episode parallel
+
+The Chronicle mirrors this progression without equating Enka with Nehemiah:
+
+- The archive is the thing being examined.
+- The 9 July event is the crisis signal.
+- Enka does not immediately understand what happened.
+- He records observations rather than pretending to know the answer.
+- The Foundation Phase becomes his equivalent of an inspection/rebuilding period.
+- The final unexplained pulse establishes the need to remain watchful.
+
+## Podcast reflection — 10–15 seconds
+
+> "Nehemiah heard about broken walls and didn't stop at hearing. He investigated, prayed, organized and rebuilt — while staying watchful. Our story begins with a different kind of broken signal. The question is the same: what do we do when something important doesn't make sense?"
 
 ## Editorial boundary
-Use the approved Bible translation selected for the production session. Do not reproduce an entire copyrighted translation in the episode context unless licensed/authorized.
+
+Do not claim that Nehemiah predicted EduBeam, superpowers, AI or Classies Chronicles. The connection is thematic: **information → discernment → response → responsibility → vigilance**.
