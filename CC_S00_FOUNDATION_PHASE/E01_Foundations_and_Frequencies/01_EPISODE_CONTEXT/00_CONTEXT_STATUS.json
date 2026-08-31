@@ -1,32 +1,18 @@
 {
   "episode_id": "S00E01",
-  "context_version": "0.3.0",
-  "lifecycle_status": "story_development",
-  "completeness": {
-    "metadata": "complete_working",
-    "bible": "complete",
-    "course_reference": "complete_for_foundation_episode",
-    "continuity": "working_reviewed",
-    "headlines": "approved_candidate",
-    "research": "current_news_pending_editorial_lock",
-    "story_notes": "complete_working",
-    "participants": "pending",
-    "consent": "pending",
-    "licensing": "pending",
-    "chronicle": "draft_pending_producer_approval",
-    "trailer": "not_started",
-    "podcast_discussion": "draft",
-    "transcript": "pending",
-    "post_episode_analysis": "pending"
-  },
-  "gates": {
-    "chronicle_approval_required_before_recording": true,
-    "trailer_must_derive_from_approved_chronicle": true,
-    "producer_approval_required_for_new_canon": true,
-    "real_news_verification_required": true,
-    "fiction_must_be_distinguished_from_real_news": true,
-    "consent_required_for_member_story_use": true,
-    "licensing_required_for_commercial_distribution": true,
-    "episode_retrieval_requires_validation_pass": true
-  }
+  "season_id": "S00",
+  "season_title": "The Foundation Phase",
+  "episode_title": "Foundations & Frequencies",
+  "chronicle_title": "The Signal Before the Story",
+  "status": "IN_DEVELOPMENT",
+  "context_version": "0.4.0",
+  "updated": "2026-08-31",
+  "pilot_function": "FIRST_COMPLETE_PRODUCTION_SYSTEM_COMMISSIONING_EPISODE",
+  "story_strategy": "PRESENT_FOUNDATION_FRAMING_WITH_ARCHIVAL_RECONSTRUCTION",
+  "chronicle_target_seconds": 200,
+  "trailer_target_seconds": 20,
+  "podcast_target_minutes": "35-45",
+  "producer_approval": false,
+  "headline_research_status": "PARTIAL_WINDOW_NOT_YET_COMPLETE",
+  "notes": "Configured news window ends 2026-10-17; dates after 2026-08-31 are future and remain pending."
 }

@@ -1,27 +1,31 @@
 # S00E01 — Bible Reference
 
-## Selection Status
+## Selected Reference
 
-**STATUS:** PRODUCER-VERIFIED CANDIDATE
+**Nehemiah 1–7**
 
-**Selected passage:** Zechariah 4:6  
-**Translation:** KJV  
-**Use on air:** brief reflection only
+## Purpose
 
-> “Not by might, nor by power, but by my spirit, saith the LORD of hosts.”
+The seven-chapter reference is treated as a thematic source rather than a block quotation. It supports the Foundation Phase through recurring ideas of:
 
-## Relevance
+- receiving information about a distant situation;
+- responding to what has been learned;
+- rebuilding;
+- organizing people and resources;
+- maintaining watchfulness;
+- dealing with opposition;
+- completing a foundation while remaining alert.
 
-The passage provides a compact thematic bridge between the Foundation Phase and the Chronicle:
+## Podcast reflection
 
-- power should not be confused with brute force;
-- capability requires purpose and discipline;
-- the pilot introduces technology, education and unusual power without celebrating uncontrolled power.
+The reflection should be approximately 5–20 seconds.
 
-The passage is a motif, not a sermon.
+Suggested paraphrase for producer review:
 
-## Editorial Rule
+> Nehemiah received troubling information, understood that information carried responsibility, and moved from hearing to rebuilding. The Foundation Phase asks a similar question: what do we do with what we learn?
 
-The AI Desk must not silently change the selected passage, translation or wording.
+Do not present this paraphrase as scripture.
 
-Any change must be recorded in the episode changelog before generation.
+## Editorial rule
+
+The AI must not silently substitute another passage. Any change is recorded in the episode changelog and requires producer approval.

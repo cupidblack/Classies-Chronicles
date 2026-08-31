@@ -1,18 +1,31 @@
-TITLE: The Signal Before the Story — 20-Second Trailer
+# S00E01 — 20-Second Trailer
 
-Derived only from the approved Chronicle.
+IMPORTANT: This trailer is a cut derived from the approved 200-second Chronicle. Do not create an unrelated trailer story.
 
-[LOW HUM]
+[0–3s]
+Hum. Flickering lights.
+TEXT: "9 JULY 2026"
 
-NARRATOR:
-A missing record. A strange frequency. A student who suddenly sees two places at once.
+[3–7s]
+Enka turns toward the sound.
+ENKA: "Not again."
 
-ENKA:
-“I don't even know what is real anymore.”
+[7–11s]
+White flash. Perceptual split.
+ENKA: "I don't even know what is real anymore."
 
-NARRATOR:
-Before Cupid Black became a name, there was a signal.
+[11–15s]
+Shadow-like materialization.
+ENKA: "Where am I?"
 
-Classies Chronicles — Foundations & Frequencies.
+[15–18s]
+Older archive flashes: RF scanner / records / signal.
+NARRATOR: "Maybe July wasn't the beginning."
 
-[HIT / CUT]
+[18–20s]
+Present-day signal.
+NARRATOR: "It may not be finished."
+
+TITLE:
+CLASSIES CHRONICLES — S00E01
+FOUNDATIONS & FREQUENCIES

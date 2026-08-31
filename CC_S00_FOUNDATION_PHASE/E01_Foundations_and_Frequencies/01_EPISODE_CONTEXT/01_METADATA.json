@@ -1,25 +1,28 @@
 {
   "episode_id": "S00E01",
-  "season_id": "S00",
-  "episode_number": "E01",
-  "season_title": "The Foundation Phase",
-  "episode_title": "Foundations & Frequencies",
+  "canonical_title": "Foundations & Frequencies",
   "chronicle_title": "The Signal Before the Story",
-  "producer": "Elliot",
-  "hosts": [],
-  "ai_role": "CO_HOST",
-  "ai_mode_initial": "LISTEN",
-  "ai_mode_target": "CO_HOST",
-  "retrieval_scope_default": "CURRENT_EPISODE",
-  "retrieval_scope_allowed": [
-    "CURRENT_EPISODE",
-    "CURRENT_SEASON",
-    "ALL_APPROVED_EPISODES",
-    "GLOBAL_CHRONICLES"
+  "series": "Classies Chronicles",
+  "season": "S00",
+  "season_title": "The Foundation Phase",
+  "episode_number": 1,
+  "primary_topic": "Koware Group / Buzzjuice Network / Buzzjuice Courses introduction through the theme of signals, knowledge, responsibility and the emerging Cupid Black mystery.",
+  "story_time_anchor": "9 July 2026 onward, with controlled archival references to earlier Blue Crown events.",
+  "primary_locations": [
+    "Singapore",
+    "Genting, Malaysia",
+    "Kuala Lumpur, Malaysia",
+    "archive/Blue Crown Academy"
   ],
-  "chronicle_target_seconds": 200,
-  "trailer_target_seconds": 20,
-  "podcast_target_minutes": "35-45",
-  "generation_contract": "CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v3.0.md",
-  "status": "DRAFT"
+  "primary_pov": "Cupid Enka",
+  "ai_mode": "CONTROLLED",
+  "ai_role": "CO-HOST",
+  "bible_reference": "Nehemiah 1-7",
+  "course_reference": "Buzzjuice Network and Buzzjuice Courses introduction; formal registration/orientation and Health & Safety lessons deferred to later Foundation Phase episodes.",
+  "news_window": {
+    "start": "2026-08-09",
+    "end": "2026-10-17"
+  },
+  "chronicle_first": true,
+  "canon_status": "WORKING_CANON_PENDING_PRODUCER_APPROVAL"
 }

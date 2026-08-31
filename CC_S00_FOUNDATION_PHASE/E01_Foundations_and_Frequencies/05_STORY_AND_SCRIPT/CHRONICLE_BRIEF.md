@@ -1,57 +1,36 @@
-# Chronicles of Cupid Black — The Signal Before the Story
+# Chronicle Brief — S00E01
 
-## Target
+## Title
 
-Approximately 200 seconds.
+**Chronicles of Cupid Black — The Signal Before the Story**
 
-## Narrative Function
+## Function
 
-Commission the Chronicle-first pipeline while introducing the first seed of the long-term Cupid Black mystery.
+The 200-second Chronicle is the narrative heart of S00E01. It introduces the Foundation Phase audience to the existing archive and dramatizes the July 9, 2026 EduBeam event without rewriting the chronology.
 
-## Style
+## Central question
 
-- investigative;
-- school-life mystery;
-- documentary-like narration;
-- warm humour;
-- emerging science fiction;
-- restrained suspense.
+**What happens when a signal changes what a person believes is possible — before that person understands what the signal is doing?**
 
-## Required Continuity
+## Structure
 
-Use only retrieved and approved material concerning:
+1. 0:00–0:25 — Present-day archive framing.
+2. 0:25–0:55 — Singapore, 9 July 2026: packing and unease.
+3. 0:55–1:20 — Hum, flickering lights, recognition of EduBeam.
+4. 1:20–1:42 — Beam strike and perceptual disruption.
+5. 1:42–2:05 — Sudden materialization near colleague's apartment.
+6. 2:05–2:35 — Enka's confusion; first attempt to understand.
+7. 2:35–3:00 — Older archive echoes: RF, dreams, unusual recall.
+8. 3:00–3:20 — Present-day signal and unresolved hook.
 
-- missing academic/module records;
-- unusual recall/dreams;
-- RF anomalies;
-- suspicious towers/signals;
-- Enka's RF scanner;
-- possible observation/experimentation.
+## Tone
 
-## New Story Material
+Warm, mysterious, slightly humorous, believable within the fictional universe, never over-explained.
 
-Allowed in S00E01:
+## Principal comedy beat
 
-- a subtle perceptual split;
-- a brief unexplained visual anomaly;
-- stronger narrative association between Enka and the signal.
+Enka nearly collides with the apartment doorway while trying to escape the humming corridor.
 
-Not allowed as established history yet:
+## Power boundary
 
-- full teleportation;
-- full phasing;
-- dimension travel;
-- drone reproducer;
-- complete Alpha-state mechanics.
-
-## Humour
-
-One principal physical/comedic beat.
-
-## Ending
-
-A present-day signal suggests the old anomaly may not have been historical noise.
-
-## Trailer Rule
-
-The trailer must be cut from the approved 200-second Chronicle rather than written as an independent story.
+Show the event, not mastery.

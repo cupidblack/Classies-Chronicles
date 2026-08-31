@@ -1,182 +1,150 @@
-# S00E01 — Story Notes
+# S00E01 — Story Notes v0.4.0
 
-## 1. Episode Identity
+## 1. Main Key Topic
 
-**Episode ID:** S00E01  
-**Season:** S00 — The Foundation Phase  
-**Podcast title:** Foundations & Frequencies  
-**Chronicle title:** The Signal Before the Story
+**Foundations & Frequencies — What happens when knowledge, technology and perception become more powerful than the person trying to control them?**
 
-## 2. Pilot Objective
+The podcast introduces the Koware Group → Buzzjuice Network → Buzzjuice Courses ecosystem while the Chronicle introduces the audience to the already-established July 2026 EduBeam event that begins the visible Foundation-Phase superhuman arc.
 
-S00E01 is both:
+## 2. Why this is the right pilot
 
-1. the first Foundation Phase podcast; and
-2. the first commissioning cycle for the Classies Chronicles production system.
+S00E01 must prove the entire production chain without attempting to explain the entire universe.
 
-It introduces Koware Group, Buzzjuice Network, Buzzjuice Courses, the Foundation Phase, the Chronicle format, AI participation, community participation and the deeper Cupid Black mystery.
+It therefore does five things:
+1. welcomes the audience into the Foundation Phase;
+2. explains why education, community and technology belong in the same conversation;
+3. gives the audience a factual bridge through current news;
+4. turns an existing archive event into an accessible 200-second story;
+5. ends with a question that carries into E02.
 
-## 3. Main Topic
+## 3. Story approach
 
-**Foundations & Frequencies — Origins, Signals and the Responsibility That Comes With Knowledge**
+The Chronicle is a **reconstruction of established archive material**, not a new origin rewrite.
 
-### Central Question
+### Present-day framing
 
-> What happens when education, technology and knowledge give a person access to something they are not yet prepared to control?
+A Foundation Phase archive review asks:
 
-## 4. Story Strategy
+> What was the signal that changed the way Enka experienced reality?
 
-The Chronicle is a mystery seed, not a complete superhero origin.
+The answer is not fully explained. The story opens the July 9, 2026 record and lets the audience experience the event with Enka.
 
-A present-day Foundation Phase investigation examines old school records and discovers that Enka's 2000 experiences may have been the first visible signs of a much larger phenomenon.
+### The July 9 event
 
-The audience should understand that the archive is being re-examined, not rewritten.
+The archive records that Enka was packing his final belongings in Singapore when:
+- a hum became audible;
+- lights flickered;
+- the sound intensified;
+- he recognized the EduBeam;
+- he entered his car;
+- a heavy beam struck him;
+- he later found himself fully materialized outside a colleague's apartment.
 
-## 5. Mandatory Story Ingredients
+This is the primary dramatic event.
 
-- verified Bible passage;
-- approved real current headline;
-- Buzzjuice Courses introduction;
-- established Chronicles continuity;
-- Cupid Enka;
-- EduBeam/signal mystery;
-- one light slapstick beat;
-- one recurring mystery hook;
-- clear distinction between real-world reporting and fictional Chronicle material.
+## 4. Character behaviour
 
-## 6. News Connection
+Enka is:
+- curious;
+- observant;
+- technically minded;
+- protective;
+- sometimes suspicious;
+- capable of humour under pressure;
+- not yet in control of the phenomenon.
 
-Primary real headline:
+He should never behave like a fully formed superhero in S00E01.
 
-**Ghana rolls out AI and programming courses for basic education curriculum**
+## 5. Superpower progression
 
-The podcast discussion uses the headline as a factual example of education and technology moving together.
+S00E01 establishes only:
+- abnormal awareness;
+- intense perceptual disruption;
+- a sudden location displacement/materialization event;
+- uncertainty about what happened.
 
-The Chronicle does not claim EduBeam caused or solved the real event.
+It does not establish mastery of:
+- telepathy;
+- telekinesis;
+- dimensional travel;
+- routine wall-phasing;
+- controlled long-distance teleportation;
+- drone-based beam reproduction;
+- deliberate 'god mode'.
 
-Instead, the fictional story explores the same underlying question:
+Those remain later development.
 
-> What happens when a learning technology becomes more capable than the people using it?
+## 6. Signature limitation
 
-Preferred fictional lens: **CUPID_MISUNDERSTOOD**
+**Perception is not understanding.**
 
-## 7. Bible Motif
+Enka can notice something without understanding:
+- its cause;
+- its meaning;
+- the other person's motive;
+- whether a perceived future will actually happen.
 
-Zechariah 4:6 — power, purpose and disciplined use of capability.
+This limitation prevents the powers from becoming a story-solving shortcut.
 
-## 8. Chronicle Plot
+## 7. Humour
 
-### Opening — The Archive
+Use one principal physical beat.
 
-A present-day archive review asks:
+Suggested beat:
+Enka is rushing out of the apartment while concentrating on the humming signal, turns too quickly, nearly clips the doorframe, catches himself, looks back at the door as if the door is the unreasonable one, then continues.
 
-> What if the first signal was hiding in an old school record?
+Optional dialogue humour:
+> "If science wants my attention, it could at least knock."
 
-### Act 1 — The Record
+The humour must release tension without mocking the danger.
 
-We revisit established 2000 anomalies:
+## 8. Real-news integration
 
-- missing/blank academic record;
-- unusual recall;
-- vivid dreams;
-- unexplained RF activity.
+The strongest current thematic headline is Ghana's expansion of AI and programming education.
 
-### Act 2 — The Scanner
+The podcast can ask:
+- What should people learn when technology changes quickly?
+- Does more capability automatically mean more wisdom?
+- Who is responsible when powerful tools are misunderstood?
 
-Enka investigates with his homemade RF scanner.
+The Chronicle must not claim that real AI education news is caused by EduBeam.
 
-He is technically curious, not yet a superhero.
+## 9. Bible integration
 
-### Act 3 — The Signal
+Nehemiah 1–7 supplies the Foundation motif:
+- hear;
+- understand;
+- organize;
+- rebuild;
+- watch;
+- act responsibly.
 
-The signal changes.
+This is used as a short reflection, not as forced dialogue.
 
-For a moment Enka experiences a perceptual split: the place he occupies and another place appear to overlap.
+## 10. Closing hook
 
-He cannot tell whether the event is physical, neurological or something else.
+The Chronicle ends with the archive becoming quiet after the July 9 event, followed by a present-day signal.
 
-### Act 4 — The Question
+The final idea:
 
-Enka records the event.
+> The first signal may have been recorded years ago. The problem is that the signal may not be finished.
 
-He asks:
+This bridges the archive into the Foundation Phase.
 
-> “I don't even know what is real anymore.”
+## 11. E02 continuity seed
 
-The archive later shows that this moment matters more than Enka understood.
+E02 should move from **What is Buzzjuice?** to **How do I enter the ecosystem?**
 
-### Closing Hook
+The narrative can introduce registration/orientation while Enka's investigation becomes more deliberate.
 
-A new signal appears in the present-day archive environment.
+## 12. Canon candidates
 
-The investigation is no longer merely historical.
+All of the following remain PROPOSED_NEW_CANON until producer approval:
+- the exact neurological mechanism of EduBeam targeting;
+- exact brainwave-frequency targeting;
+- precise intensity percentages;
+- the full network/location fallback algorithm;
+- the long-term relationship between awareness practice and EduBeam;
+- the exact cause of materialization.
 
-## 9. Humour
-
-Use light observational humour.
-
-Principal slapstick beat:
-
-Enka becomes so focused on keeping the RF scanner pointed toward the signal that he walks backward into a classroom door.
-
-The joke should reveal his obsession and determination, not turn him into a fool.
-
-## 10. Superhuman Development Boundary
-
-Do not fully reveal:
-
-- teleportation;
-- wall-phasing;
-- dream/dimension travel;
-- drone reproducer;
-- full Alpha-state mechanics.
-
-Only seed the perceptual split and possibility of later development.
-
-## 11. Podcast Structure
-
-1. Cold Open / Signal
-2. Jingle + Welcome
-3. Bible reflection
-4. Episode/topic overview
-5. Koware Group and Buzzjuice Network introduction
-6. Buzzjuice Courses introduction
-7. Current verified headline(s)
-8. 20-second trailer
-9. Main discussion
-10. Chronicles of Cupid Black — approximately 200 seconds
-11. Chronicle discussion
-12. Community / crowdfunding / participation
-13. Next episode preview
-14. Closing mystery
-15. Community shorts / credits
-
-## 12. Editorial Boundaries
-
-- real news remains factual;
-- fiction remains clearly fictional;
-- fictional EduBeam science is not presented as real science;
-- no private member information is used without consent;
-- subscription/course/crowdfunding status may affect participation eligibility but never automatically creates canon;
-- AI may propose but not silently canonize.
-
-## 13. New Canon Candidates
-
-- EduBeam can use network/location signals to improve targeting.
-- EduBeam can fall back to recent transaction/location data.
-- Enka can eventually reproduce a weaker effect through controlled awareness.
-- Materialization has a dark/shadow visual signature.
-- “Cupid Black” becomes a retrospective identity for the developing phenomenon.
-
-All remain PROPOSED until approved.
-
-## 14. Emotional Arc
-
-Curiosity → confusion → determination → uncertainty → wonder → unresolved mystery.
-
-## 15. Ending Principle
-
-The audience should finish the Chronicle wanting to know:
-
-> What happened to Enka after the first signal?
-
+The July 9 event itself is ARCHIVAL_RECORD.

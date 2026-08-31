@@ -1,37 +1,31 @@
-# S00E01 — Course Reference
+# S00E01 — Course / Education Reference
 
-## Rename
+## Episode role
 
-This file replaces:
+S00E01 introduces the **Koware Group**, **Buzzjuice Network** and **Buzzjuice Courses**. It is not yet a formal Health & Safety lesson.
 
-`03_HEALTH_SAFETY_REFERENCE.md`
+The next Foundation Phase episodes can progressively cover:
+1. registration and orientation;
+2. Health & Safety programme overview;
+3. specific Health & Safety lesson introduction;
+4. subsequent lessons and deeper participation.
 
-## Episode Scope
+## Narrative connection
 
-S00E01 introduces the Buzzjuice Network and Buzzjuice Courses as a department/product of the Koware Group.
+The episode's central metaphor is **signals**.
 
-No formal Health & Safety lesson is taught in S00E01.
+- Education sends signals: lessons, guidance, feedback and community knowledge.
+- Technology carries signals: networks, devices, broadcasts and AI.
+- People interpret signals: perception is not automatically understanding.
+- Responsibility begins when knowledge becomes actionable.
 
-## Treatment
+This creates a natural bridge between the real Buzzjuice educational ecosystem and the fictional EduBeam mystery without claiming that EduBeam is real.
 
-The host should briefly explain:
+## Source rule
 
-- Buzzjuice Courses as an educational offering;
-- that registration and orientation are part of the learner journey;
-- that Health & Safety will be introduced in a later Foundation Phase episode;
-- that the Foundation Phase is also an opportunity to demonstrate how education, technology and community can work together.
+Use the current Buzzjuice Courses source as the institutional authority. Do not invent course features that are not present in the attached/current source.
 
-## Important Boundary
+## Canon classification
 
-Do not claim that the fictional Cupid Alpha-state mechanism is an official Health & Safety lesson.
-
-If an awareness, breathing or other practice is discussed, it must be explicitly identified as either:
-
-1. a real course element supported by the course source; or
-2. a fictional narrative device inspired by the broader theme of awareness.
-
-## Source
-
-`Buzzjuice_Courses/Buzzjuice_Courses-Registration_Orientation.txt`
-
-Further lesson-specific files should be added only when that lesson is actually the episode subject.
+- Koware Group / Buzzjuice Network / Buzzjuice Courses: institutional source material.
+- Their fictional appearance inside the Chronicles: PROPOSED_NEW_CANON until producer-approved.

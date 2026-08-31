@@ -1,151 +1,151 @@
 # Cupid Black Character Canon
 
-**Canon ID:** CHAR-CUPID-BLACK  
-**Status:** WORKING CANON — S00E01 FOUNDATION  
-**Version:** 0.3.0  
-**Last updated:** 2026-08-19
+**Canon ID:** CHAR-CUPID-BLACK
+**Status:** WORKING CANON — S00 FOUNDATION PHASE
+**Version:** 0.4.0
+**Updated:** 2026-08-31
 
 ## 1. Identity
 
-**Primary historical name:** Cupid Enka  
-**Later identity:** Cupid Black  
-**Short alias:** Cu / “Q”
+**Historical name:** Cupid Enka
+**Later identity:** Cupid Black
+**Alias:** Cu / Q
 
-“Cupid Black” is not the name Enka should automatically be called during early 2000 events. The name develops later and may be used retrospectively by a narrator or archive when the chronology is explicit.
+"Cupid Black" must not be inserted into early historical dialogue merely because the audience knows the later identity. It may be used by a later narrator, archive label or period where the identity has actually developed.
 
-## 2. Core Character
+## 2. Canonical Character Reference Location
 
-Enka is intelligent, technically curious, observant, emotionally complicated and impulsive when something appears unjust. He is interested in electronics, computers, music, relationships, education and unusual phenomena.
+This file is the **single canonical reference point for Cupid Black's characteristics, attributes, behaviour patterns, limitations, emerging abilities and identity progression**.
 
-He investigates things personally when others dismiss them. He can be funny without becoming a parody.
+Episode files should reference this document rather than creating independent biographies.
 
-## 3. Established Pre-Power Continuity
+Episode-specific traits belong in the episode context and do not automatically become permanent canon.
 
-The archive establishes or references:
+## 3. Core Character
 
-- inconsistent academic records;
-- missing or blank examination/module records;
+Enka is:
+- intelligent;
+- technically curious;
+- observant;
+- emotionally intense;
+- interested in electronics, computers, music, education and relationships;
+- protective of people he believes are innocent or vulnerable;
+- impulsive when he believes an injustice is occurring;
+- capable of humour without becoming a caricature.
+
+## 4. Established Pre-Power Pattern
+
+Archive material supports:
 - unusual recall;
-- vivid dreams and missing-time experiences;
-- RF anomalies around Blue Crown;
-- suspicious towers/signals;
-- Enka's use of an RF scanner;
-- a growing suspicion that he may be observed or experimented upon.
+- inconsistent academic records;
+- vivid dreams;
+- missing-time experiences;
+- RF anomalies;
+- suspicious signals/towers;
+- use of an RF scanner;
+- concern that he may be observed or experimented upon.
 
-These archival facts outrank new generated explanations.
+These records outrank generated explanations.
 
-## 4. Emerging Superhuman Arc
+## 5. Emerging Ability Arc
 
-The Foundation Phase introduces a gradual transformation after an unfortunate interaction with EduBeam technology.
+### Stage 0 — Ordinary perception
+Normal life with technical curiosity.
 
-### Controlled awareness
+### Stage 1 — Anomalous perception
+Unusual awareness, vivid dreams, flashes and deja vu.
 
-Through prayer, meditation, awareness practice, taichi and qigong, Enka may eventually reproduce a weaker analogue of the unusual perception associated with EduBeam exposure.
+### Stage 2 — EduBeam surge
+Large, unstable effects following intense exposure.
 
-Possible capabilities:
+### Stage 3 — Dual-location perception
+A sense that two locations overlap.
 
-- heightened awareness;
-- perception of distant activity;
-- intuitive recognition of developing events;
-- fragments of possible future events;
-- unusual dream/world perception.
+### Stage 4 — Partial materialization
+A shadow-like presence appears before stable physical form.
 
-The exact mechanism remains fictional story logic.
+### Stage 5 — Full materialization/displacement
+Enka may appear at another location under uncontrolled conditions.
 
-### EduBeam surge
+### Stage 6 — Controlled awareness
+Prayer, meditation, awareness practice, taichi and qigong may eventually provide a weaker, more controllable analogue.
 
-A direct, intense EduBeam event can produce a much larger but less controllable effect.
+### Stage 7 — Advanced control
+Future story territory only.
 
-Possible manifestations, introduced progressively:
+## 6. Core Limitation
 
-- perception of two locations simultaneously;
-- partial materialization;
-- full materialization at another location;
-- apparent phasing through barriers;
-- movement into dream-like or other-dimensional spaces.
+**Power is temporary and variable.**
 
-## 5. Essential Limitation
+EduBeam effects dissipate. Duration varies with event intensity, precision, physical condition, mental state and effect type.
 
-Power is not unlimited.
+Controlled awareness is weaker but more predictable.
 
-EduBeam effects eventually dissipate. Duration varies with:
+## 7. Perception Is Not Understanding
 
-- beam intensity;
-- targeting precision;
-- Enka's physical and mental condition;
-- type of perceptual effect;
-- degree of neurological disturbance.
+This is a permanent story rule.
 
-A strong direct event may affect him for days and, exceptionally, weeks.
+Seeing an event does not automatically reveal:
+- its cause;
+- its motive;
+- its context;
+- its future outcome.
 
-Controlled awareness is weaker but more predictable and usually shorter-lived.
+This prevents Enka from becoming an automatic solution engine.
 
-## 6. Perception Is Not Understanding
+## 8. Materialization Signature
 
-Enka may perceive:
+Early uncontrolled materialization may look:
+- darker than normal;
+- shadow-like;
+- slightly distorted;
+- edged with dust/smoke-like visual breakup;
+- associated with a subtle reduction in apparent room brightness.
 
-- an event without its cause;
-- a possible future without knowing whether it will occur;
-- a person without understanding their motive;
-- a location without understanding why he is seeing it.
+Normal colour returns as physical stabilization occurs.
 
-This is a permanent narrative limitation. His abilities must never become an automatic solution engine.
+This visual phenomenon is one contributor to the later "Black" identity.
 
-## 7. Materialization Signature
+## 9. Ethical Pattern
 
-Early uncontrolled materialization may appear as:
+Enka strongly values:
+- innocence;
+- fairness;
+- responsibility;
+- justice.
 
-- a dark or shadow-like human form;
-- dust/smoke-like edges;
-- visual distortion;
-- a room becoming subtly darker as he approaches full materialization.
-
-As he stabilizes, normal colour returns.
-
-The visual phenomenon is one eventual source of the “Black” identity.
-
-## 8. Emotional and Ethical Pattern
-
-Enka is strongly motivated by innocence, fairness and perceived injustice.
-
-He may intervene too aggressively because he is acting on incomplete information.
+He can intervene too aggressively when acting on incomplete information.
 
 Recurring question:
 
 > If you can see something others cannot see, do you have the right to intervene?
 
-## 9. Training and Experiments
+## 10. Training and Experiments
 
-Future development may include:
-
+Future story material may include:
+- prayer;
 - awareness practice;
 - meditation;
-- prayer;
 - taichi;
 - qigong;
 - sound/frequency experiments;
-- controlled electrical experiments;
+- controlled fictional experiments;
 - attempts to reproduce EduBeam effects;
-- a drone-based experimental beam device.
+- drone-based experimental equipment.
 
-The drone reproducer is **future story material, not S00E01 origin canon**.
+The drone reproducer is **not S00E01 canon**.
 
-Experiments may fail comically, but failures must have believable in-universe causes and must not become dangerous instructional material.
+Experiments may fail humorously, but the Chronicles must not become a real-world instructional guide for dangerous electrical or neurological experimentation.
 
-## 10. Signature Line
+## 11. Signature Line
 
-> “I don't even know what is real anymore.”
+> "I don't even know what is real anymore."
 
-Use sparingly.
+Use sparingly and only at genuine uncertainty peaks.
 
-## 11. Canon Governance
+## 12. Canon Governance
 
-Generated ideas, AI suggestions, jokes and speculative explanations are not permanent canon automatically.
-
-New canon requires producer approval and a recorded canon change.
-
-Each claim should be classed as:
-
+Every new characteristic or ability must be classified:
 - CONFIRMED_CANON
 - ARCHIVAL_RECORD
 - PROPOSED_NEW_CANON
@@ -153,12 +153,14 @@ Each claim should be classed as:
 - SPECULATION
 - UNKNOWN
 
-## 12. Primary Sources
+Producer approval is required before permanent canonization.
 
-- Classies Chronicles — Pilot Chapter
-- Season 1 (2000)
-- Season 3 (2001)
+## 13. Primary Sources
+
+- Classies Chronicles Pilot Chapter
+- Season 1
+- Season 3
 - Later approved Chronicles
 - Episode-specific continuity references
 
-The AI Desk retrieves these sources rather than maintaining a hidden second biography.
+The AI Desk retrieves these sources; it does not maintain a secret alternative biography.
