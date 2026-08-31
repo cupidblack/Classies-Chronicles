@@ -5,94 +5,55 @@
     "end": "2026-10-17"
   },
   "research_cutoff": "2026-08-31",
-  "status": "PARTIAL_FUTURE_WINDOW",
-  "locations": [
+  "status": "PARTIAL_WINDOW_VERIFIED_FUTURE_PERIOD_PENDING",
+  "primary_locations": [
     "Adenta",
     "Greater Accra",
     "Ghana",
     "West Africa",
-    "Bugis, Singapore",
     "Singapore",
     "Genting, Malaysia",
     "Kuala Lumpur, Malaysia"
   ],
-  "location_results": {
-    "Adenta": {
-      "status": "PENDING_LOCAL_HARVEST",
-      "items": []
-    },
-    "Greater Accra/Ghana": [
-      {
-        "date": "2026-08-25",
-        "headline": "Deputy Minister urges universities to equip educators for effective and ethical AI use",
-        "source": "Ghana Communication Technology University",
-        "url": "https://site.gctu.edu.gh/news/deputy-minister-calls-for-responsible-ai-education-in-universities.aspx",
-        "use": "Education/AI theme"
-      },
-      {
-        "date": "2026-08-18",
-        "headline": "Ghana rolls out AI and programming courses for basic education curriculum",
-        "source": "StringersHub / CGTN video report",
-        "url": "https://open.video/%40stringershub/v/ghana-ghana-rolls-out-ai-programming-courses-for-basic-education-curriculum",
-        "use": "Primary thematic headline"
-      }
-    ],
-    "Singapore": [
-      {
-        "date": "2026-08-23",
-        "headline": "Prime Minister flags AI risks and the need for safeguards",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-ai-safeguards-social-media-children-6335871",
-        "use": "Power/responsibility theme"
-      },
-      {
-        "date": "2026-08-11",
-        "headline": "SMU unveils new courses to prepare graduates for an AI-enabled future",
-        "source": "SMU Newsroom",
-        "url": "https://news.smu.edu.sg/news/2026/08/11/smu-unveils-new-courses-prepare-graduates-for-ai-enabled-future",
-        "use": "Education/AI theme"
-      }
-    ],
-    "Genting": [
-      {
-        "date": "2026-08-20",
-        "headline": "Genting Berhad announces second-quarter results",
-        "source": "Genting Berhad",
-        "url": "https://www.genting.com/press_releases/",
-        "use": "Local/business context"
-      },
-      {
-        "date": "2026-08-18",
-        "headline": "Police-confirmed robbery at a Genting Highlands shopping centre reported",
-        "source": "Astro Awani",
-        "url": "https://www.astroawani.com/topic/Genting",
-        "use": "Local/community context; do not fictionalize real victims"
-      }
-    ],
-    "Kuala Lumpur": [
-      {
-        "date": "2026-08-06",
-        "headline": "Google Malaysia and MARA partner to drive AI in education",
-        "source": "Bernama",
-        "url": "https://bernama.com/en/news.php?id=2591033",
-        "use": "Education/AI theme; date is outside requested start window, therefore BACKGROUND_ONLY"
-      }
-    ]
-  },
-  "collective_candidates": [
-    "Ghana AI/programming education expansion",
-    "Singapore AI safeguards and responsible use",
-    "Singapore AI-enabled university education",
-    "Genting business and local safety context"
-  ],
-  "global_awareness": [
+  "editorial_rule": "Do not fabricate or imply availability of headlines after the research cutoff.",
+  "verified_candidates": [
     {
-      "date": "2026-08-26",
-      "headline": "Bill Gates calls for human-reserved jobs amid AI disruption",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover"
+      "location": "Ghana",
+      "date": "2026-07-22",
+      "topic": "Revised basic-school curriculum introduces AI literacy, computational thinking and coding",
+      "use": "Education/technology thematic mirror",
+      "source": "Ghana News Agency"
+    },
+    {
+      "location": "Ghana",
+      "date": "2026-08-21",
+      "topic": "KNUST secures grant to strengthen AI education and research",
+      "use": "Education/AI development"
+    },
+    {
+      "location": "Singapore",
+      "date": "2026-08-11",
+      "topic": "SMU introduces new AI-enabled future courses",
+      "use": "Education/AI thematic mirror"
+    },
+    {
+      "location": "Singapore",
+      "date": "2026-08-08",
+      "topic": "Teachers to take AI modules under MOE plan",
+      "use": "Responsible AI education"
+    },
+    {
+      "location": "Genting",
+      "date": "2026-08-17",
+      "topic": "Police confirm robbery at Genting Highlands shopping centre",
+      "use": "Local awareness headline; fiction must not claim Cu caused/solved it"
+    },
+    {
+      "location": "Kuala Lumpur/Malaysia",
+      "date": "2026-08-06",
+      "topic": "Google Malaysia and MARA partner to drive AI in education",
+      "use": "Education/technology thematic mirror"
     }
   ],
-  "editorial_rule": "Real headlines may inspire thematic fiction but must never be claimed as caused, solved, witnessed or altered by Cupid unless explicitly fictionalized and clearly separated from the factual report.",
-  "future_window_note": "2026-09-01 through 2026-10-17 cannot be harvested on 2026-08-31. Refresh this file before publication if the episode is published after those dates."
+  "future_period": "2026-09-01 through 2026-10-17 is not yet available as of 2026-08-31 and must remain pending."
 }

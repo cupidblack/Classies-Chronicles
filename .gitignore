@@ -1,112 +1,88 @@
-# Secrets
+# Secrets / local configuration
 .env
 .env.*
+!.env.example
 *.key
 *.pem
 secrets/
 credentials/
-**/credentials/
-**/*secret*
 
-# Node / package caches
+# Node / tooling
 node_modules/
 npm-debug.log*
-yarn-debug.log*
-pnpm-debug.log*
+.pnpm-store/
+.yarn/
+dist/
+build/
 
-# Python
+# Python only where used for tooling
 __pycache__/
 *.py[cod]
 .venv/
 venv/
-.envrc
 
-# AI Desk runtime / rebuildable indexes
-CC_AI_DESK/**/runtime/
-CC_AI_DESK/**/cache/
-CC_AI_DESK/**/logs/
-CC_AI_DESK/**/tmp/
-CC_AI_DESK/**/indexes/
-CC_AI_DESK/**/index/
-CC_AI_DESK/**/fts/*.db
-CC_AI_DESK/**/fts/*.sqlite
-CC_AI_DESK/**/fts/*.sqlite3
-CC_AI_DESK/**/embeddings/
-CC_AI_DESK/**/vectorstore/
-CC_AI_DESK/**/snapshots/runtime/
+# AI Desk derived/rebuildable data
+CC_AI_DESK/runtime/
+CC_AI_DESK/cache/
+CC_AI_DESK/logs/
+CC_AI_DESK/index/
+CC_AI_DESK/db/
+*.sqlite
+*.sqlite3
+*.db
+*.fts5
+*.npy
+*.faiss
+embeddings/
+vector_store/
 
-# Keep source configuration, prompts, Markdown, JSON and scripts tracked.
+# Local model/provider caches
+models/
+provider_cache/
 
-# Raw / generated media
+# Raw production media
+RAW/
+raw/
+audio/raw/
+video/raw/
+recordings/
+OBS/
 *.wav
 *.mp3
-*.m4a
 *.flac
-*.aac
 *.mp4
 *.mov
 *.mkv
-*.avi
-*.webm
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.gif
+*.mxf
 
-# Exception: small approved reference assets may be force-added if intentionally versioned.
-
-# OBS / editing caches
-OBS/
-obs-cache/
-recordings/
-captures/
-exports/
-renders/
-proxies/
-cache/
-*.peak
-*.pek
-*.cfa
-
-# REAPER temporary/session artefacts
+# REAPER / DAW temporary files
 *.rpp-bak
 *.reapeaks
-REAPER_Backups/
+*.rpp.lock
 REAPER_Temp/
+Audio_Temp/
 
-# Video editor caches
-CapCut/
-Premiere Pro Auto-Save/
-Adobe Premiere Pro Auto-Save/
-DaVinci Resolve Cache/
-*.prproj.bak
+# Editing caches
+cache/
+Cache/
+proxies/
+render_cache/
+preview_cache/
 
-# OS/editor
+# OS/editor files
 Thumbs.db
 .DS_Store
-desktop.ini
+*.tmp
+*.temp
+*.swp
 .vscode/
 .idea/
 
-# Local databases not intended as canonical source
-*.db
-*.sqlite
-*.sqlite3
-
-# But keep explicitly versioned example schemas/templates
-!**/examples/*.db
-!**/examples/*.sqlite
-!**/schemas/*.json
-
-# Build output
-dist/
-build/
-out/
-coverage/
-
-# Temporary archives
-*.zip
-*.7z
-*.tar
-*.gz
+# Keep canonical source artifacts under Git:
+# *.md
+# *.txt
+# *.json
+# prompts
+# scripts
+# episode context
+# approved provenance/configuration

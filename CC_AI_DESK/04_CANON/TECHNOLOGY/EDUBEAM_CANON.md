@@ -1,76 +1,47 @@
 # EduBeam Technology Canon
 
-**Canon ID:** TECH-EDUBEAM
-**Status:** WORKING CANON — S00 FOUNDATION PHASE
-**Version:** 0.4.0
-**Updated:** 2026-08-31
+**Canon ID:** TECH-EDUBEAM  
+**Version:** 0.4.0  
+**Status:** WORKING CANON — FOUNDATION PHASE
 
 ## 1. Concept
+EduBeam is an experimental learning/neurological technology in the Chronicles universe. Earlier archives establish suspicious RF activity, academic/perceptual anomalies and external observation around Blue Crown.
 
-EduBeam is fictional experimental learning/neurological technology within the Chronicles universe.
-
-Existing archive material establishes:
-- suspicious technology;
-- RF activity;
-- academic/perceptual anomalies;
-- external observation;
-- a major July 2026 event affecting Enka.
-
-## 2. Canon Boundary
-
-The exact creator, institutional ownership, engineering design and ultimate purpose remain unresolved unless supported by archive evidence and producer-approved canon.
-
-Do not invent a scientific explanation merely to close a story gap.
+## 2. Canon boundary
+Creator, institutional ownership, engineering design and ultimate purpose remain open unless supported by archive evidence or producer-approved canon.
 
 EduBeam mechanics are fictional story logic, not real-world scientific claims.
 
-## 3. Targeting Model
-
-Working Foundation Phase model:
-
+## 3. Targeting hierarchy — proposed working model
 1. active network/location signal;
 2. recent network activity;
 3. last-known digital transaction;
 4. expected geographic location;
 5. broader-area beam when precise targeting fails.
 
-This remains PROPOSED_NEW_CANON until explicitly approved.
+This remains **PROPOSED_NEW_CANON** until serialized and approved.
 
-## 4. Cognitive Targeting
+## 4. Cognitive targeting
+The story may propose that EduBeam recognizes a characteristic fictional neural/brainwave signature associated with Enka and uses it to improve targeting. This is fictional technology.
 
-The story may eventually propose that EduBeam can recognize a characteristic neural/brainwave pattern associated with Enka.
-
-This is fictional.
-
-Do not present brainwave targeting as established real science.
-
-## 5. Event Classes
-
-### Routine scan
-Low-intensity fictional event with subtle effects.
+## 5. Event classes
+### Routine/random scan
+Low-intensity event producing subtle or temporary effects.
 
 ### Processing-cycle event
-Stronger event associated with major processing periods.
+A stronger event associated with major processing periods, including proposed January and mid-year windows.
 
 ### Precision lock
-Highly concentrated fictional event directed at Enka's current or expected location.
+A concentrated event directed toward Enka's current or expected location.
 
-Do not hard-code numerical percentages until an approved Chronicle establishes them.
+Do not hard-code numerical percentages unless a later approved story establishes them.
 
-## 6. Precision Failure
+## 6. Precision failure
+When precise location is unavailable, a broader-area beam may occur. Fictional consequences can vary by person and circumstance.
 
-If precise location is unavailable, the fictional system may affect a broader area.
+**Important editorial rule:** never use this fictional mechanism to explain real-world missing persons, deaths or tragedies.
 
-Possible fictional consequences:
-- different perceptual effects;
-- unusual dreams;
-- witness confusion;
-- temporary anomalies.
-
-Never use this fictional mechanism to explain real-world missing persons, deaths or tragedies.
-
-## 7. Effect Model
-
+## 7. Effect progression
 Possible effects:
 - enhanced recall;
 - perceptual distortion;
@@ -84,30 +55,25 @@ Possible effects:
 
 Effects vary by event and Enka's condition.
 
-## 8. Central Rule
-
-**EduBeam = higher power / lower control**
-
+## 8. Central rule
+**EduBeam = high power / low control**  
 **Awareness practice = lower power / higher control**
 
-This is the long-term development engine.
+This contrast drives the long-term superhero arc.
 
-## 9. July 9, 2026 Anchor
+## 9. S00E01 boundary
+S00E01 may show or reconstruct the established **9 July 2026 Singapore EduBeam event** as a continuity bridge, but should not explain every mechanism.
 
-The archive records a heavy EduBeam event in Singapore on 9 July 2026 followed by Enka's sudden materialization outside a colleague's apartment.
+The audience should experience the event before receiving the full theory.
 
-S00E01 may dramatize this event.
-
-It must not invent a new destination, mechanism or exact energy measurement.
-
-## 10. Open Questions
-
+## 10. Open story engines
 - Who controls EduBeam?
+- What is its actual purpose?
 - Why is Enka unusually affected?
 - Is he intentionally targeted?
-- Is the targeting adaptive, defective or experimental?
+- Is the targeting adaptive, experimental or defective?
 - What causes materialization?
-- Why does awareness resemble EduBeam effects?
-- Can the effect be reproduced safely?
+- Why does trained awareness resemble the effect?
+- Can a safer analogue be created?
 
-These are story engines. The AI must not fill them automatically.
+The AI must not automatically answer these questions.

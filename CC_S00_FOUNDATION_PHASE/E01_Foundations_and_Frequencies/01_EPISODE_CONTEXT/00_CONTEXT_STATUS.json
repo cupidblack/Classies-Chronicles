@@ -5,14 +5,11 @@
   "episode_title": "Foundations & Frequencies",
   "chronicle_title": "The Signal Before the Story",
   "status": "IN_DEVELOPMENT",
-  "context_version": "0.4.0",
-  "updated": "2026-08-31",
-  "pilot_function": "FIRST_COMPLETE_PRODUCTION_SYSTEM_COMMISSIONING_EPISODE",
-  "story_strategy": "PRESENT_FOUNDATION_FRAMING_WITH_ARCHIVAL_RECONSTRUCTION",
+  "created": "2026-08-31",
   "chronicle_target_seconds": 200,
   "trailer_target_seconds": 20,
   "podcast_target_minutes": "35-45",
   "producer_approval": false,
-  "headline_research_status": "PARTIAL_WINDOW_NOT_YET_COMPLETE",
-  "notes": "Configured news window ends 2026-10-17; dates after 2026-08-31 are future and remain pending."
+  "retrieval_scope": "CURRENT_EPISODE",
+  "notes": "Pilot commissioning episode. Continuity bridge between the Foundation Phase and the established 9 July 2026 Singapore EduBeam event."
 }

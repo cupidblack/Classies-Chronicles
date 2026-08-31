@@ -1,137 +1,129 @@
-TITLE: Chronicles of Cupid Black — The Signal Before the Story
+# Chronicles of Cupid Black — “The Signal Before the Story”
+## Approximately 200-second Chronicle draft
 
-[0:00–0:20 — PRESENT-DAY ARCHIVE]
-NARRATOR:
-Some stories begin with a hero.
-Others begin with a question.
-This one begins with a signal.
+### 0–20s — THE FILE
+Visual: dark archive interface. A dated record appears:
 
-A record from Singapore.
-9 July 2026.
+“09 JULY 2026 — SINGAPORE”
 
-[0:20–0:48 — BUGIS, SINGAPORE]
-Enka is packing the last of his things.
+Narrator:
+“Some stories begin with a person. This one begins with a signal.”
 
-He has already had a strange day. Too many questions. Too many people acting strangely.
+A waveform pulses.
 
-Then—
+### 20–48s — THE OLD CLUES
+Rapid archival flashes:
+Blue Crown. Exam papers. A blank record. An RF scanner. A sleeping Enka turning suddenly toward a sound.
 
-A hum.
+Narrator:
+“Years earlier there had been odd records, strange dreams, unusual recall and signals no one could quite explain.”
 
-He stops.
+Beat.
+
+“Back then, Enka thought he was investigating the mystery.”
+
+### 48–90s — BUGIS, 9 JULY 2026
+Enka packs his last bags.
+
+A low hum.
 
 The lights flicker.
 
-ENKA:
-"Not again."
+He stops.
 
-[0:48–1:12 — THE CORRIDOR]
-The hum grows louder.
+“Not again.”
 
-Enka moves toward the exit.
+He exits the building and gets into the car.
 
-The sound follows him.
+The hum intensifies.
 
-He recognizes it.
+The EduBeam strikes.
 
-EDUBEAM.
+### 90–118s — THE SPLIT
+Visual distortion.
 
-He gets into the car, breathing hard.
+Enka sees the car and another apartment overlaid.
 
-For one second, everything becomes unnaturally clear.
+His breathing changes.
 
-Then the world seems to split.
+He reaches for the scanner/phone while backing away.
 
-[1:12–1:30 — COMEDY / IMPACT]
-Enka turns too quickly, nearly clips the doorframe, catches himself and looks back at the door.
+He bumps into the car door.
 
-ENKA:
-"If science wants my attention, it could at least knock."
+Pause.
 
-Then the light changes.
+Enka:
+“If science wants my attention, it could at least knock.”
 
-The beam hits.
+The visual world bends again.
 
-CUT TO WHITE.
+### 118–155s — MATERIALIZATION
+Cut to the quiet area near the colleague's apartment.
 
-[1:30–1:55 — PERCEPTUAL DISRUPTION]
-No ordinary sense of time.
+A room appears normal.
 
-The car.
-The corridor.
-Another place.
+Then slightly darker.
 
-All seem to overlap.
+A shadow gathers.
 
-Enka reaches toward something he cannot identify.
+Dust-like edges.
 
-ENKA:
-"I don't even know what is real anymore."
+A human outline.
 
-The image collapses.
+Colour slowly returns.
 
-[1:55–2:18 — MATERIALIZATION]
-Silence.
-
-A quiet apartment area near a university campus.
-
-A faint shadow-like form appears.
-
-Edges first.
-
-Then outline.
-
-Then colour.
-
-Enka is suddenly there.
+Enka fully materializes.
 
 He looks around.
 
-ENKA:
-"Where am I?"
+“Where am I?”
 
 His phone rings.
 
-He stares at it.
+The voice from Singapore asks where he is.
 
-[2:18–2:48 — THE OLDER SIGNAL]
-NARRATOR:
-The strange part was not that Enka had experienced something unusual.
+Enka looks at the unfamiliar surroundings.
 
-The strange part was that the archive had been whispering about unusual things for years.
+“I... don't know.”
 
-Missing records.
+### 155–182s — THE QUESTION
+Narrator:
+“The strange part wasn't that he had moved.”
 
-Unexplained recall.
+Pause.
 
-Dreams that felt too real.
+“The strange part was that he remembered being somewhere else at the same time.”
 
-RF signals that should not have been there.
+Flash: Blue Crown.
 
-A young man who kept asking questions nobody seemed ready to answer.
+Flash: RF scanner.
 
-[2:48–3:05 — THE PATTERN]
-NARRATOR:
-Maybe July 2026 was not the beginning.
+Flash: satellite-like light.
 
-Maybe it was the moment the old mystery became impossible to ignore.
+Narrator:
+“Was it technology? A neurological effect? Something else?”
 
-Enka looks toward the sky.
+Enka:
+“I don't even know what is real anymore.”
 
-He does not see the source.
+### 182–200s — THE NEW SIGNAL
+Return to present-day archive.
 
-But he feels it.
+The waveform changes.
 
-[3:05–3:20 — HOOK]
-A faint electronic tone.
+A new pulse appears.
 
-The present-day archive monitor registers a signal.
+The AI Desk displays:
 
-NARRATOR:
-The first signal may have been recorded years ago.
+“INSUFFICIENT EVIDENCE.”
 
-The problem is—
+Host:
+“Then why is the signal back?”
 
-it may not be finished.
+Cut to black.
 
-CUT TO BLACK.
+One final electronic pulse.
+
+TITLE:
+CLASSIES CHRONICLES
+S00E01 — FOUNDATIONS & FREQUENCIES

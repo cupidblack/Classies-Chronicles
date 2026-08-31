@@ -1,31 +1,21 @@
-# S00E01 — Bible Reference
+# Bible Reference — S00E01
 
-## Selected Reference
+## Primary passage
+**Nehemiah chapters 1–7**
 
-**Nehemiah 1–7**
-
-## Purpose
-
-The seven-chapter reference is treated as a thematic source rather than a block quotation. It supports the Foundation Phase through recurring ideas of:
-
-- receiving information about a distant situation;
-- responding to what has been learned;
-- rebuilding;
+## Episode use
+The episode uses Nehemiah as a thematic framework for:
+- receiving information about a situation;
+- investigating rather than assuming;
 - organizing people and resources;
-- maintaining watchfulness;
-- dealing with opposition;
-- completing a foundation while remaining alert.
+- rebuilding deliberately;
+- remaining alert while working;
+- accepting responsibility for what knowledge requires.
+
+The Bible reference is not used to claim that EduBeam is supernatural or biblical technology.
 
 ## Podcast reflection
+Nehemiah receives troubling information, responds with prayer and then moves toward organized action. S00E01 similarly asks what responsible action looks like when technology, information and perception become more powerful than a person's understanding.
 
-The reflection should be approximately 5–20 seconds.
-
-Suggested paraphrase for producer review:
-
-> Nehemiah received troubling information, understood that information carried responsibility, and moved from hearing to rebuilding. The Foundation Phase asks a similar question: what do we do with what we learn?
-
-Do not present this paraphrase as scripture.
-
-## Editorial rule
-
-The AI must not silently substitute another passage. Any change is recorded in the episode changelog and requires producer approval.
+## Editorial boundary
+Use the approved Bible translation selected for the production session. Do not reproduce an entire copyrighted translation in the episode context unless licensed/authorized.

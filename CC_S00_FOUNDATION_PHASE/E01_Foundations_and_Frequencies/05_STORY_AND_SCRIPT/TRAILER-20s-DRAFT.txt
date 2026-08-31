@@ -1,31 +1,25 @@
-# S00E01 — 20-Second Trailer
+# 20-Second Trailer — S00E01
 
-IMPORTANT: This trailer is a cut derived from the approved 200-second Chronicle. Do not create an unrelated trailer story.
+0–3s  
+Archive file: “09 JULY 2026 — SINGAPORE”  
+Text: **THE SIGNAL WAS REAL.**
 
-[0–3s]
-Hum. Flickering lights.
-TEXT: "9 JULY 2026"
+3–7s  
+Lights flicker. Enka hears the hum.  
+Enka: “Not again.”
 
-[3–7s]
-Enka turns toward the sound.
-ENKA: "Not again."
+7–11s  
+EduBeam flash. Reality overlaps.  
+Text: **BUT WHERE DID HE GO?**
 
-[7–11s]
-White flash. Perceptual split.
-ENKA: "I don't even know what is real anymore."
+11–15s  
+Shadow-like materialization. Colour returns.  
+Enka: “Where am I?”
 
-[11–15s]
-Shadow-like materialization.
-ENKA: "Where am I?"
+15–18s  
+Present-day archive waveform changes.  
+AI: “Insufficient evidence.”
 
-[15–18s]
-Older archive flashes: RF scanner / records / signal.
-NARRATOR: "Maybe July wasn't the beginning."
-
-[18–20s]
-Present-day signal.
-NARRATOR: "It may not be finished."
-
-TITLE:
-CLASSIES CHRONICLES — S00E01
-FOUNDATIONS & FREQUENCIES
+18–20s  
+Black screen. Pulse.  
+Text: **THE SIGNAL IS BACK.**

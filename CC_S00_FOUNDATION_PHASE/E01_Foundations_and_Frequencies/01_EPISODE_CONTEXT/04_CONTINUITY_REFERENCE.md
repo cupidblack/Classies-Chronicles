@@ -1,50 +1,41 @@
 # S00E01 — Continuity Reference
 
 ## Purpose
+Connect the pilot to the existing archive without rewriting history.
 
-Connect S00E01 to existing Chronicles without duplicating the archive.
-
-## Primary continuity — Pilot Season Chapter 4
-
-The latest Chapter 4 archive records:
-
-- Enka's July 2026 departure/eviction situation in Bugis.
-- A humming sound and flickering lights on 9 July 2026.
-- Enka identifying the event as EduBeam.
-- A heavy beam striking him.
-- His subsequent full materialization outside a colleague's apartment near the university campus in Singapore.
-- His continued uncertainty about why the displacement occurred.
-- Later movement through Singapore, Genting and Kuala Lumpur.
-- The gradual emergence of unusual perception, deja vu and ambiguous abilities.
-- His use of the alias Cu / Q later in the chapter.
-
-These are ARCHIVAL_RECORDS and outrank generated explanations.
-
-## Older continuity
-
-Use earlier Blue Crown / 2000 material for:
+## CR-001 — 2000 archive
+Use established material concerning:
+- academic-record anomalies;
 - unusual recall;
-- inconsistent academic records;
-- vivid dreams;
+- vivid dreams/missing time;
 - RF anomalies;
-- suspicious signals/towers;
-- Enka's RF scanner;
-- possible observation/experimentation.
+- suspicious signals;
+- Enka's RF scanner.
 
-These older records are supporting history, not a replacement for the July 2026 event.
+**Authority:** ARCHIVAL_RECORD.
 
-## S00E01 story boundary
+## CR-002 — Later retrospective identity
+“Cupid Black” / “Cu” is a later identity. Do not retroactively place it into early 2000 dialogue unless a narrator explicitly frames it retrospectively.
 
-The pilot may dramatize the July 9 event and briefly cross-cut to older records, but must not:
-- move the first July 2026 EduBeam event to 2000;
-- claim that later materialization abilities were already fully developed in 2000;
-- retroactively insert the name Cupid Black into early dialogue;
-- reveal later abilities as already mastered.
+## CR-003 — 9 July 2026 Singapore event
+Chapter 4 establishes that Enka experienced a heavy EduBeam event after leaving his Bugis apartment and subsequently appeared outside a colleague's apartment near the university campus.
 
-## Retrieval references
+**Authority:** ARCHIVAL_RECORD.
 
-Every archival claim used in final script must receive a source/retrieval ID in the final provenance manifest.
+This is the principal chronological anchor for S00E01.
 
-## Continuity rule
+## CR-004 — Foundation Phase superhuman interpretation
+Targeting hierarchy, variable beam intensity, materialization mechanics and controlled-awareness development are working story material.
 
-If two archive passages appear inconsistent, preserve the conflict and flag it for producer review. Do not invent a bridge merely to make the timeline cleaner.
+**Authority:** PROPOSED_NEW_CANON unless already approved through serialization.
+
+## CR-005 — News continuity
+Current headlines may influence the thematic discussion but must not be retroactively inserted into fictional history as facts.
+
+## Rules
+1. Earlier archive facts outrank generated suggestions.
+2. Do not invent bridges when the archive is uncertain.
+3. Preserve chronology.
+4. Label new canon.
+5. Keep fiction and real reporting distinct.
+6. Record retrieval references in the provenance manifest.
