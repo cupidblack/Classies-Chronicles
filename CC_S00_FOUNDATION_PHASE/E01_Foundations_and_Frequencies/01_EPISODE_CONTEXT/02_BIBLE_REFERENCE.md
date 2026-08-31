@@ -1,34 +1,29 @@
-# Bible Reference — S00E01: Foundations & Frequencies
+# Bible Reference — S00E01
 
-**Primary reference:** Nehemiah 1–7  
-**Use:** thematic architecture, not a sermon or plot replacement.
+## Primary passage
 
-## Core movement
+**Nehemiah chapters 1–7**
 
-Nehemiah 1–7 provides a useful progression for the pilot:
+## Narrative function
 
-1. **Hear** — information about a crisis arrives.
-2. **Discern** — the information is taken seriously rather than dismissed.
-3. **Pray / reflect** — emotional reaction becomes purposeful reflection.
-4. **Inspect** — the situation is examined directly.
-5. **Rebuild** — a response is organized around a real problem.
-6. **Watch** — progress requires vigilance because the threat is not necessarily gone.
+Nehemiah is used as a thematic framework rather than as an explanation for EduBeam.
 
-## Episode parallel
+The episode draws on these broad ideas:
 
-The Chronicle mirrors this progression without equating Enka with Nehemiah:
+- receive troubling information;
+- pause and seek wisdom;
+- investigate rather than assume;
+- organize people and resources;
+- rebuild deliberately;
+- remain alert while working;
+- accept responsibility for what knowledge requires.
 
-- The archive is the thing being examined.
-- The 9 July event is the crisis signal.
-- Enka does not immediately understand what happened.
-- He records observations rather than pretending to know the answer.
-- The Foundation Phase becomes his equivalent of an inspection/rebuilding period.
-- The final unexplained pulse establishes the need to remain watchful.
+## Podcast reflection
 
-## Podcast reflection — 10–15 seconds
-
-> "Nehemiah heard about broken walls and didn't stop at hearing. He investigated, prayed, organized and rebuilt — while staying watchful. Our story begins with a different kind of broken signal. The question is the same: what do we do when something important doesn't make sense?"
+A short reflection should connect Nehemiah's response to uncertainty with the pilot's central question: what should a person do when they possess evidence but do not yet possess the full explanation?
 
 ## Editorial boundary
 
-Do not claim that Nehemiah predicted EduBeam, superpowers, AI or Classies Chronicles. The connection is thematic: **information → discernment → response → responsibility → vigilance**.
+Use the approved Bible translation selected for the recording session. Do not reproduce a complete copyrighted translation in the episode files unless licensed/authorized.
+
+**Canon status:** CONFIRMED_REFERENCE

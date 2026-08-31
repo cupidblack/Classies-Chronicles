@@ -1,0 +1,67 @@
+{
+  "episode_id": "S00E01",
+  "generated": "2026-08-31",
+  "purpose": "Traceable source register for the episode package",
+  "sources": [
+    {
+      "id": "SRC-CH4",
+      "type": "archive",
+      "title": "Classies Chronicles Pilot Season Chapter 4",
+      "authority": "ARCHIVAL_RECORD",
+      "url": "https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies_Chronicles-Pilot_Season-Chapter_4.txt"
+    },
+    {
+      "id": "SRC-STUDIO",
+      "type": "studio",
+      "title": "Studio Structure Skeletal Blueprint v23.0",
+      "authority": "PRODUCTION_REFERENCE",
+      "url": "https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Studio_Structure_Skeletal_Blueprint_v23.0.txt"
+    },
+    {
+      "id": "SRC-COMMS",
+      "type": "studio",
+      "title": "Podcast Communications Module",
+      "authority": "PRODUCTION_REFERENCE",
+      "url": "https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Podcast_Communications_Module.txt"
+    },
+    {
+      "id": "SRC-AIDESK",
+      "type": "studio",
+      "title": "Classies Chronicles AI Desk Architecture v22.0",
+      "authority": "PRODUCTION_REFERENCE",
+      "url": "https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Classies_Chronicles_AI_Desk_Architecture_v22.0.txt"
+    },
+    {
+      "id": "SRC-COURSE",
+      "type": "course",
+      "title": "Buzzjuice Courses Registration & Orientation",
+      "authority": "COURSE_REFERENCE",
+      "url": "https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Buzzjuice_Courses-Registration_Orientation.txt"
+    },
+    {
+      "id": "SRC-PROMPT2",
+      "type": "prompt",
+      "title": "Episode Prompt Template v2.0",
+      "authority": "PROMPT_REFERENCE",
+      "url": "https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v2.0.md"
+    },
+    {
+      "id": "SRC-CANON-CB",
+      "type": "canon",
+      "title": "Cupid Black Character Canon",
+      "authority": "CHARACTER_CANON",
+      "url": "https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md"
+    },
+    {
+      "id": "SRC-CANON-EB",
+      "type": "canon",
+      "title": "EduBeam Canon",
+      "authority": "TECHNOLOGY_CANON",
+      "url": "https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md"
+    }
+  ],
+  "notes": [
+    "Current web research may include verified headlines, but future dates are not populated.",
+    "Provenance should be updated after every retrieval/generation run."
+  ]
+}

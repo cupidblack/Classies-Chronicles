@@ -1,0 +1,22 @@
+{
+  "episode_id": "S00E01",
+  "status": "IN_DEVELOPMENT",
+  "release_date": null,
+  "assets": [
+    "01_EPISODE_CONTEXT",
+    "02_AI_DESK",
+    "03_PODCAST",
+    "04_MEDIA",
+    "05_STORY_AND_SCRIPT",
+    "06_PRODUCTION"
+  ],
+  "canon_files": [
+    "CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md",
+    "CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md"
+  ],
+  "archive_policy": "Only final approved media and provenance artifacts should be added after production.",
+  "integrity": {
+    "hash_algorithm": "SHA-256",
+    "final_hashes_required": true
+  }
+}

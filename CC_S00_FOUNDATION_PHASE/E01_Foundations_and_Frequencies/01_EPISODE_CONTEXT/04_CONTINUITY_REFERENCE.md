@@ -1,72 +1,49 @@
-# Continuity Reference — S00E01
+# S00E01 — Continuity Reference
 
-## Canonical bridge
+## Authority hierarchy
 
-The Pilot Season Chapter 4 archive already establishes the 9 July 2026 Singapore event. S00E01 must reconstruct that event rather than inventing a new origin event.
+1. Approved archive material
+2. Episode canon
+3. Producer-approved proposed canon
+4. Working interpretations
+5. Speculation
 
-### Locked continuity anchors
+Earlier archive facts outrank generated suggestions.
 
-- Enka is in Bugis, Singapore.
-- An eviction/relationship threat is already established.
-- He is preparing to leave.
-- A humming signal becomes stronger.
-- Lights flicker.
-- He recognizes the phenomenon as the EduBeam.
-- A strong exposure occurs.
-- He subsequently finds himself near a colleague's apartment in Singapore.
-- He remains disoriented and uncertain about what physically happened.
-- The later Foundation Phase follows from this established event.
+## CR-001 — Earlier Blue Crown material
 
-The archive describes the event as an unexplained displacement/materialization phenomenon. S00E01 should preserve that uncertainty.
+Use established material concerning unusual academic/perceptual records, vivid dreams or missing time, unusual recall, RF anomalies, suspicious signals and Enka's RF scanner where supported by the relevant archive.
 
-## Earlier historical anchors
+**Authority:** ARCHIVAL_RECORD
 
-The character canon records:
+## CR-002 — Cupid Black / Cu identity
 
-- Blue Crown anomalies
-- RF scanning
-- unusual academic/record anomalies
-- vivid dreams and unusual recall
-- missing-time experiences
-- suspicion of observation/experimentation
+"Cu" / "Q" and "Cupid Black" are later identity labels. Do not retroactively place them into early chronology unless the narrator explicitly frames the reference retrospectively.
 
-These are evidence in the story, not proof of one scientific explanation.
+**Authority:** CHARACTER_CANON
 
-## What S00E01 may establish
+## CR-003 — 9 July 2026 Singapore event
 
-- Partial materialization can have a darker/shadow-like visual signature.
-- A strong EduBeam exposure can produce high-power, low-control effects.
-- Enka's experience can include a dual-location or overlapping-location sensation.
-- Enka's first Foundation Phase response is investigation rather than mastery.
+Chapter 4 establishes that Enka experienced a heavy EduBeam event after leaving his Bugis apartment and subsequently appeared outside a colleague's apartment near the university campus in Singapore.
 
-## What S00E01 must NOT establish
+**Authority:** ARCHIVAL_RECORD
 
-- The identity of the EduBeam controller.
-- A definitive scientific mechanism.
-- That Koware controls EduBeam.
-- That Enka already knows how to enter a controlled Alpha state.
-- That he can intentionally teleport long distances.
-- Wall phasing, dimensional travel or dream-world travel.
-- The drone-based EduBeam analogue.
-- That real-world missing persons, crimes or disasters are caused by EduBeam.
+This is the principal chronological anchor for S00E01.
 
-## Identity timing
+## CR-004 — Foundation Phase abilities
 
-"Cu / Q" may be used as an alias only where the chronology supports it. "Cupid Black" is the later identity label and should be used primarily by narration, archive framing or retrospective context.
+Dual-location perception, materialization, targeting hierarchy and controlled-awareness development are story-development material unless already explicitly established in the approved archive.
 
-## Character arc
+**Authority:** PROPOSED_NEW_CANON / WORKING_INTERPRETATION
 
-E01 moves Enka:
+## CR-005 — News continuity
 
-**confusion → observation → fear → restraint → decision to investigate**
+Real headlines may inspire themes or clearly labelled fictional story material. The Chronicle must never imply that a fictional character caused, solved or participated in a real-world crime or incident unless the programme explicitly labels that segment as fiction.
 
-It does not move him to:
+## CR-006 — Do not over-canonize
 
-**confusion → superhero mastery.**
+The previous package introduced several exact dates, percentages and technical specifications without sufficient archive support. These are removed from the active canon.
 
-## Future setup
+## E01 continuity rule
 
-S00E02: registration/orientation  
-S00E03+: health and safety / awareness foundations  
-Later Foundation Phase: prayer, awareness, meditation, Tai Chi/Qigong and controlled fictional experimentation  
-Later seasons: intentional displacement and advanced phenomena
+Show the consequence before explaining the mechanism. The audience should experience the mystery with Enka.

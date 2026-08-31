@@ -1,239 +1,150 @@
-# S00E01 — Story Notes v0.6
+# S00E01 — Story Notes v1.0
 
-## Main topic
+## 1. Main key topic
 
-**Foundations & Frequencies — When an unexplained signal becomes a responsibility.**
+**Foundations & Frequencies — building a trustworthy foundation when knowledge, technology and perception are more powerful than the person trying to control them.**
 
-### Main story
+## 2. Pilot strategy
 
-The first pilot episode opens in the present day with the Classies Chronicles production team reviewing the archive. A file dated 9 July 2026, Singapore, appears to contain a signal anomaly. The review reconstructs the already-established EduBeam incident: Enka leaving his Bugis apartment, the rising hum, flickering lights, the beam, and the impossible overlap between locations.
+S00E01 is a **mystery-and-foundation pilot**, not a complete superhero origin.
 
-The story does not solve the mystery.
+It should:
 
-Instead, it establishes the core promise of the Foundation Phase:
+- welcome new viewers;
+- reward archive-aware viewers;
+- reconstruct the established 9 July 2026 Singapore event;
+- introduce the Koware/Buzzjuice ecosystem;
+- demonstrate the Bible + education + news + fictional-story integration model;
+- introduce the AI Desk as a participant;
+- end with a live mystery.
 
-> **We are going back to the beginning — not because the past is simple, but because the past contains clues.**
+## 3. Narrative spine
 
-## Why this is the better pilot
+**Signal → evidence → uncertainty → learning → community → new signal**
 
-The earlier archive already contains the 9 July event. Therefore, E01 should not invent a separate first beam or move the event to Genting.
+## 4. Story beats
 
-Genting, Kuala Lumpur and the wider 2026 journey remain future story territory.
+### Cold Open — The file
 
-This preserves continuity while giving the audience a strong mystery immediately.
+A present-day Foundation Phase archive review stops on:
 
-## Narrative spine
+**09 JULY 2026 — SINGAPORE**
 
-**Archive → Signal → Memory → EduBeam → Displacement → Choice → New signal**
+A waveform appears. The archive interface glitches.
 
-### Cold Open — "The File"
+### Act 1 — The old clues
 
-A screen displays:
+Brief flashes of Blue Crown, an RF scanner, unusual records, vivid dreams and unexplained signals.
 
-`09 JUL 2026 — SINGAPORE — ANOMALOUS EVENT`
+Narration establishes a core rule:
 
-A waveform is visible.
+**A clue is not an explanation.**
 
-The waveform briefly changes.
+### Act 2 — Singapore
 
-The host says:
+Reconstruct the established Chapter 4 event. Enka has finished packing and is leaving his Bugis apartment. The hum begins. Lights flicker. He recognizes the EduBeam.
 
-> "That wasn't in the original file."
+Keep the scene tense but human.
 
-AI Desk:
+### Act 3 — The impossible overlap
 
-> "I cannot confirm that."
+Enka experiences the sensation of two locations occupying the same moment.
 
-Cut to the past.
+Principal slapstick beat:
 
-### Act I — Old Clues
+He tries to keep his scanner/phone pointed toward the signal while backing toward the car and bumps into the door.
 
-Fast visual montage:
-
-- Blue Crown
-- old RF scanner
-- missing/blank academic records
-- handwritten notes
-- dreams / missing time
-- suspicious signals
-
-Narration:
-
-> "The archive contains clues. Clues are not explanations."
-
-### Act II — Singapore, 9 July 2026
-
-Enka packs the last bags.
-
-He is tired, alert and suspicious.
-
-A hum begins.
-
-The lights flicker.
-
-He checks the signal with the equipment he has.
-
-He backs away and bumps into the car door.
-
-He pauses.
+He pauses:
 
 > "If science wants my attention, it could at least knock."
 
-One quick laugh.
+The joke releases tension without weakening the event.
 
-The hum intensifies.
+### Act 4 — Materialization
 
-### Act III — Impossible Overlap
+Near the colleague's apartment, the environment subtly dims.
 
-The beam hits.
+A shadow-like form gathers.
 
-Sound becomes distorted.
+Colour returns as Enka stabilizes.
 
-Enka sees:
-
-- the car;
-- the apartment;
-- the corridor;
-- two possible locations at once.
-
-He reaches for something that appears to be in both places.
-
-The audience cannot tell whether this is perception, physical displacement or both.
-
-### Act IV — Materialization
-
-Outside the colleague's apartment:
-
-The light subtly dims.
-
-A darker shape gathers.
-
-It resembles a shadow or dust passing through sunlight.
-
-The form becomes human.
-
-Colour returns.
-
-Enka looks around.
+He asks:
 
 > "Where am I?"
 
-He checks himself.
+This is the visual seed for the later "Black" identity.
 
-No obvious injury.
+### Act 5 — Foundation
 
-No explanation.
+Return to the present-day archive.
 
-### Act V — The Choice
+The host introduces the Foundation Phase and explains that Buzzjuice Network and Buzzjuice Courses provide the learning/community layer through which the audience will explore what comes next.
 
-Back in the present archive room, the team pauses the footage.
+The Chronicle itself remains a story, not an advertisement.
+
+### Closing mystery
+
+The AI Desk flags a new pulse in the archive:
+
+`INSUFFICIENT EVIDENCE`
 
 The host asks:
 
-> "So that's the origin?"
+> "Then why is the signal back?"
 
-AI Desk:
+Cut to black.
 
-> "Insufficient evidence."
+## 5. Character boundary
 
-The host:
+E01 shows:
 
-> "That's a very AI answer."
+- curiosity;
+- technical observation;
+- humour under pressure;
+- fear and uncertainty;
+- responsibility;
+- anomalous perception;
+- involuntary displacement.
 
-AI:
+E01 does not show mastery.
 
-> "It is also the correct answer."
+## 6. Ability boundary
 
-The room laughs lightly.
-
-Then the waveform changes again.
-
-A new pulse appears.
-
-No one touches the file.
-
-Silence.
-
-## Bible integration
-
-Nehemiah 1–7 provides the episode's moral structure:
-
-**hear → discern → investigate → respond → rebuild → remain watchful**
-
-The episode should not claim that the Bible explains EduBeam. It uses the Nehemiah pattern as the Foundation Phase's philosophy.
-
-## Course integration
-
-Buzzjuice/Koware appears in the podcast as part of the real-world learning ecosystem.
-
-The Chronicle should only hint at the idea that Enka will eventually seek structured learning.
-
-Detailed registration and orientation begin in S00E02.
-
-## News integration
-
-Use one or two verified headlines during the podcast discussion, especially:
-
-- Ghana's push toward AI-ready education;
-- Singapore's expansion of AI in higher education;
-- Genting safety/misinformation reporting.
-
-Do not insert fictional claims into real headlines.
-
-## Humour
-
-One principal physical beat:
-
-Enka backs away while trying to monitor the signal and bumps into the Mustang door.
-
-Secondary humour:
-
-The present-day AI Desk refuses to overclaim.
-
-## Ability boundary
-
-E01 establishes:
-
-- EduBeam surge;
-- unstable perception;
-- dual-location sensation;
-- temporary displacement/materialization;
-- darker partial materialization signature.
-
-E01 does not establish:
+Do not fully explain or demonstrate:
 
 - controlled teleportation;
-- phasing;
-- dimensions;
+- wall phasing;
+- dimensional travel;
 - dream-world travel;
-- drone beam;
-- controlled Alpha-state technique.
+- drone-based EduBeam reproduction;
+- controlled Alpha-state mechanics;
+- telekinesis/telepathy as established abilities.
 
-## Ending hook
+These can develop later after narrative groundwork.
 
-> **If the archive is still changing, is someone — or something — still watching Enka?**
+## 7. News integration
 
-## Canon status
+Use current headlines primarily as thematic mirrors:
 
-### CONFIRMED / ARCHIVAL
+- AI and coding entering education;
+- responsible AI education in Singapore;
+- AI/education development in Malaysia;
+- local safety awareness in Genting.
 
-- 9 July 2026 Singapore event.
-- Enka experienced a strong EduBeam event.
-- Enka subsequently appeared near a colleague's apartment.
-- Earlier Blue Crown/RF anomalies exist.
+Do not claim Cu caused or solved any real incident.
 
-### PROPOSED NEW CANON
+## 8. Bible integration
 
-- Partial materialization presents as a darker/shadow-like phenomenon.
-- The archive can contain a waveform discrepancy discovered during present-day review.
-- Enka's dual-location sensation is a recurring subjective effect.
+Nehemiah 1–7 provides the thematic lens: hear, pray, investigate, organize, rebuild, remain watchful.
 
-### WORKING INTERPRETATION
+## 9. Humour
 
-- The waveform discrepancy may be evidence of a live signal rather than archive corruption.
+One principal physical/comedic beat in the ~200-second Chronicle, plus small observational humour in the podcast.
 
-### UNKNOWN
+## 10. Ending question
 
-- Who controls EduBeam.
-- Why Enka is unusually affected.
-- Whether the new pulse is connected to EduBeam.
+**If the archive is still changing, is someone—or something—still watching Enka?**
+
+## 11. Canon status
+
+All new mechanics introduced here are either **PROPOSED_NEW_CANON**, **WORKING_INTERPRETATION** or **SPECULATION** unless backed by the archive.

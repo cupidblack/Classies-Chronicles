@@ -1,43 +1,26 @@
 # Course Reference — S00E01
 
 **Reference:** Koware Group / Buzzjuice Network / Buzzjuice Courses introduction  
-**Formal lesson:** None in S00E01  
-**Next planned emphasis:** Registration & Orientation
+**Formal Health & Safety lesson:** None
 
-## What E01 should establish
+## What E01 establishes
 
 The audience should understand that:
 
-- Buzzjuice Network is part of the wider Koware ecosystem.
-- Buzzjuice Courses is an education/product layer within that ecosystem.
-- The Foundation Phase will explain how the platform works.
-- Learning, community participation and future Classies Chronicles participation can connect.
-- The detailed registration and orientation process belongs primarily to S00E02.
+1. Buzzjuice Network sits within the wider Koware ecosystem.
+2. Buzzjuice Courses is an education/product layer of that ecosystem.
+3. The Foundation Phase will explain the platform, registration, orientation, education and participation.
+4. Learning and community participation can eventually connect to Classies Chronicles participation.
 
-## Diegetic use
+## What belongs later
 
-The Chronicle should not turn into an advertisement.
+Detailed registration/orientation, payment or gating mechanics, KYC, affiliate structures, the full Health & Safety curriculum and the Personal Awareness connection to Enka's abilities should be introduced in later episodes.
 
-Instead, the story can briefly show Enka encountering a learning-oriented network while looking for structure and answers.
+## Diegetic story use
 
-**Preferred line of thought:**
+Enka encounters a learning-oriented network while looking for structure and answers. The Chronicle should not become an advertisement.
 
-> "If I am going to understand what happened to me, I need somewhere to start."
+**Suggested story thought:**  
+"If I'm going to understand what happened to me, I need somewhere to start."
 
-## Do not introduce yet
-
-- Detailed registration steps
-- Payment/gating mechanics
-- Full Health & Safety curriculum
-- Affiliate payout structures
-- KYC requirements
-- Personal Awareness as the mechanism for power control
-
-Those belong to later Foundation Phase episodes.
-
-## Strategic purpose
-
-E01 establishes **curiosity**.  
-E02 establishes **orientation**.  
-E03 can establish the **Health & Safety ecosystem**.  
-Later episodes can reveal how Personal Awareness becomes relevant to Enka's developing abilities.
+**Canon status:** CONFIRMED_EPISODE_SCOPE

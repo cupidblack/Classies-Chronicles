@@ -1,92 +1,65 @@
 {
-  "headlines_meta": {
-    "episode": "S00E01",
-    "as_of": "2026-08-31",
-    "requested_window": "2026-08-09_to_2026-10-17",
-    "usable_window_for_current_publication": "2026-08-09_to_2026-08-31",
-    "future_window_note": "2026-09-01_to_2026-10-17 cannot be represented as verified news on 2026-08-31. Refresh this file immediately before publication if the episode is delayed.",
-    "primary_locations": [
-      "Adenta / Greater Accra",
-      "Singapore / Bugis",
-      "Genting Highlands",
-      "Kuala Lumpur"
-    ],
-    "editorial_rule": "Real headlines are thematic mirrors. The Chronicle must not claim that Cu caused, solved or secretly participated in a real-world reported event unless a fictional connection is explicitly invented as clearly fictional material outside the factual headline.",
-    "adenta_note": "No directly verified Adenta-specific item was selected for this snapshot; Greater Accra/Ghana items may be used as the wider-location layer."
+  "episode_id": "S00E01",
+  "requested_window": {
+    "start": "2026-08-09",
+    "end": "2026-10-17"
   },
-  "selected_verified_headlines": [
+  "research_cutoff": "2026-08-31",
+  "status": "PARTIAL_WINDOW_ONLY",
+  "correction": "The original request extends into the future. Future headlines must not be fabricated. Re-run headline research when each future period becomes available.",
+  "primary_locations": [
+    "Adenta",
+    "Greater Accra",
+    "Ghana",
+    "West Africa",
+    "Singapore",
+    "Genting, Malaysia",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "editorial_rule": "Use verified reporting only. Real headlines are thematic references unless explicitly framed as fictionalized story material.",
+  "verified_candidates": [
     {
-      "date": "2026-08-16",
-      "location": "Accra / Ghana",
-      "source": "Ghana News Agency",
-      "headline": "AI reshaping jobs, youth urged to upskill",
-      "category": "education / employment / technology",
-      "episode_use": "Supports the Foundation Phase theme that education must adapt to technological change.",
-      "cupid_black_connection": "Thematic only."
+      "location": "Ghana",
+      "date": "2026-07-22",
+      "topic": "Revised basic-school curriculum introduces AI literacy, computational thinking and coding",
+      "use": "education/technology thematic mirror",
+      "source": "Ghana News Agency"
     },
     {
+      "location": "Ghana",
       "date": "2026-08-21",
-      "location": "Kumasi / Ghana",
-      "source": "Ghana News Agency",
-      "headline": "KNUST secures grant to strengthen AI education and research",
-      "category": "education / technology",
-      "episode_use": "Reinforces the episode's education-and-technology foundation.",
-      "cupid_black_connection": "Thematic only."
+      "topic": "KNUST secures grant to strengthen AI education and research",
+      "use": "education/AI development",
+      "source": "reported candidate in current episode research"
     },
     {
-      "date": "2026-08-25",
-      "location": "Accra / Ghana",
-      "source": "Ghana Communication Technology University",
-      "headline": "Africa AI Upscaling Training Programme launched at GCTU",
-      "category": "education / AI capacity",
-      "episode_use": "Useful bridge into responsible AI participation in the podcast.",
-      "cupid_black_connection": "Thematic only."
-    },
-    {
-      "date": "2026-08-11",
       "location": "Singapore",
-      "source": "National University of Singapore",
-      "headline": "NUS expands AI capabilities through strategic collaboration with OpenAI",
-      "category": "education / AI",
-      "episode_use": "Strong Singapore connection to the episode's education-and-AI theme.",
-      "cupid_black_connection": "Thematic only; not a fictional EduBeam event."
-    },
-    {
       "date": "2026-08-11",
+      "topic": "SMU introduces new AI-enabled future courses",
+      "use": "education/AI thematic mirror",
+      "source": "reported candidate in current episode research"
+    },
+    {
       "location": "Singapore",
-      "source": "Singapore Management University",
-      "headline": "SMU unveils new courses to prepare graduates for an AI-enabled future",
-      "category": "education / AI",
-      "episode_use": "Supports the idea that education is becoming an active response to technological change.",
-      "cupid_black_connection": "Thematic only."
+      "date": "2026-08-08",
+      "topic": "Teachers to take AI modules under MOE plan",
+      "use": "responsible AI education",
+      "source": "reported candidate in current episode research"
     },
     {
-      "date": "2026-08-18",
-      "location": "Genting Highlands",
-      "source": "RTM / Bernama reporting",
-      "headline": "Police confirmed a robbery at a Genting Highlands shopping centre; security checks temporarily affected traffic",
-      "category": "local safety / crime",
-      "episode_use": "Useful local-safety context if Genting is discussed in the podcast.",
-      "cupid_black_connection": "Do not claim Cu caused or solved the robbery."
-    },
-    {
+      "location": "Genting",
       "date": "2026-08-17",
-      "location": "Genting Highlands",
-      "source": "RTM / Bernama",
-      "headline": "Police denied viral claims of a large drug cartel operating in Genting Highlands",
-      "category": "public safety / misinformation",
-      "episode_use": "Excellent example of why information must be checked before becoming story fact.",
-      "cupid_black_connection": "Thematic only."
+      "topic": "Police confirm robbery at Genting Highlands shopping centre",
+      "use": "local awareness; must not be attributed to Cu",
+      "source": "reported candidate in current episode research"
+    },
+    {
+      "location": "Kuala Lumpur/Malaysia",
+      "date": "2026-08-06",
+      "topic": "Google Malaysia and MARA partner to drive AI in education",
+      "use": "education/technology thematic mirror",
+      "source": "reported candidate in current episode research"
     }
   ],
-  "global_awareness_headlines": [
-    {
-      "date": "2026-08-05",
-      "location": "Kuala Lumpur / regional",
-      "source": "NUS AI Centre for Educational Technologies",
-      "headline": "Teaching beyond the tools: rethinking learning in the age of generative AI",
-      "category": "education / AI ethics",
-      "episode_use": "Supports the broader question: technology can amplify learning, but judgment remains human."
-    }
-  ]
+  "future_period": "2026-09-01 through 2026-10-17 is unavailable at the 2026-08-31 cutoff and remains pending."
 }

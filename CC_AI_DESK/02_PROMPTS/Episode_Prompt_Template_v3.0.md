@@ -1,72 +1,108 @@
 # Classies Chronicles — Episode Generation Contract v3.0
 
-## Purpose
+**Template ID:** cc.episode.v3.0  
+**Purpose:** Default orchestration template for generating each Classies Chronicles episode package.
 
-This is the episode-level orchestration contract.
+## 1. How to use
 
-It sits above the existing Part/Scene generation prompt and prepares the story package that feeds detailed generation.
+Complete this contract before asking an AI to generate story content.
 
-Pipeline:
+The episode generator must:
 
-Episode Contract
-→ Source Validation
-→ Story Package
-→ Part/Scene Contract
-→ Media Generation
-→ Chronicle
-→ QA
-→ Trailer
-→ Podcast.
+1. read the completed context;
+2. retrieve the referenced previous episode and archive;
+3. reconcile continuity;
+4. classify canon claims;
+5. research only available real-world sources;
+6. produce the story package;
+7. run QA;
+8. stop for producer approval before locking new canon.
 
-## 1. Episode Identity
+## 2. Machine-readable header
 
-Required:
+```yaml
+template_id: cc.episode.v3.0
+template_version: v3.0
+episode_id: S00E01
+season_id: S00
+episode_title: "Foundations & Frequencies"
+chronicle_title: "The Signal Before the Story"
+producer: ""
+generation_timestamp_utc: ""
+locale: en-GH
+timezone: Africa/Accra
+language: English
+generation_mode: creative
+retrieval_scope: CURRENT_EPISODE
+chronicle_target_seconds: 200
+trailer_target_seconds: 20
+podcast_target_minutes: "35-45"
+producer_approval: false
+```
 
-- episode_id
-- season_id
-- episode_title
-- chronicle_title
-- generation_version
-- producer
-- language
-- locale
+## 3. Episode identity
 
-## 2. Narrative Contract
+- Episode ID:
+- Season:
+- Chapter:
+- Episode title:
+- Chronicle title:
+- Publication target:
+- Primary POV:
+- Narrative tense:
+- Intended audience:
 
-Required:
+## 4. Story objective
 
-- central question;
-- theme;
-- primary POV;
-- beginning state;
-- conflict;
-- turning point;
-- resolution/partial resolution;
-- ending hook;
-- continuity anchors;
-- educational element;
-- real-world references;
-- humour level;
-- mystery level;
-- emotional arc.
+- Main key topic:
+- Central question:
+- Theme:
+- Beginning state:
+- Conflict:
+- Turning point:
+- Resolution/partial resolution:
+- Ending hook:
+- Humour level:
+- Mystery level:
 
-## 3. Source Contract
+## 5. Source package
 
-Required source classes where applicable:
+### Bible
+- File:
+- Passage:
+- Thematic use:
 
-- Bible/reference;
-- approved course/education source;
-- approved current headline(s);
-- approved continuity references;
-- approved character canon;
-- approved technology canon;
-- producer story notes.
+### Course
+- File:
+- Lesson/module:
+- What is introduced now:
+- What must be deferred:
 
-The generator must never invent a missing source.
+### Headlines
+- File:
+- Research cutoff:
+- Locations:
+- Verified headlines:
+- Fictionalization policy:
 
-## 4. Canon Policy
+### Continuity
+- Previous episode:
+- Chapter notes:
+- Archive files:
+- Character canon:
+- Technology canon:
 
-Every important claim is classified:
+### Previous-episode resources
+
+List exact links/paths to the previous episode's final transcript, Chronicle, trailer, manifest and relevant canon changes.
+
+### Archive resources
+
+Attach/reference the Classies Chronicles archive. The generator must prefer archive evidence over invention.
+
+## 6. Canon control
+
+Every significant new claim must be labelled:
 
 - CONFIRMED_CANON
 - ARCHIVAL_RECORD
@@ -77,117 +113,110 @@ Every important claim is classified:
 
 Only CONFIRMED_CANON and ARCHIVAL_RECORD may be presented as established history.
 
-PROPOSED_NEW_CANON requires producer approval.
+## 7. Real-world news rule
 
-## 5. News Policy
+Never fabricate a headline, date, quotation, statistic, source or event.
 
-Real news must be:
+If the requested date range extends beyond the research date, mark the future portion **PENDING** and do not invent it.
 
-- current;
-- verified;
-- stored in 05_HEADLINES.json;
-- cited in the production provenance;
-- clearly distinguished from fictional material.
+Real-world reporting must remain distinct from fictional events.
 
-Never fabricate a headline, publisher, URL, quotation or event.
+## 8. Narrative integration
 
-A real headline may inspire a fictional parallel, but the Chronicle must never imply that a fictional character caused or solved the actual real-world event unless that statement is clearly framed as fiction.
+Bible, course content, news and archive material should be integrated into the story rather than inserted as disconnected blocks.
 
-## 6. Intervention Policy
+The Chronicle remains the primary story artifact.
 
-AI may:
+## 9. Character controls
 
-- suggest;
-- draft;
-- reorganize;
-- identify continuity problems;
-- identify missing sources;
-- propose new canon.
+Check:
 
-AI may not silently:
+- identity chronology;
+- personality;
+- current ability stage;
+- emotional state;
+- relationships;
+- props;
+- recurring phrases;
+- unresolved mysteries.
 
-- create canon;
-- rewrite source history;
-- fabricate news;
-- fabricate citations;
-- override consent;
-- override licensing;
-- publish.
+Do not give a character knowledge they have not earned.
 
-## 7. Humour Policy
+## 10. Humour policy
 
 Default:
 
 - warm;
 - observational;
 - light slapstick;
-- one principal physical/comedic beat per approximately 200-second Chronicle.
+- approximately one principal physical/comedic beat per ~200-second Chronicle.
 
-Humour must not trivialize serious real-world reporting.
+Humour must not trivialize serious real-world events.
 
-## 8. Chronicle-First Rule
+## 11. AI Desk policy
 
-The approximately 200-second Chronicle must be completed and producer-approved before final podcast recording.
+AI may suggest, draft, reorganize, question and flag.
 
-The approximately 20-second trailer must be derived from the approved Chronicle.
+AI may not silently:
 
-## 9. Output Package
+- create permanent canon;
+- fabricate news;
+- fabricate citations;
+- override consent;
+- override licensing;
+- publish.
+
+For live podcast use, AI remains silent until explicitly cued.
+
+## 12. Required output package
 
 Generate:
 
-1. story brief;
-2. narrative draft;
-3. script;
-4. scene list;
+1. episode story brief;
+2. Chronicle draft;
+3. scene/shot list;
+4. narration script;
 5. visual prompt list;
-6. audio/SFX list;
+6. SFX/music list;
 7. Chronicle QA report;
-8. 20-second trailer;
+8. 20-second trailer derived only from approved Chronicle;
 9. podcast discussion package;
-10. provenance manifest.
+10. episode provenance manifest;
+11. canon-change proposal.
 
-## 10. Determinism and Audit
+## 13. Chronicle-first production gate
 
-Record:
+Do not treat the podcast as final until the Chronicle is approved.
 
-- template version;
-- model/provider;
-- timestamp;
-- source IDs;
-- retrieval scope;
-- deterministic seed where supported;
-- output hash where practical;
-- producer approval state.
+Pipeline:
 
-## 11. QA
+**Episode Contract → Story Package → Chronicle → Chronicle QA → Producer Approval → Trailer → Podcast → Final QA → Archive**
 
-FAIL when:
+## 14. QA
 
-- required source is missing;
-- real news is fabricated;
-- continuity is contradicted without explicit story reason;
-- restricted content is used;
-- consent is missing;
-- licensing is invalid;
-- critical narrative elements are absent.
+### FAIL
+- missing critical source;
+- fabricated news;
+- continuity contradiction without explicit story reason;
+- unsafe actionable technical instructions;
+- missing consent/licensing;
+- missing critical narrative elements.
 
-WARN when:
+### WARN
+- weak transition;
+- weak humour;
+- incomplete provenance;
+- unclear character motivation;
+- excessive exposition.
 
-- optional sensory detail is weak;
-- transitions are weak;
-- humour is underdeveloped;
-- continuity references are incomplete.
+## 15. Producer approval block
 
-## 12. Producer Acceptance Gate
-
-No generated story becomes canon merely because it passes AI QA.
-
-AI QA confirms compliance.
-
-Producer approval confirms story authority.
-
-## 13. Relationship to Part Template
-
-The existing `Episode_Prompt_Template.txt` remains the detailed Part/Scene contract.
-
-This file does not replace it.
+```yaml
+story_approved: false
+chronicle_approved: false
+trailer_approved: false
+podcast_approved: false
+canon_changes_approved: false
+publication_approved: false
+approval_notes: ""
+```

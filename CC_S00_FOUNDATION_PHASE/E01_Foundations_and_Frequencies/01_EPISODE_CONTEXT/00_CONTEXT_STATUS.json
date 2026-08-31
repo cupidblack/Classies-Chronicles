@@ -2,26 +2,16 @@
   "episode_id": "S00E01",
   "season_id": "S00",
   "season_title": "The Foundation Phase",
-  "episode_number": 1,
   "episode_title": "Foundations & Frequencies",
   "chronicle_title": "The Signal Before the Story",
-  "status": "STORY_PACKAGE_READY_FOR_PRODUCER_REVIEW",
+  "status": "IN_DEVELOPMENT",
   "created": "2026-08-31",
-  "updated": "2026-08-31",
   "chronicle_target_seconds": 200,
   "trailer_target_seconds": 20,
   "podcast_target_minutes": "35-45",
-  "publication_target": "ASAP",
   "producer_approval": false,
   "retrieval_scope": "CURRENT_EPISODE",
-  "story_position": "Foundation Phase opening; Chapter 4 continuity bridge",
-  "critical_rule": "S00E01 is not a complete superhero origin. It is the first controlled presentation of an already-established anomaly.",
-  "recording_gate": "The final podcast programme recording must not be locked until the approximately 200-second Chronicle is approved.",
-  "next_episode": "S00E02 — Registration & Orientation",
-  "blocking_items": [
-    "Producer story approval",
-    "Final current-headline snapshot",
-    "Chronicle narration",
-    "Chronicle visual production"
-  ]
+  "chronicle_first": true,
+  "ai_cohost_mode": "CONTROLLED",
+  "notes": "Pilot commissioning episode; continuity bridge to the established 9 July 2026 Singapore EduBeam event."
 }
