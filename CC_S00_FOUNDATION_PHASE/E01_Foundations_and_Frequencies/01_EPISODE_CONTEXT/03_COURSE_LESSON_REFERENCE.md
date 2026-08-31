@@ -1,23 +1,23 @@
-# Course Reference — S00E01
+# S00E01 — Course / Education Reference
 
 ## Scope
-No formal Health & Safety lesson is taught in S00E01.
 
-The episode introduces:
-- Koware Group as the wider organisational context;
-- Buzzjuice Network as the community/platform layer;
-- Buzzjuice Courses as an educational/product department;
-- the Foundation Phase as the preparation period before official Season 1.
+E01 introduces:
+- Koware Group;
+- Buzzjuice Network;
+- Buzzjuice Courses;
+- why a foundation/orientation phase exists.
 
-## Sequencing
-Registration and orientation are primarily reserved for the next Foundation Phase episode.
+## Deferred
 
-The Health & Safety programme is introduced more substantially later.
+Formal registration and orientation belong primarily to E02.
 
-## Story integration
-The Chronicle must not become an advertisement. The education ecosystem should motivate the narrative theme:
+The Health & Safety programme is introduced only as part of the wider Foundation Phase. A specific Health & Safety lesson is deferred.
 
-> **Build the foundation before trying to control the signal.**
+## Story relationship
 
-## Canonical source
-Buzzjuice Courses — Registration & Orientation reference supplied by the producer.
+The Chronicle may foreshadow disciplined awareness, but E01 must not pretend that Enka has already mastered the course or that the course scientifically explains EduBeam.
+
+## Continuity rule
+
+Course material should be represented accurately and only from approved source material supplied for the episode.

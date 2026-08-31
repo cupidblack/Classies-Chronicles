@@ -1,24 +1,23 @@
-# Bible Reference — S00E01
+# S00E01 — Bible Reference
 
-**Primary reference:** Nehemiah 1–7
+## Primary reference
 
-## Episode motif
-The episode uses Nehemiah as a **foundation/rebuilding motif**, not as a literal retelling.
+**Nehemiah chapters 1–7**
 
-Key motifs:
-- recognise a problem instead of ignoring it;
-- gather trustworthy information;
-- rebuild deliberately;
-- assign responsibility;
-- persist under pressure;
-- protect the work while it is being built;
-- involve a community in the rebuilding.
+### E01 focus
 
-## Podcast integration
-The Bible reflection should be brief (approximately 5–20 seconds) and should connect the Foundation Phase to the idea of building something reliable before scaling it.
+Nehemiah provides the pilot's thematic mirror: receive troubling information, pause, pray, assess, rebuild deliberately, and distinguish the work that must be done from distractions.
 
-Suggested reflection:
+E01 should not turn the Chronicle into a retelling of Nehemiah. The Bible reference is a thematic foundation.
 
-> "Nehemiah did not rebuild by pretending the broken walls were fine. He inspected the problem, organised people and rebuilt with purpose. That is the spirit of this Foundation Phase: before the chronicles become a full season, we build the walls, check the gates and make sure the signal can be trusted."
+## Suggested short reflection
 
-Do not turn the Chronicle into a sermon or force a Bible passage into dialogue.
+Nehemiah's response to broken conditions is not immediate panic. He receives the information, mourns, prays and then begins to understand what must be rebuilt.
+
+For E01, the parallel is:
+
+> When perception becomes confusing, a trustworthy foundation begins with stopping, observing, praying and rebuilding understanding one piece at a time.
+
+## Integration rule
+
+Use a brief reflection in the podcast. Do not force a verse into every scene of the Chronicle.

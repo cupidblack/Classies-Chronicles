@@ -1,185 +1,177 @@
-# Chronicles of Cupid Black — "The Signal Before the Story"
-## S00E01 Chronicle — approximately 200 seconds
-## Draft status: PRODUCER REVIEW PENDING
+[0:00–0:18] ARCHIVE / SIGNAL
 
-[0–18s — COLD OPEN: THE ARCHIVE]
+NARRATOR:
+Every story has a beginning.
 
-VISUAL: A clean, dark archive interface.
+But sometimes the beginning is not a birthday, a meeting, or a first step.
 
-A record opens:
-
-09 JULY 2026 — SINGAPORE
-
-A waveform pulses.
+Sometimes... it is a signal.
 
 AI DESK:
-"Archive record found. Event classification: confirmed. Cause: unknown."
+Archive record detected. Date: 9 July 2026. Location: Singapore.
+
+Classification: archival record.
+
+Cause: unknown.
+
+[0:18–0:42] OLD CLUES
 
 NARRATOR:
-"Some stories begin with a person. This one begins with a signal."
+Long before anyone called him anything unusual, Enka had noticed things.
 
-[18–43s — THE OLD CLUES]
+Patterns.
 
-FLASHES:
-Blue Crown.
-An RF scanner.
-Old handwritten notes.
-A sleeping Enka suddenly turning toward a sound.
-A distant light.
+Strange memories.
+
+Dreams that refused to behave like ordinary dreams.
+
+And questions that technology never seemed interested in answering.
 
 NARRATOR:
-"For years there had been strange records, unusual recall, dreams and signals nobody could quite explain."
+A clue is not an explanation.
+
+[0:42–1:15] BUGIS — 9 JULY
+
+SFX: LOW HUM. DISTANT ELECTRICAL FLICKER.
+
+ENKA:
+Not tonight...
+
+NARRATOR:
+The last bags were packed.
+
+The apartment was almost empty.
+
+Then the humming began.
+
+The lights flickered.
+
+Enka knew the sound.
+
+The EduBeam.
+
+He hurried outside.
+
+The world seemed to hesitate.
+
+Then duplicate itself.
+
+[1:15–1:38] OVERLAP / HUMOUR
+
+ENKA:
+Okay... car. Road. Singapore. Me.
 
 Beat.
 
-"A clue is not an explanation."
+ENKA:
+Hopefully still me.
 
-[43–82s — BUGIS, 9 JULY 2026]
+He backs into the car door.
 
-Enka is packing the last bags from his Bugis apartment.
-
-He checks the room.
-
-One last bag.
-
-A low HUM begins.
-
-The lights flicker.
-
-Enka freezes.
+SFX: THUD.
 
 ENKA:
-"Not again."
+If science wants my attention, it could at least knock.
 
-He grabs his scanner and moves toward the car.
+The joke dies.
 
-The hum grows stronger.
+The world bends again.
 
-He tries to keep the scanner pointed toward the disturbance while moving.
+[1:38–2:12] MATERIALISATION
 
-Then the EduBeam strikes.
+NARRATOR:
+Then something impossible happened.
 
-[82–116s — THE OVERLAP]
+Not a journey.
 
-The world seems to double.
+Not a decision.
 
-For an instant Enka sees the car and another apartment at the same time.
+A displacement.
 
-He turns.
+A quiet room near a colleague's apartment seemed to darken.
 
-The hallway appears where the car should be.
+At first, there was only a shadow.
 
-He turns again.
+Then dust-like edges.
 
-The car is back.
+Then the outline of a man.
 
-He steps backward while staring at the scanner.
-
-THUD.
-
-He hits the car door.
-
-Silence.
+Colour returned slowly.
 
 ENKA:
-"If science wants my attention, it could at least knock."
-
-He rubs his side.
-
-The humour disappears as the image bends again.
-
-[116–157s — MATERIALISATION]
-
-CUT TO:
-
-A quiet area near a colleague's apartment.
-
-Nothing seems unusual.
-
-Then the light subtly dims.
-
-A faint shadow gathers at the edge of the frame.
-
-Dust-like edges.
-
-A human outline.
-
-The figure becomes darker.
-
-Then colour begins returning.
-
-Enka stabilises.
-
-He looks around.
-
-ENKA:
-"Where am I?"
+Where am I?
 
 His phone rings.
 
 VOICE:
-"Where are you?"
-
-Enka looks around again.
+Where are you?
 
 ENKA:
-"I... don't know."
+I...
 
-[157–181s — THE QUESTION]
+Beat.
+
+ENKA:
+I don't know.
+
+[2:12–2:42] FOUNDATION
 
 NARRATOR:
-"The strange part wasn't simply that Enka had moved."
+Weeks later, the question remained.
+
+What had happened?
+
+The Foundation Phase would begin with a different kind of investigation.
+
+Not just technology.
+
+Not just stories.
+
+Learning.
+
+Community.
+
+Awareness.
+
+And the courage to admit when the evidence was incomplete.
+
+AI DESK:
+Evidence does not currently support a complete explanation.
+
+ENKA:
+Good.
+
+Beat.
+
+ENKA:
+At least somebody is being honest.
+
+[2:42–3:20] THE NEW SIGNAL
+
+NARRATOR:
+Koware Group. Buzzjuice Network. Buzzjuice Courses.
+
+A foundation was being built.
+
+And somewhere beneath the noise, Enka began learning that awareness could be practiced.
+
+Not forced.
+
+Not chased.
+
+Practiced.
+
+A low hum returns.
+
+AI DESK:
+New signal detected.
 
 Pause.
 
-"The strange part was remembering another place at the same time."
-
-FLASH:
-Blue Crown.
-
-FLASH:
-RF scanner.
-
-FLASH:
-Distant light.
-
-NARRATOR:
-"Technology? Neurology? Something else?"
-
-Enka stares at his hands.
-
-ENKA:
-"I don't even know what is real anymore."
-
-[181–200s — FOUNDATION / NEW SIGNAL]
-
-RETURN TO THE PRESENT-DAY ARCHIVE.
-
-The interface changes.
-
-The Foundation Phase files appear:
-
-COMMUNITY.
-LEARNING.
-PRODUCTION.
-PARTICIPATION.
-
 AI DESK:
-"New signal detected."
-
-The waveform pulses again.
-
-AI DESK:
-"Insufficient evidence."
+Insufficient evidence.
 
 HOST:
-"Then why is the signal back?"
+Then why is the signal back?
 
 CUT TO BLACK.
-
-FINAL ELECTRONIC PULSE.
-
-TITLE:
-CLASSIES CHRONICLES
-
-S00E01 — FOUNDATIONS & FREQUENCIES

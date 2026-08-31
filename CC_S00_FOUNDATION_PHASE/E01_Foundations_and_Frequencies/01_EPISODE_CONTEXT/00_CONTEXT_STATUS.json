@@ -1,18 +1,13 @@
 {
   "episode_id": "S00E01",
-  "season_id": "S00",
-  "season_title": "The Foundation Phase",
-  "episode_title": "Foundations & Frequencies",
-  "chronicle_title": "The Signal Before the Story",
-  "status": "IN_DEVELOPMENT",
-  "created": "2026-08-31",
-  "chronicle_target_seconds": 200,
-  "trailer_target_seconds": 20,
-  "podcast_target_minutes": "35-45",
-  "producer_approval": false,
-  "retrieval_scope": "CURRENT_EPISODE_PLUS_APPROVED_ARCHIVE",
-  "chronicle_first": true,
-  "ai_cohost_mode": "CONTROLLED",
-  "news_future_cutoff": "2026-08-31",
-  "notes": "Pilot commissioning episode; continuity bridge to the established 9 July 2026 Singapore EduBeam event."
+  "status": "PRE-PRODUCTION",
+  "story_package_status": "READY_FOR_PRODUCER_REVIEW",
+  "chronicle_status": "DRAFT_REQUIRES_PRODUCER_APPROVAL",
+  "trailer_status": "DERIVED_DRAFT_REQUIRES_CHRONICLE_LOCK",
+  "podcast_status": "NOT_RECORDED",
+  "news_status": "PARTIAL_CURRENT_WINDOW_PLUS_FUTURE_PENDING",
+  "future_news_blocked": true,
+  "studio_comms_status": "USER_REPORTED_WORKING",
+  "ai_desk_architecture_applied_to_studio": false,
+  "next_gate": "Producer approval of story/canon, then Chronicle production"
 }

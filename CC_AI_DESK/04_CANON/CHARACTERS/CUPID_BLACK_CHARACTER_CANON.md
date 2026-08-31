@@ -1,131 +1,137 @@
 # Cupid Black Character Canon
 
 **Canon ID:** CHAR-CUPID-BLACK  
-**Version:** 0.8.0  
+**Version:** 0.9.0  
 **Status:** WORKING CANON — FOUNDATION PHASE  
+**Approval:** Producer review pending  
 **Single reusable character reference:** YES  
-**Last updated:** 2026-08-31  
-**Approval state:** PRODUCER REVIEW PENDING
+**Last updated:** 2026-08-31
 
-## 1. Identity and name evolution
+## 1. Identity
 
-**Historical / primary name:** Cupid Enka
+- Historical / primary name: **Cupid Enka**
+- Current public/corporate identity: **Enka**, founder and corporate manager of Koware Group; most employees know him in his corporate-management role within IAPD.
+- Street alias in Chapter 4: **Cu / Q**, pronounced “Q”.
+- Later identity: **Cupid Black**.
 
-**Later identity:** Cupid Black
-
-**Alias:** Cu / "Q" (pronounced "Q")
-
-The July 2026 Singapore event must be told as an Enka story. The later Cu identity develops in Kuala Lumpur. The visual "Black" motif emerges from the shadow-like materialisation signature.
+The visual “Black” identity develops from the shadow-like materialisation signature and should not be treated as an established public superhero identity in S00E01.
 
 ## 2. Core characteristics
 
-Enka is:
-- technically curious;
-- observant and pattern-oriented;
-- intelligent but not omniscient;
-- emotionally intense;
-- relational and empathetic;
-- humorous under pressure;
-- spiritually curious;
-- motivated by innocence, fairness and perceived justice;
-- resourceful when resources are scarce;
-- willing to help strangers;
-- increasingly interested in disciplined awareness.
+Enka is technically curious, observant, intelligent, relational, emotionally intense, humorous under pressure, spiritually curious, resourceful and strongly motivated by innocence, fairness and perceived justice.
 
-He is not infallible.
+He is **not omniscient**. His perceptions may be incomplete, misleading or coloured by emotion.
 
-His unusual perceptions can be incomplete, misleading or emotionally coloured.
-
-## 3. Central character rule
+### Character principle
 
 > **Perception is not understanding.**
 
-A signal, intuition, déjà vu, dream or anomalous perception may be meaningful without giving Enka a complete explanation.
+A signal, dream, intuition or anomalous perception can be meaningful without giving Enka a complete explanation.
+
+## 3. Corporate identity
+
+Enka's founder/manager status is deliberately separated from his emerging street identity.
+
+Most Koware Group employees should continue to understand him as the corporate manager associated with IAPD. They should not casually know or infer the developing Cu/Cupid Black identity unless a later story explicitly establishes that knowledge.
+
+This creates a useful dual-life tension without requiring Enka to maintain a cartoonish secret-identity performance.
 
 ## 4. Psychological baseline — S00E01
 
-The 9 July 2026 event leaves Enka:
-- frightened;
-- disoriented;
-- curious;
-- technically analytical;
-- uncertain about what he experienced.
+The 9 July 2026 event leaves Enka frightened, disoriented, analytical and curious.
 
 Recurring line, used sparingly:
 
-> "I don't even know what is real anymore."
+> “I don't even know what is real anymore.”
 
 It is a genuine expression of uncertainty, not a catchphrase.
 
 ## 5. Ability progression
 
 ### Stage 0 — Ordinary perception
-Strong observation, curiosity and intuition.
+Strong observation, intuition and pattern recognition.
 
 ### Stage 1 — Anomalous perception
 Unusual recall, dreams, déjà vu and environmental anomalies.
 
 ### Stage 2 — EduBeam surge
-High power with low control:
+High power / low control:
 - perceptual doubling;
 - displacement-like sensations;
-- partial or full involuntary materialisation.
+- involuntary partial/full materialisation;
+- temporary heightened awareness.
 
 ### Stage 3 — Controlled awareness
-Later episodes may connect Personal Awareness, prayer, meditation, Tai Chi and Qigong with lower-power, higher-control states.
+Later episodes may connect Personal Awareness, prayer, meditation, Tai Chi and Qigong with lower-power/higher-control states.
 
 ### Stage 4 — Controlled displacement
 Later episodes may establish short-range intentional materialisation after substantial practice.
 
 ### Stage 5 — Advanced phenomena
-Long-range materialisation, phasing, dimensional travel and dream-world travel require explicit producer approval.
+Long-range displacement, phasing, dimensional travel and dream-world travel require explicit producer approval.
 
-## 6. Power rule
+## 6. E01 locked boundary
 
-**EduBeam:** high power / low control
+S00E01 may establish:
+- the 9 July Singapore event;
+- anomalous perception;
+- involuntary displacement;
+- the shadow/dimming visual signature;
+- uncertainty;
+- Enka's first serious interest in disciplined awareness.
 
-**Awareness practice:** lower power / higher control
+S00E01 does **not** establish:
+- mastered teleportation;
+- wall phasing;
+- dimensional travel;
+- dream-world travel;
+- telepathy as a reliable tool;
+- telekinesis as a reliable tool;
+- drone-based beam reproduction;
+- a reproducible EduBeam;
+- exact brainwave targeting science;
+- exact power percentages.
 
-Effects dissipate over time.
-
-Do not hard-code exact power percentages unless an approved story requires them.
+These remain future story engines or proposed canon.
 
 ## 7. Materialisation signature
 
-During partial or transitional materialisation:
-- Enka may initially appear darker than normal;
+During partial/transitional materialisation:
+- the figure may appear darker than normal;
 - surrounding light may subtly dim;
 - edges may resemble shadow, dust or visual distortion;
 - darkness becomes more defined as materialisation increases;
 - normal colour returns during stabilisation.
 
-This is the visual seed of the later "Black" identity.
+This is the visual seed of “Black”.
 
 ## 8. Ethical limitation
 
 Enka's abilities must never become an automatic problem-solving engine.
 
-He can make mistakes.
-
-He can misread people.
-
-He can overreact because he cares strongly about innocence and justice.
+He can:
+- misread people;
+- overreact;
+- make mistakes;
+- confuse intuition with fact;
+- intervene too aggressively because he cares about justice.
 
 That moral tension is part of the character.
 
 ## 9. Experimental behaviour
 
-Enka is curious enough to test hypotheses, but the fiction should not provide real-world instructions for dangerous electrical, neurological or self-experimentation.
+Future experimentation may include fictional frequency/awareness devices, but scripts must remain narrative-level and must not provide reproducible instructions for dangerous electrical, neurological or self-experimentation.
 
-Any future experiments are presented as fictional story devices and should be written at a narrative level rather than as reproducible procedures.
+## 10. Episode evolution rule
 
-## 10. S00E01 locked boundary
+Each episode should preferably contain:
+1. one discipline practiced;
+2. one realization;
+3. one consequential choice;
+4. one unresolved vulnerability.
 
-E01 establishes:
-- the 9 July event;
-- anomalous perception;
-- involuntary displacement;
-- the visual Black signature;
-- uncertainty.
-
-E01 does not establish controlled superhero mastery.
+For S00E01:
+- discipline: introduction to personal awareness as a future grounding practice;
+- realization: extraordinary perception may be something Enka can learn to understand rather than simply fear;
+- choice: engage with the Foundation Phase/community;
+- vulnerability: involuntary EduBeam effects remain unexplained.

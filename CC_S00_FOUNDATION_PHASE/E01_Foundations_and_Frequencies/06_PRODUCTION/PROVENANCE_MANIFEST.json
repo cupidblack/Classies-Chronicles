@@ -1,0 +1,34 @@
+{
+  "package": "Classies Chronicles S00E01 Foundation Pilot",
+  "package_version": "1.0.0",
+  "prepared_date": "2026-08-31",
+  "primary_sources": [
+    {
+      "type": "github_archive",
+      "path": "Classies_Chronicles_Archives/Classies_Chronicles-Pilot_Season-Chapter_4.txt",
+      "role": "continuity anchor"
+    },
+    {
+      "type": "github_canon",
+      "path": "CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md",
+      "role": "character canon"
+    },
+    {
+      "type": "github_canon",
+      "path": "CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md",
+      "role": "technology canon"
+    },
+    {
+      "type": "github_prompt",
+      "path": "CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v2.0.md",
+      "role": "episode generation contract baseline"
+    },
+    {
+      "type": "producer_material",
+      "role": "story, course, studio and production requirements"
+    }
+  ],
+  "news_policy": "Verified only to 2026-08-31; future dates pending.",
+  "fiction_policy": "EduBeam and Chronicle events are fictional and must not be presented as real-world explanations.",
+  "approval": "PENDING"
+}

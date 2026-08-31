@@ -1,95 +1,49 @@
-# ============================================================
-# Classies Chronicles — repository hygiene v2.0
-# ============================================================
+# Classies Chronicles — production media
+**/02_RAW_VIDEO/
+**/03_RAW_AUDIO/
+**/07_GENERATED_MEDIA/
+**/08_EDITED_MEDIA/*
 
-# OS / editor
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-.vscode/
-.idea/
-
-# Python / Node / temporary tooling
-__pycache__/
-*.pyc
-node_modules/
-.npm/
-
-# Environment / secrets
-.env
-.env.*
-*.pem
-*.key
-secrets/
-credentials/
-
-# Temporary AI generation outputs
-.tmp/
-tmp/
-working/
-cache/
-AI_TEMP/
-AI_GENERATION_TEMP/
-
-# Derived retrieval/index data — rebuildable
-CC_AI_DESK/INDEX/
-CC_AI_DESK/CACHE/
-CC_AI_DESK/DERIVED/
-*.sqlite-shm
-*.sqlite-wal
-*.faiss
-*.npy
-
-# Local harvested community data — never commit raw personal/member data
-CC_AI_DESK/COMMUNITY_HARVEST/
-CC_AI_DESK/PRIVATE_MEMBER_DATA/
-
-# Consent-sensitive exports
-**/PRIVATE/
-**/CONSENTED_RAW/
-**/UNPUBLISHED_MEMBER_DATA/
-
-# Audio/video scratch and renders
-**/RAW_AUDIO/
-**/RAW_VIDEO/
-**/SCRATCH_AUDIO/
-**/SCRATCH_VIDEO/
-**/RENDERS/
+# Audio/video derivatives
 *.wav
 *.mp3
 *.mp4
 *.mov
-*.mkv
-*.avi
+*.m4a
 
-# Large project caches
-*.peak
+# DAW / editor backups
 *.reapeaks
-*.pek
-*.cfa
+*.rpp-bak
+**/04_PROJECT_FILES/REAPER/*.rpp-bak
+**/04_PROJECT_FILES/OBS/*.bak
 
-# Local archive packaging / release scratch
-_release/
-_package/
-*.zip
+# Temporary participant / consent data
+participants_temp/
+consent_forms_unsigned/
+**/participants_temp/
+**/consent_forms_unsigned/
 
-# Keep source documentation tracked
-!**/*.md
-!**/*.txt
-!**/*.json
-!**/*.yaml
-!**/*.yml
-!**/*.ps1
-!**/*.js
-!**/*.py
+# Unverified research
+research/temp_news/
+headlines_unverified.json
 
-# Keep explicit production scripts/configuration tracked
-!CC_AI_DESK/**/*.md
-!CC_AI_DESK/**/*.txt
-!CC_AI_DESK/**/*.json
-!CC_S00_FOUNDATION_PHASE/**/*.md
-!CC_S00_FOUNDATION_PHASE/**/*.txt
-!CC_S00_FOUNDATION_PHASE/**/*.json
+# Secrets / local configuration
+.env
+*.env
+local.env
+**/secrets/
+**/local.env
 
-# Final approved media should be archived outside the source repository or via LFS.
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+
+# Chronicle / trailer WIP
+**/CHRONICLE-*.WIP.*
+**/TRAILER-*.WIP.*
+**/*ROUGH_MIX.*
+
+# Keep canonical source, metadata, approved scripts and QA documents in Git.

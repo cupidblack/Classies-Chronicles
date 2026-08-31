@@ -1,9 +1,13 @@
 CLASSIES CHRONICLES — DEFAULT EPISODE PROMPT ENTRY POINT
 
-DEFAULT VERSION: cc.episode.v3.0
+DEFAULT EPISODE VERSION: cc.episode.v3.0
+DEFAULT PART TEMPLATE: cc.prompt.v1.65.63
 
-Use this file as the compatibility entry point. The authoritative contract is:
+Authoritative episode contract:
 CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v3.0.md
+
+Authoritative Part-generation contract:
+CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v1.65.63.md
 
 PIPELINE:
 EPISODE CONTEXT
@@ -26,4 +30,5 @@ Required context files:
 07_STORY_NOTES.md
 
 Attach previous approved episode resources and relevant archive resources before generation.
+
 Do not bypass the Chronicle approval gate.

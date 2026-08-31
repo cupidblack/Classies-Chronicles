@@ -1,48 +1,25 @@
 {
-  "status": "PARTIAL_CURRENT_WINDOW",
+  "episode": "S00E01",
   "requested_window": {
     "start": "2026-08-09",
     "end": "2026-10-17"
   },
-  "retrieval_cutoff": "2026-08-31",
-  "future_dates": "PENDING_FUTURE_RETRIEVAL",
+  "prepared_on": "2026-08-31",
   "primary_locations": [
     "Adenta",
     "Singapore",
     "Genting",
     "Kuala Lumpur"
   ],
-  "episode_use": "OPTIONAL",
-  "editorial_rule": "S00E01 does not require a headline-driven incident. Real headlines must remain factually separate from the fictional Chronicle.",
-  "current_examples": [
-    {
-      "location": "Adenta",
-      "date": "2026-08-24",
-      "headline": "Adenta Circuit Court judge cautions lawyers to use established legal procedures rather than attacking judges.",
-      "source": "Citi Newsroom",
-      "source_url": "https://www.citinewsroom.com/2026/08/dont-attack-judges-over-court-decisions-adenta-circuit-court-judge-to-lawyers/"
-    },
-    {
-      "location": "Singapore",
-      "date": "2026-08-31",
-      "headline": "Singapore to legislate stronger safeguards and possible daily time limits for teens on social media.",
-      "source": "CNA",
-      "source_url": "https://www.channelnewsasia.com/singapore"
-    },
-    {
-      "location": "Genting",
-      "date": "2026-08-18",
-      "headline": "Police confirmed a robbery at a shopping centre in Genting Highlands; local reporting also covered the theft of jewellery.",
-      "source": "Astro Awani",
-      "source_url": "https://www.astroawani.com/topic/Genting"
-    },
-    {
-      "location": "Kuala Lumpur",
-      "date": "2026-08-20",
-      "headline": "Police reported action involving children being exploited for begging in Kuala Lumpur.",
-      "source": "Astro Awani",
-      "source_url": "https://www.astroawani.com/topic/Kuala-Lumpur"
-    }
+  "secondary_locations": [
+    "Greater Accra",
+    "Ghana",
+    "West Africa",
+    "Global"
   ],
-  "future_retrieval_note": "Do not invent September or October headlines. Refresh this file after the requested future dates occur."
+  "status": "PARTIAL",
+  "future_window_policy": "No September/October 2026 headlines may be invented before they exist.",
+  "current_retrieval_note": "Use a fresh web/news retrieval immediately before publication to populate the requested date window.",
+  "episode_use": "News is optional for the Chronicle and must remain clearly separated from fictional events.",
+  "fictional_cross_reference_rule": "A real headline may inspire a fictional incident, but the programme must label the fictional connection as fiction."
 }

@@ -1,0 +1,53 @@
+# Suggested Classies Chronicles .gitignore additions
+# Merge these rules into the repository's existing .gitignore; do not blindly replace unrelated rules.
+
+# Generated production media
+*.wav
+*.mp3
+*.flac
+*.aac
+*.m4a
+*.mp4
+*.mov
+*.mkv
+*.webm
+
+# Audio/video working files
+**/RAW_AUDIO/
+**/RAW_VIDEO/
+**/STEMS/
+**/RENDERS/
+**/EXPORTS/
+**/CACHE/
+**/TEMP/
+**/PROXY/
+
+# AI/tool caches
+**/.cache/
+**/ai_cache/
+**/model_cache/
+**/transcripts/_generated/
+
+# Sensitive member/talent material
+**/MEMBER_DATA/
+**/CONSENT_RECORDS_PRIVATE/
+**/TALENT_PRIVATE/
+**/CONTACTS_PRIVATE/
+
+# Local environment / secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep text metadata, scripts, manifests, checksums and approved release packages under version control.

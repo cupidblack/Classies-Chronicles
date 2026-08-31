@@ -1,100 +1,29 @@
 # S00E01 Podcast Rundown — Foundations & Frequencies
 
-**Target duration:** 35–45 minutes  
-**Format:** Host + controlled AI co-host, optional guest  
+**Target:** 35–45 minutes  
+**AI mode:** Controlled co-host  
 **Chronicle:** The Signal Before the Story
 
-## 1. Cold Open / Signal — 0:00–0:45
-Use the final Chronicle signal sound.
+| Segment | Target | Purpose |
+|---|---:|---|
+| Cold Open / Signal | 0:10 | Establish mystery immediately |
+| Jingle + Welcome | 0:30 | Introduce Classies Chronicles and Foundation Phase |
+| Bible reflection | 1:00 | Nehemiah 1–7: rebuilding, responsibility, persistence |
+| Episode overview | 3:00 | Introduce Koware Group, Buzzjuice Network and Courses |
+| Trailer | 0:20 | Preview the Chronicle |
+| Main discussion | 10–12 min | Why foundations matter; what the Foundation Phase is |
+| News/current awareness | 3–4 min | Verified headlines only; future dates pending |
+| Full Chronicle | ~3:20 | Play locked Chronicle |
+| Open discussion | 7–9 min | Signal, perception, evidence, responsibility |
+| AI co-host | integrated | 1–2 approved questions; no spoiler |
+| Community/support | 3–4 min | Participation, crowdfunding concepts, course/community pathways |
+| Next episode | 1–2 min | Registration & Orientation |
+| Closing mystery | 0:30–1:00 | "Then why is the signal back?" |
+| Credits/community clips | optional | Consent-cleared clips only |
 
-Host asks:
-> "What do you do when the technology is real enough to frighten you, but mysterious enough that you still don't know what it is doing?"
+## AI co-host questions
+1. "If a signal is real but its meaning is uncertain, what is the responsible first response: act, investigate or wait?"
+2. "Does building a creative community require the same discipline as rebuilding something physical?"
 
-## 2. Jingle + Welcome — 0:45–2:00
-Introduce:
-- Classies Chronicles;
-- Season 00;
-- The Foundation Phase;
-- why the audience is being invited behind the scenes.
-
-## 3. Bible reflection — 2:00–3:00
-Nehemiah 1–7:
-- recognise the problem;
-- inspect;
-- organise;
-- rebuild;
-- protect the work.
-
-## 4. Episode / Topic Overview — 3:00–6:00
-Explain:
-- Koware Group;
-- Buzzjuice Network;
-- Buzzjuice Courses;
-- why the Foundation Phase exists.
-
-Do not teach registration/orientation yet.
-
-## 5. Chronicle trailer — 6:00–6:20
-Play the approved 20-second trailer.
-
-## 6. Main discussion — 6:20–17:00
-Topics:
-- why build a foundation before Season 1;
-- how the studio workflow works;
-- why the story archive matters;
-- why evidence and interpretation are separated;
-- why AI participation is controlled.
-
-## 7. Chronicles of Cupid Black — 17:00–21:00
-Play the approximately 200-second Chronicle.
-
-## 8. Open discussion — 21:00–30:00
-Discuss:
-- what happened to Enka;
-- why the event is not being called a full superhero origin yet;
-- how the later Cupid Black identity will emerge;
-- the difference between high power/low control and lower power/higher control;
-- why the audience should not assume every strange event is explained.
-
-AI co-host role:
-- ask one or two useful questions;
-- challenge assumptions;
-- flag "unknown" rather than filling gaps.
-
-## 9. Community / participation — 30:00–34:00
-Introduce future participation:
-- course participation;
-- community questions;
-- approved cameo opportunities;
-- crowdfunding.
-
-Do not promise canon control in exchange for payment.
-
-## 10. Next episode preview — 34:00–36:00
-Next Foundation Phase episode:
-**Registration & Orientation**
-
-Tease:
-- how members enter the Buzzjuice ecosystem;
-- what registration means;
-- what participants can expect.
-
-## 11. Crowdfunding invitation — 36:00–38:00
-Explain that support helps fund:
-- future episodes;
-- production;
-- community participation;
-- post-production;
-- archive development.
-
-## 12. Closing mystery — 38:00–39:00
-Replay the final signal.
-
-AI Desk:
-"Insufficient evidence."
-
-Host:
-"Then why is the signal back?"
-
-## 13. Credits / community shorts — final
-Roll approved member clips and credits.
+## Guest guidance
+Guests are optional. If used, brief them that the Foundation Phase is a pilot and that fictional Chronicle material must not be presented as real-world fact.

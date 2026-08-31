@@ -1,136 +1,130 @@
-# S00E01 — Story Notes v3.0
+# S00E01 — Story Notes v4.0
 
 ## 1. Main key topic
 
-**Foundations & Frequencies — building a trustworthy foundation when knowledge, technology and perception are more powerful than the person trying to control them.**
+**Foundations & Frequencies:** building a trustworthy foundation when knowledge, technology and perception become more powerful than the person trying to interpret them.
 
-## 2. Pilot story proposition
+## 2. Pilot proposition
 
-The first pilot should not try to explain everything.
+The first pilot should not explain everything.
 
-It should make a new viewer ask:
+A new viewer should ask:
 
-> **"What happened to Enka on 9 July 2026, and why does the signal seem to know where he is?"**
+> What happened to Enka on 9 July 2026, and why does the signal seem to know where he is?
 
-Returning viewers should recognise the Chapter 4 continuity. New viewers should understand the scene without needing to read the archive first.
+A returning viewer should recognize the Chapter 4 continuity.
 
 ## 3. Narrative spine
 
-**Signal → evidence → uncertainty → learning → community → new signal**
+**Signal → evidence → uncertainty → foundation → community → new signal**
 
-## 4. Recommended Chronicle title
+## 4. Chronicle title
 
 **The Signal Before the Story**
 
-## 5. Story treatment
+## 5. Treatment
 
 ### Cold Open — The Archive
+
 A present-day Foundation Phase review opens an archive record:
 
 `09 JULY 2026 — SINGAPORE`
 
-A waveform appears.
-
-The AI Desk begins classifying the record. It stops at:
+The AI Desk classifies what can actually be supported:
 
 `ARCHIVAL RECORD — CONFIRMED`
+
 `CAUSE — UNKNOWN`
 
-This establishes the show's central discipline: evidence and explanation are not the same thing.
+The principle is established:
+
+**Evidence and explanation are not the same thing.**
 
 ### Act 1 — Old clues
-Short visual flashes:
-- Blue Crown;
-- an RF scanner;
-- old notes;
-- strange dreams;
-- unusual recall;
-- a distant light.
 
-Narrator:
+Brief flashes:
+- Blue Crown / earlier archive material;
+- RF investigation;
+- unusual memories/dreams;
+- the 9 July record.
 
-> "A clue is not an explanation."
+Do not turn this into a lore dump.
 
-### Act 2 — Bugis, 9 July 2026
-Enka is packing the last bags from his apartment.
+### Act 2 — Bugis
+
+Enka packs the last bags from his apartment.
 
 A low hum begins.
 
 Lights flicker.
 
-He recognises the EduBeam.
+He recognizes the EduBeam.
 
-He moves toward the car while trying to keep his equipment pointed toward the signal.
+He moves toward the car while trying to keep his composure.
 
 ### Act 3 — The overlap
+
 The environment seems to double.
 
 Enka experiences the sensation of being in two places at once.
 
 He backs into the car door.
 
-**Principal slapstick beat:**
+**Slapstick beat:**
+
 THUD.
 
 Enka:
+> “If science wants my attention, it could at least knock.”
 
-> "If science wants my attention, it could at least knock."
-
-The joke dies immediately as the visual world bends again.
+The humour disappears immediately as the environment bends again.
 
 ### Act 4 — Materialisation
-Cut to a quiet area near a colleague's apartment.
 
-The room subtly dims.
+Near a colleague's apartment, the room subtly dims.
 
 A shadow-like form gathers.
 
-Dust-like edges become a human outline.
+Dust-like edges become an outline.
 
-Colour returns as the body stabilises.
+Colour returns as the figure stabilizes.
 
 Enka:
+> “Where am I?”
 
-> "Where am I?"
-
-His phone rings.
+Phone rings.
 
 Voice:
-
-> "Where are you?"
+> “Where are you?”
 
 Enka:
+> “I... don't know.”
 
-> "I... don't know."
+### Act 5 — Foundation
 
-### Act 5 — Meaning
-Return to the present-day Foundation Phase.
+Return to the Foundation Phase.
 
-The host explains that the show is being built in layers:
-- community;
-- learning;
-- production;
-- participation;
-- storytelling.
+Koware Group / Buzzjuice Network / Buzzjuice Courses are introduced as the real-world foundation around the fictional story.
 
-Buzzjuice Network and Buzzjuice Courses are introduced as part of the foundation, not as a sales interruption.
+The Bible reflection frames rebuilding and discernment.
 
-The Bible reflection connects rebuilding with responsible information gathering.
+The pilot's message becomes:
+
+**When you cannot yet explain the signal, build a better foundation for understanding it.**
 
 ### Closing mystery
-The AI Desk detects another pulse.
 
-It labels it:
+The AI Desk detects a new anomalous pulse.
 
 `INSUFFICIENT EVIDENCE`
 
 Host:
-
-> "Then why is the signal back?"
+> “Then why is the signal back?”
 
 Cut to black.
 
 ## 6. Character boundary
+
 E01 shows:
 - curiosity;
 - technical observation;
@@ -144,53 +138,58 @@ E01 shows:
 E01 does not show mastery.
 
 ## 7. Ability boundary
+
 Do not establish controlled:
 - teleportation;
 - wall phasing;
 - dimensional travel;
 - dream-world travel;
-- drone-based beam reproduction;
-- Alpha-state control;
-- telepathy;
-- telekinesis.
-
-These are later story possibilities.
+- drone beam reproduction;
+- reliable telepathy;
+- reliable telekinesis;
+- exact Alpha-state control.
 
 ## 8. Long-term power-development map
-1. Personal Awareness practice
-2. Prayer / meditation as a controllable awareness state
-3. Tai Chi / Qigong
-4. Short-range intentional materialisation
-5. Fictional experimental technology
-6. Ethical conflict over using unusual perception to intervene in other people's lives
+
+1. Personal Awareness practice.
+2. Prayer / meditation as a controllable awareness state.
+3. Tai Chi / Qigong.
+4. Short-range intentional materialisation.
+5. Fictional experimental technology.
+6. Ethical conflict over using unusual perception to intervene in other people's lives.
 
 ## 9. Humour rules
-- one principal physical-comedy beat in the 200-second Chronicle;
-- observational humour is preferred;
-- humour must not trivialise fear, displacement or real-world news;
-- Enka should remain believable rather than becoming a cartoon superhero.
+
+- One principal physical-comedy beat in the Chronicle.
+- Warm observational humour elsewhere.
+- Never trivialize fear or serious real-world news.
+- Enka remains believable.
 
 ## 10. Believability rules
-The EduBeam is fictional. Avoid pseudo-scientific precision unless the story later needs it.
 
 Use:
-- "the archive suggests";
-- "the system appears to";
-- "Enka experiences";
-- "working interpretation";
-- "unknown".
+- “the archive suggests”;
+- “the system appears to”;
+- “Enka experiences”;
+- “working interpretation”;
+- “unknown”.
 
-Avoid presenting fictional brainwave targeting as real science.
+Avoid pseudo-scientific certainty.
 
 ## 11. News integration
-E01 does not need a headline-driven incident. If a headline is discussed in the podcast, the host must explicitly distinguish the factual report from the fictional Chronicle.
+
+News is optional in the Chronicle. When used in the podcast, distinguish factual reporting from fictional adaptation.
+
+Never state that Cupid Black caused or solved a real crime unless explicitly framed as fiction.
 
 ## 12. Member participation
-Member influence begins as a **future system**, not a plot-breaking mechanic in E01.
 
-Later episodes may allow:
-- course participation to unlock optional side-story prompts;
-- subscription status to unlock community questions or behind-the-scenes content;
-- crowdfunding tiers to unlock approved community cameo opportunities.
+Participation is a future system in E01.
 
-No member should gain control over canon merely by paying or subscribing.
+Later episodes may allow approved:
+- side-story prompts;
+- community questions;
+- behind-the-scenes access;
+- cameo opportunities.
+
+Payment/subscription must never buy unilateral control over canon.

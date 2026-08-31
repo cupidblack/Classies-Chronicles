@@ -1,36 +1,37 @@
 # Chronicle Brief — S00E01
 
-**Title:** The Signal Before the Story  
-**Target:** approximately 200 seconds  
-**Tone:** mystery, grounded sci-fi, reflective, lightly humorous  
-**POV:** close third-person / Enka-focused  
-**Primary question:** What happens when the signal is real but its meaning is not yet understood?
+## Title
+**The Signal Before the Story**
 
-## Creative improvement
-The pilot uses an **evidence-vs-explanation** framing device. This makes the story easier for new viewers to enter and gives the AI Desk a meaningful role without making AI the hero.
+## Target duration
+Approximately 200 seconds.
 
-## Visual language
-- clean archive interface;
-- restrained night blues / greys;
-- waveform and subtle glitch effects;
-- realistic Singapore apartment/car environments;
-- subtle dimming during materialisation;
-- shadow/dust transitional effect;
-- colour returning during stabilisation;
-- no superhero costume;
-- no exaggerated comic-book energy blast.
+## Purpose
 
-## Audio language
-- low fictional hum;
-- electrical ambience;
-- restrained heartbeat;
-- one car-door impact;
-- a deliberate silence after the joke;
-- final electronic pulse.
+Open the Foundation Phase with a compact mystery that:
+1. works for a new audience;
+2. rewards archive-aware viewers;
+3. introduces Enka without prematurely naming him as a superhero;
+4. establishes the EduBeam as fictional and mysterious;
+5. connects the Chronicle thematically to foundations, awareness and discernment.
 
-## Story discipline
-The Chronicle should make the audience curious about EduBeam without explaining it away.
+## Tone
 
-The emotional destination is:
+Warm, cinematic, mysterious, slightly humorous, human.
 
-> **Something happened to Enka, and now the search for meaning begins.**
+## Structure
+
+1. Archive signal.
+2. Historical clues.
+3. Bugis / 9 July event.
+4. Perceptual overlap.
+5. One slapstick beat.
+6. Involuntary materialisation.
+7. Return to Foundation Phase.
+8. New signal.
+
+## Canon status
+
+- 9 July event: ARCHIVAL.
+- Shadow-like materialisation: PROPOSED/WORKING interpretation until producer approval.
+- New present-day pulse: FICTIONAL STORY DEVICE / PROPOSED NEW CANON.

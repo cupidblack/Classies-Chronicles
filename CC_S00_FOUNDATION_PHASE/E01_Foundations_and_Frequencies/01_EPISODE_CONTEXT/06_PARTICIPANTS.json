@@ -1,0 +1,28 @@
+{
+  "host": {
+    "role": "Primary narrator / producer",
+    "status": "CONFIRMED"
+  },
+  "ai_cohost": {
+    "role": "Limited AI co-host",
+    "status": "PLANNED",
+    "rules": [
+      "No canon invention",
+      "No news fabrication",
+      "No spoiler",
+      "May ask clarifying questions"
+    ]
+  },
+  "voice_actor": {
+    "role": "Chronicle narration",
+    "status": "TBD"
+  },
+  "guests": {
+    "status": "OPTIONAL",
+    "rule": "Guests are briefed that this is Foundation Phase material."
+  },
+  "community_clips": {
+    "status": "OPTIONAL",
+    "rule": "Consent required before publication."
+  }
+}

@@ -1,36 +1,36 @@
-# Continuity Reference — S00E01
-
-## Authority order
-1. Approved Classies Chronicles archive
-2. Current reusable character / technology canon
-3. Approved episode context
-4. Producer story notes
-5. Working interpretation / speculation
+# S00E01 — Continuity Reference
 
 ## Chapter 4 anchors
-- Enka leaves his Bugis apartment in Singapore on **Thursday 9 July 2026**.
-- He is packing the last bags before the eviction takes effect.
+
+The current Chapter 4 archive establishes that:
+
+- On 9 July 2026 Enka is in Bugis/Singapore preparing to leave.
 - A humming sound and flickering lights precede the EduBeam event.
-- He recognises the phenomenon as the EduBeam.
-- He subsequently finds himself fully materialised near a colleague's apartment in Singapore.
-- He later travels toward Genting and eventually Kuala Lumpur.
-- Later in Chapter 4 he uses the alias **Cu / Q** in Kuala Lumpur.
-- Chapter 4 ends around mid-October 2026 with the Global Hope Foundation accommodation connection.
+- Enka recognizes the EduBeam.
+- After a strong exposure he materializes near a colleague's apartment.
+- He subsequently heads toward Genting.
+- In Genting he uses the nickname Cu / Q, short for Cupid.
+- He later moves into Kuala Lumpur street life after his funds diminish.
+- Chapter 4 continues through mid-October 2026 and ends with an accommodation opening through a Ghanaian High Commission / Global Hope Foundation connection.
 
-## E01 focus
-E01 reconstructs only the 9 July event and uses it as the mystery doorway into the Foundation Phase.
+These are archival anchors, not invitations to rewrite Chapter 4.
 
-## Retcon protection
-E01 must not establish as historical fact:
-- exact materialisation distance;
-- exact EduBeam intensity percentages;
-- exact satellite targeting accuracy;
-- that Enka had mastered Alpha-state control in July;
-- that Cu / Cupid Black was already a public identity at the July event;
-- that telepathy, telekinesis, phasing or dimensional travel were already controlled.
+## Earlier continuity
 
-## New continuity rule
-The later name **Cupid Black** is a retrospective identity label. The July event should visually seed the "Black" motif without having Enka announce the name.
+The archive contains earlier EduBeam/RF anomalies, unusual dreams, missing academic records and displacement-like experiences. E01 may use these as brief visual or narrative echoes, but should not dump the archive on new viewers.
 
-## Story rule
-Perception is evidence. Perception is not automatically explanation.
+## Character continuity
+
+Enka remains the founder and corporate manager of Koware Group. Most employees know him primarily through that corporate/IAPD identity.
+
+## E01 continuity boundary
+
+The pilot should preserve the July event and its consequences while avoiding a complete explanation of the later superhero arc.
+
+## Open questions
+
+- Why does the EduBeam affect Enka?
+- Is the phenomenon tracking him intentionally?
+- Why does disciplined awareness later resemble some of the perceptual effects?
+- How much of Enka's experience is external and how much is internal?
+- What will happen when the EduBeam returns?

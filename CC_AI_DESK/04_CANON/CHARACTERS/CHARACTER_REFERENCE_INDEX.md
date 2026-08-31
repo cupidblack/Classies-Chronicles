@@ -1,19 +1,17 @@
 # Character Reference Index
 
-## Single source of truth
+## Purpose
 
-For Cupid Black / Cupid Enka characteristics and attributes, use:
+This is the single navigation point for recurring character characteristics and identity rules.
 
-`CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md`
+## Primary
 
-All episode prompts, scripts and story notes should reference that file rather than maintaining competing character descriptions.
+- `CUPID_BLACK_CHARACTER_CANON.md` — Enka / Cu / Q / later Cupid Black identity, personality, ethics, power progression and corporate/street identity separation.
 
-## Canon rule
-If an episode needs a new characteristic:
-1. mark it `PROPOSED_NEW_CANON`;
-2. use it only as a working story element;
-3. update the master character canon after producer approval;
-4. record the canon version in the episode manifest.
+## Rule
 
-## Why this file exists
-This index prevents the same character attributes from being copied into multiple episode files and gradually drifting apart.
+Episode files should reference the central character canon instead of copying conflicting character attributes into local story notes.
+
+## E01 rule
+
+If a local episode file conflicts with the central character canon, the conflict must be flagged for producer review rather than silently resolved.
