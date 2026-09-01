@@ -1,25 +1,20 @@
 {
-  "episode": "S00E01",
-  "requested_window": {
-    "start": "2026-08-09",
-    "end": "2026-10-17"
-  },
-  "prepared_on": "2026-08-31",
-  "primary_locations": [
-    "Adenta",
-    "Singapore",
-    "Genting",
-    "Kuala Lumpur"
+  "episode_id": "S00E01",
+  "requested_window": {"start": "2026-08-09", "end": "2026-10-17"},
+  "research_cutoff": "2026-08-31",
+  "status": "PARTIAL_WINDOW_ONLY",
+  "future_period": "2026-09-01 through 2026-10-17",
+  "future_policy": "Do not fabricate. Re-run research when the dates become available.",
+  "primary_locations": ["Adenta", "Greater Accra", "Ghana", "West Africa", "Bugis, Singapore", "Singapore", "Genting, Malaysia", "Kuala Lumpur, Malaysia"],
+  "verified_thematic_candidates": [
+    {"date":"2026-08-10","location":"Ghana","topic":"GETFund and UNESCO partnership to build an AI-ready TVET workforce","source":"Graphic Online","use":"education/AI foundation theme"},
+    {"date":"2026-08-20","location":"Ghana","topic":"KNUST secures grant to strengthen AI education and research","source":"KNUST","use":"education/AI capacity theme"},
+    {"date":"2026-08-25","location":"Accra/Ghana","topic":"Africa AI Upskilling training programme launched at GCTU","source":"GCTU","use":"responsible AI education theme"},
+    {"date":"2026-08-27","location":"Ghana","topic":"Stakeholders call for policy to regulate AI use in education","source":"Onua Online","use":"governance/AI literacy theme"},
+    {"date":"2026-08-29","location":"Kumasi/Ghana","topic":"KNUST partners Google for Education to roll out Gemini tools to students and staff","source":"KNUST","use":"education/technology theme"},
+    {"date":"2026-08-17","location":"Genting Highlands","topic":"Police confirm robbery at a shopping centre; security checks temporarily affected traffic","source":"RTM","use":"local awareness only; never attribute the real incident to Cu"},
+    {"date":"2026-08-31","location":"Singapore","topic":"Singapore commits S$220 million over three years to drive fintech innovation","source":"Reuters","use":"technology/economic context"},
+    {"date":"2026-08-31","location":"Singapore","topic":"Developer ecosystem growth associated with AI-assisted coding and builder communities","source":"Business Insider","use":"technology/community context"}
   ],
-  "secondary_locations": [
-    "Greater Accra",
-    "Ghana",
-    "West Africa",
-    "Global"
-  ],
-  "status": "PARTIAL",
-  "future_window_policy": "No September/October 2026 headlines may be invented before they exist.",
-  "current_retrieval_note": "Use a fresh web/news retrieval immediately before publication to populate the requested date window.",
-  "episode_use": "News is optional for the Chronicle and must remain clearly separated from fictional events.",
-  "fictional_cross_reference_rule": "A real headline may inspire a fictional incident, but the programme must label the fictional connection as fiction."
+  "editorial_rule":"Real reporting is factual context. Chronicle interventions are fictional and must be labelled as such in production notes."
 }

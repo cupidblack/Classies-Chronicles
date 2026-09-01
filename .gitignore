@@ -1,49 +1,53 @@
-# Classies Chronicles — production media
-**/02_RAW_VIDEO/
-**/03_RAW_AUDIO/
-**/07_GENERATED_MEDIA/
-**/08_EDITED_MEDIA/*
-
-# Audio/video derivatives
-*.wav
-*.mp3
-*.mp4
-*.mov
-*.m4a
-
-# DAW / editor backups
-*.reapeaks
-*.rpp-bak
-**/04_PROJECT_FILES/REAPER/*.rpp-bak
-**/04_PROJECT_FILES/OBS/*.bak
-
-# Temporary participant / consent data
-participants_temp/
-consent_forms_unsigned/
-**/participants_temp/
-**/consent_forms_unsigned/
-
-# Unverified research
-research/temp_news/
-headlines_unverified.json
-
-# Secrets / local configuration
-.env
-*.env
-local.env
-**/secrets/
-**/local.env
-
-# OS/editor noise
+# OS / editor
 .DS_Store
 Thumbs.db
 *.swp
-*.tmp
-*.bak
+*.swo
+.vscode/
+.idea/
 
-# Chronicle / trailer WIP
-**/CHRONICLE-*.WIP.*
-**/TRAILER-*.WIP.*
-**/*ROUGH_MIX.*
+# Python / Node caches
+__pycache__/
+*.pyc
+node_modules/
+.npm/
+.cache/
 
-# Keep canonical source, metadata, approved scripts and QA documents in Git.
+# Local AI Desk runtime / derived indexes
+CC_AI_DESK/runtime/
+CC_AI_DESK/cache/
+CC_AI_DESK/indexes/
+CC_AI_DESK/catalog/
+CC_AI_DESK/logs/
+CC_AI_DESK/tmp/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Episode generated working data
+**/06_PRODUCTION/WORKING/
+**/07_MEDIA/RAW/
+**/07_MEDIA/PROXIES/
+**/07_MEDIA/CACHE/
+**/07_MEDIA/TEMP/
+
+# Secrets / local credentials
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Private participant harvests — NEVER commit
+**/PRIVATE_PARTICIPANTS/
+**/CONSENT_RESTRICTED/
+**/MEMBER_HARVEST/
+
+# Generated transcripts / indexes that are rebuildable
+*.index.json
+*.fts
+
+# Render outputs unless explicitly promoted to release
+**/RENDER_CACHE/
+**/EXPORTS/DRAFTS/

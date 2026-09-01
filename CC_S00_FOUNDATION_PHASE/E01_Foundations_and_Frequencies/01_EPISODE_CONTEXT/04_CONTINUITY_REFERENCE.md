@@ -1,36 +1,32 @@
-# S00E01 — Continuity Reference
+# Continuity Reference — S00E01
+
+## Authority order
+1. Approved Classies Chronicles archive.
+2. Reusable character/technology canon.
+3. Current episode context.
+4. Producer story notes.
+5. Working interpretation/speculation.
 
 ## Chapter 4 anchors
-
-The current Chapter 4 archive establishes that:
-
-- On 9 July 2026 Enka is in Bugis/Singapore preparing to leave.
+- Enka leaves his Bugis apartment in Singapore on Thursday 9 July 2026.
+- He is packing the last bags before eviction takes effect.
 - A humming sound and flickering lights precede the EduBeam event.
-- Enka recognizes the EduBeam.
-- After a strong exposure he materializes near a colleague's apartment.
-- He subsequently heads toward Genting.
-- In Genting he uses the nickname Cu / Q, short for Cupid.
-- He later moves into Kuala Lumpur street life after his funds diminish.
-- Chapter 4 continues through mid-October 2026 and ends with an accommodation opening through a Ghanaian High Commission / Global Hope Foundation connection.
+- He recognises the phenomenon as the EduBeam.
+- He subsequently materialises near a colleague's apartment in Singapore.
+- Later Chapter 4 material develops the Cu/Q identity in Kuala Lumpur.
+- Chapter 4 continues toward mid-October and later accommodation/community connections.
 
-These are archival anchors, not invitations to rewrite Chapter 4.
+## E01 boundary
+E01 reconstructs the 9 July event only. It does not retell the later Genting/Kuala Lumpur adventures except as archive flashes if required for continuity.
 
-## Earlier continuity
+## Retcon protection
+Do not establish in E01:
+- exact materialisation distance;
+- exact EduBeam intensity percentages;
+- exact satellite targeting accuracy;
+- mastered Alpha-state control in July;
+- public Cu/Cupid Black identity in July;
+- reliable telepathy, telekinesis, phasing or dimensional travel.
 
-The archive contains earlier EduBeam/RF anomalies, unusual dreams, missing academic records and displacement-like experiences. E01 may use these as brief visual or narrative echoes, but should not dump the archive on new viewers.
-
-## Character continuity
-
-Enka remains the founder and corporate manager of Koware Group. Most employees know him primarily through that corporate/IAPD identity.
-
-## E01 continuity boundary
-
-The pilot should preserve the July event and its consequences while avoiding a complete explanation of the later superhero arc.
-
-## Open questions
-
-- Why does the EduBeam affect Enka?
-- Is the phenomenon tracking him intentionally?
-- Why does disciplined awareness later resemble some of the perceptual effects?
-- How much of Enka's experience is external and how much is internal?
-- What will happen when the EduBeam returns?
+## Continuity rule
+Perception is evidence. Perception is not automatically explanation.

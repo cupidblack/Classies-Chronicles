@@ -1,20 +1,23 @@
-[0:00–0:05]
-SFX: LOW HUM.
+# The Signal Before the Story — 20-Second Trailer
+## Derived from the locked Chronicle; no new canon
+
+[LOW HUM]
 
 NARRATOR:
-On 9 July 2026, Enka heard a signal he already knew.
+“A strange frequency. A man who suddenly remembers two places at once.”
 
-[0:05–0:10]
+[CAR DOOR IMPACT]
+
 ENKA:
-I don't even know what is real anymore.
+“If science wants my attention, it could at least knock.”
 
-[0:10–0:15]
-AI DESK:
-Archival record confirmed. Cause unknown.
+[HUM RISE]
 
-[0:15–0:20]
-HOST:
-Then why is the signal back?
+NARRATOR:
+“Before Cupid Black became a name... there was a signal.”
+
+[ELECTRONIC PULSE]
 
 TITLE:
-CLASSIES CHRONICLES — FOUNDATIONS & FREQUENCIES
+CLASSIES CHRONICLES
+S00E01 — FOUNDATIONS & FREQUENCIES
